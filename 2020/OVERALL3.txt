@@ -1,0 +1,2996 @@
+0100026 : AFA IMA        
+0100044 :     IMA INA    
+0100079 :     IMA INA    
+0100143 : AFA IMA INA    
+0100144 :     IMA        
+0100172 :         INA    
+0100208 :     IMA INA    
+0100324 :     IMA INA    
+0100353 :     IMA INA    
+0100394 :     IMA        
+0100499 :     IMA        
+0100421 :         INA    
+0100617 : AFA IMA INA    
+0100673 :     IMA INA    
+0100736 : AFA IMA        
+0100790 : AFA IMA INA    
+0100785 :     IMA INA    
+0100822 :     IMA INA    
+0101131 :     IMA INA    
+0101148 :     IMA        
+0101174 :     IMA INA    
+0101290 : AFA IMA INA    
+0101321 : AFA IMA INA    
+0101369 :     IMA INA    
+0101378 :     IMA INA    
+0101428 :     IMA        
+0101479 :     IMA INA    
+0101487 :     IMA INA    
+0101526 :     IMA INA    
+0101550 : AFA IMA INA    
+0101611 :     IMA INA    
+0101822 : AFA IMA        
+0101943 :         INA    
+0102097 :     IMA INA    
+0102098 :     IMA INA    
+0102130 :         INA    
+0102147 :         INA    
+0102227 :     IMA        
+0102228 : AFA IMA INA    
+0102240 :         INA    
+0200108 :     IMA INA    
+0200124 :     IMA INA    
+0200155 :     IMA        
+0200157 :     IMA        
+0200167 :     IMA INA    
+0200299 :     IMA        
+0200303 :     IMA        
+0200376 :     IMA INA    
+0200433 :     IMA        
+0200453 :     IMA        
+0200468 : AFA IMA        
+0200721 :     IMA        
+0200741 : AFA IMA        
+0200769 :     IMA        
+0200821 :     IMA        
+0200840 : AFA IMA INA    
+0200855 :     IMA INA    
+0200864 : AFA IMA        
+0200957 : AFA IMA        
+0200870 :     IMA        
+0200983 : AFA IMA        
+0200900 :     IMA        
+0200919 :     IMA INA    
+0201033 :     IMA INA    
+0201125 :     IMA INA    
+0201148 : AFA IMA        
+0201173 :     IMA        
+0201242 :     IMA        
+0201279 :     IMA        
+0201316 : AFA IMA        
+0201335 :     IMA        
+0201348 :     IMA        
+0201395 :     IMA        
+0201435 :     IMA        
+0201470 :     IMA        
+0201521 :     IMA        
+0201528 :     IMA INA    
+0201541 : AFA IMA        
+0201543 :     IMA        
+0201602 :     IMA        
+0201621 : AFA IMA INA    
+0201627 :     IMA        
+0201638 :     IMA        
+0201673 :     IMA        
+0201680 :     IMA INA    
+0201682 :     IMA        
+0201706 : AFA IMA        
+0201715 :         INA    
+0201729 :     IMA        
+0201741 :     IMA        
+0201767 : AFA IMA        
+0201800 :     IMA        
+0201831 :     IMA        
+0201843 :     IMA        
+0201852 :     IMA        
+0201896 : AFA IMA        
+0201967 : AFA IMA INA    
+0201901 :     IMA        
+0201910 :     IMA        
+0201925 :     IMA        
+0201928 :     IMA        
+0202019 : AFA IMA        
+0202084 :     IMA        
+0202127 :     IMA INA    
+0202151 :     IMA        
+0202182 : AFA IMA INA    
+0202196 :     IMA        
+0202293 :     IMA        
+0202298 :     IMA        
+0202341 :     IMA        
+0202398 : AFA IMA        
+0202415 :     IMA INA    
+0202445 :     IMA INA    
+0202501 : AFA IMA INA    
+0202531 :     IMA        
+0202536 :     IMA        
+0202587 : AFA IMA        
+0202601 :     IMA        
+0202666 :     IMA        
+0202762 :         INA    
+0202779 :         INA    
+0202820 :     IMA        
+0202838 : AFA IMA        
+0202848 :     IMA        
+0202956 :     IMA        
+0202980 :     IMA        
+0202982 :     IMA INA    
+0203002 : AFA IMA INA    
+0203010 :     IMA        
+0203023 : AFA IMA        
+0203193 : AFA IMA        
+0203198 :     IMA        
+0203211 :     IMA INA    
+0203258 :     IMA        
+0203282 :     IMA INA    
+0203317 :     IMA        
+0203423 :     IMA        
+0203434 :     IMA        
+0203444 :         INA    
+0203455 :         INA    
+0203458 :     IMA        
+0203537 :     IMA        
+0203723 :     IMA        
+0203738 :     IMA        
+0203784 :     IMA        
+0203805 : AFA IMA INA    
+0203946 : AFA IMA INA    
+0203852 :     IMA INA    
+0203869 :     IMA        
+0203894 :     IMA        
+0203981 :     IMA        
+0204112 :     IMA        
+0204124 : AFA IMA INA    
+0300038 :         INA    
+0300078 :     IMA INA    
+0300120 :     IMA        
+0300184 : AFA IMA        
+0300304 :     IMA INA    
+0300308 :         INA    
+0300319 :     IMA INA    
+0300364 :     IMA INA    
+0300388 :         INA    
+0300402 :         INA    
+0300553 : AFA IMA INA    
+0300696 : AFA IMA        
+0300666 :         INA    
+0300702 :     IMA        
+0300758 :     IMA        
+0300787 :     IMA INA    
+0300790 :     IMA INA    
+0300794 :     IMA INA    
+0300872 :     IMA INA    
+0300878 :     IMA INA    
+0300936 :     IMA INA    
+0300956 :     IMA INA    
+0300961 :     IMA INA    
+0300987 :         INA    
+0301173 :     IMA        
+0301283 :     IMA INA    
+0301371 :     IMA        
+0301523 :     IMA INA    
+0301537 :     IMA        
+0301538 :     IMA INA    
+0301594 :         INA    
+0301615 :     IMA INA    
+0301660 :     IMA INA    
+0301731 : AFA IMA INA    
+0301910 : AFA IMA INA    
+0301767 :     IMA INA    
+0301870 :         INA    
+0301897 :     IMA        
+0301905 :     IMA INA    
+0302136 :     IMA INA    
+0302195 :     IMA INA    
+0302240 :     IMA INA    
+0302314 :     IMA INA    
+0302336 :     IMA INA    
+0302341 :     IMA        
+0302354 : AFA IMA INA    
+0302391 :     IMA        
+0302361 :         INA    
+0302451 :     IMA INA    
+0302516 :         INA    
+0302542 : AFA IMA INA    
+0302574 :     IMA INA    
+0302591 :         INA    
+0302625 : AFA IMA INA    
+0400031 :     IMA INA    
+0400044 : AFA IMA INA    
+0400058 :     IMA        
+0400060 : AFA IMA        
+0400063 :     IMA INA    
+0400111 :     IMA        
+0400212 : AFA IMA        
+0400259 : AFA IMA        
+0400404 :     IMA INA    
+0400428 :     IMA        
+0400448 :     IMA        
+0400503 :     IMA INA    
+0400530 : AFA IMA INA    
+0400581 :     IMA INA    
+0400587 :     IMA INA    
+0400607 :     IMA        
+0400614 :     IMA INA    
+0400763 :         INA    
+0400816 :     IMA        
+0400833 :     IMA        
+0400836 : AFA IMA INA    
+0400952 :     IMA        
+0400915 :         INA    
+0400957 :         INA    
+0401027 :     IMA        
+0401041 : AFA IMA INA    
+0401149 :     IMA INA    
+0401189 :     IMA INA    
+0401299 :     IMA INA    
+0401334 :     IMA INA    
+0401358 :     IMA INA    
+0401369 :     IMA INA    
+0401401 :     IMA        
+0401405 :     IMA        
+0401459 :     IMA INA    
+0401500 :     IMA        
+0401552 :     IMA INA    
+0401663 : AFA IMA INA    
+0401903 : AFA IMA INA    
+0401738 :     IMA        
+0401766 :     IMA INA    
+0401780 :     IMA        
+0401788 :     IMA INA    
+0401829 :     IMA INA    
+0401918 :     IMA INA    
+0401948 :     IMA        
+0402030 :     IMA        
+0402062 : AFA IMA INA    
+0402080 :     IMA INA    
+0402094 :         INA    
+0402191 : AFA IMA INA    
+0402155 :     IMA        
+0402164 :     IMA        
+0402178 :     IMA        
+0402209 :     IMA INA    
+0402276 :     IMA        
+0402320 :         INA    
+0402365 :     IMA        
+0402410 :     IMA        
+0402413 : AFA IMA        
+0402492 : AFA IMA INA    
+0402488 :     IMA        
+0402518 :     IMA        
+0402560 : AFA IMA INA    
+0402561 :     IMA        
+0402578 :     IMA        
+0402598 : AFA IMA        
+0402693 : AFA IMA INA    
+0402673 :     IMA INA    
+0402678 :     IMA        
+0402707 :     IMA INA    
+0402787 :         INA    
+0402802 :         INA    
+0402833 :     IMA INA    
+0402876 :     IMA INA    
+0402988 : AFA IMA INA    
+0402894 :     IMA INA    
+0402898 :     IMA INA    
+0403006 :     IMA INA    
+0403012 :     IMA INA    
+0403045 :     IMA INA    
+0403080 :     IMA INA    
+0403194 : AFA IMA        
+0403159 :     IMA        
+0403201 :     IMA        
+0403224 : AFA IMA        
+0403256 :         INA    
+0403289 :     IMA INA    
+0403344 :         INA    
+0403385 : AFA IMA        
+0403446 :     IMA        
+0403450 :     IMA        
+0403452 :     IMA INA    
+0403464 :     IMA        
+0403516 :     IMA        
+0403611 :         INA    
+0403708 :     IMA INA    
+0403714 :     IMA        
+0403729 :     IMA        
+0403731 :     IMA        
+0403733 :     IMA        
+0403752 :     IMA INA    
+0403776 :     IMA        
+0403785 :     IMA INA    
+0403786 : AFA IMA INA    
+0403813 : AFA IMA        
+0403860 :     IMA        
+0403923 :     IMA        
+0403968 :     IMA        
+0500070 :     IMA        
+0500100 :         INA    
+0500203 : AFA IMA        
+0500237 :     IMA        
+0500291 :     IMA INA    
+0500348 : AFA IMA        
+0500355 :     IMA INA    
+0500407 :         INA    
+0500432 :     IMA INA    
+0500498 :         INA    
+0500506 :     IMA INA    
+0500542 :     IMA        
+0500669 :     IMA        
+0500778 : AFA IMA INA    
+0500816 :     IMA INA    
+0500842 : AFA IMA        
+0500869 : AFA IMA INA    
+0500922 : AFA IMA INA    
+0500942 : AFA IMA INA    
+0500960 : AFA IMA INA    
+0500890 :     IMA INA    
+0500915 :     IMA INA    
+0500933 :     IMA        
+0500939 :     IMA INA    
+0500925 :         INA    
+0501002 :     IMA        
+0501058 :     IMA INA    
+0501093 :     IMA        
+0501193 :     IMA        
+0501202 :     IMA INA    
+0501245 : AFA IMA INA    
+0501249 :     IMA INA    
+0501268 :     IMA        
+0501280 :     IMA INA    
+0501309 :     IMA        
+0501342 :     IMA INA    
+0501426 :         INA    
+0501489 :         INA    
+0501502 :     IMA        
+0501526 :     IMA        
+0501601 :     IMA INA    
+0501717 :     IMA INA    
+0501729 : AFA IMA INA    
+0501758 :         INA    
+0501770 :     IMA INA    
+0501871 :     IMA        
+0501944 :     IMA INA    
+0501963 :     IMA INA    
+0501980 :     IMA        
+0502000 :     IMA        
+0502009 :     IMA INA    
+0502047 :     IMA        
+0502155 :     IMA        
+0502229 :     IMA        
+0502256 :     IMA INA    
+0502273 :     IMA INA    
+0502351 :     IMA INA    
+0502382 :     IMA INA    
+0502405 :     IMA        
+0502435 :     IMA INA    
+0502643 : AFA IMA        
+0502914 : AFA IMA INA    
+0502647 :     IMA INA    
+0502655 :     IMA INA    
+0502665 :         INA    
+0502684 :     IMA INA    
+0502710 :     IMA        
+0502846 :     IMA        
+0502877 :     IMA        
+0502909 :     IMA INA    
+0502924 :     IMA        
+0502953 :     IMA INA    
+0502978 :         INA    
+0503055 :         INA    
+0503104 :     IMA INA    
+0503134 : AFA IMA INA    
+0503180 :     IMA INA    
+0503190 :         INA    
+0503390 :     IMA        
+0503398 :         INA    
+0503447 :         INA    
+0503503 :     IMA INA    
+0503527 : AFA IMA INA    
+0503550 :         INA    
+0503555 : AFA IMA INA    
+0503632 :     IMA INA    
+0503655 :     IMA INA    
+0503749 :     IMA        
+0503898 : AFA IMA INA    
+0503942 : AFA IMA INA    
+0503946 :     IMA        
+0504003 :     IMA INA    
+0504027 :     IMA INA    
+0504034 :     IMA INA    
+0504035 : AFA IMA INA    
+0504036 :     IMA        
+0504089 : AFA IMA        
+0504137 :         INA    
+0504242 :     IMA        
+0504272 :     IMA INA    
+0504278 :     IMA INA    
+0504330 :     IMA        
+0504381 :         INA    
+0504385 :         INA    
+0504433 :     IMA INA    
+0504620 : AFA IMA INA    
+0504754 :     IMA        
+0504761 :     IMA        
+0504819 :     IMA INA    
+0504864 :     IMA INA    
+0504960 :     IMA INA    
+0504917 :         INA    
+0504955 :         INA    
+0505000 :     IMA        
+0505029 :     IMA        
+0505050 :         INA    
+0505072 :     IMA        
+0505212 :     IMA INA    
+0505263 :     IMA INA    
+0505391 : AFA IMA        
+0505334 :         INA    
+0505385 :     IMA        
+0505469 :     IMA INA    
+0505500 :     IMA        
+0505528 :     IMA INA    
+0505649 :         INA    
+0505794 :     IMA INA    
+0505791 :         INA    
+0505820 :     IMA INA    
+0505893 : AFA IMA INA    
+0505840 :     IMA        
+0505899 :     IMA INA    
+0505928 :     IMA INA    
+0506019 :     IMA INA    
+0506022 :     IMA INA    
+0506068 :     IMA        
+0506123 :     IMA        
+0506186 :         INA    
+0506219 :     IMA        
+0506237 :     IMA INA    
+0506336 :     IMA INA    
+0506379 : AFA IMA INA    
+0506415 :     IMA        
+0506475 :         INA    
+0506523 :     IMA INA    
+0506540 :     IMA INA    
+0506571 :     IMA INA    
+0506686 :         INA    
+0506723 :         INA    
+0506779 :     IMA        
+0506817 :     IMA        
+0600081 :     IMA INA    
+0600194 : AFA IMA        
+0600171 :     IMA INA    
+0600397 :     IMA INA    
+0600440 : AFA IMA        
+0600473 :     IMA        
+0600522 :     IMA INA    
+0600576 :     IMA INA    
+0600890 :     IMA INA    
+0600989 :     IMA        
+0601079 :     IMA INA    
+0601254 : AFA IMA INA    
+0601292 :         INA    
+0601417 : AFA IMA INA    
+0601424 :     IMA        
+0601460 :         INA    
+0601464 : AFA IMA INA    
+0601580 :     IMA        
+0601601 :     IMA        
+0601633 :         INA    
+0601663 :     IMA        
+0601675 :     IMA INA    
+0601799 :     IMA        
+0601954 :     IMA        
+0601990 :     IMA INA    
+0601717 :         INA    
+0602173 :     IMA INA    
+0602377 : AFA IMA        
+0602382 :     IMA        
+0602456 :     IMA INA    
+0602570 :     IMA INA    
+0602571 :     IMA        
+0602619 :     IMA INA    
+0602736 :     IMA        
+0602741 :     IMA INA    
+0602742 : AFA IMA        
+0602770 :         INA    
+0602829 :     IMA INA    
+0602899 :     IMA INA    
+0602872 :         INA    
+0603024 :     IMA        
+0603172 :     IMA        
+0603176 : AFA IMA INA    
+0603194 :     IMA        
+0700068 :     IMA        
+0700153 :     IMA        
+0700299 :     IMA        
+0700351 :     IMA        
+0700402 :     IMA INA    
+0700435 :     IMA        
+0700437 :     IMA        
+0700489 :     IMA INA    
+0700545 :     IMA        
+0700959 : AFA IMA INA    
+0700745 :     IMA        
+0700759 :     IMA        
+0700765 :         INA    
+0700809 :     IMA        
+0700920 :     IMA        
+0700937 :     IMA INA    
+0700992 :     IMA        
+0701028 :     IMA INA    
+0701031 : AFA IMA INA    
+0701111 :     IMA        
+0701139 : AFA IMA        
+0701145 : AFA IMA        
+0701295 :     IMA        
+0701438 :     IMA        
+0701466 : AFA IMA        
+0701553 :     IMA        
+0701603 : AFA IMA INA    
+0701608 :     IMA INA    
+0701621 :     IMA        
+0701702 :     IMA        
+0701740 : AFA IMA        
+0701789 :     IMA INA    
+0701823 :     IMA        
+0800013 :         INA    
+0800016 :         INA    
+0800023 :     IMA        
+0800034 :     IMA INA    
+0800056 :     IMA        
+0800058 : AFA IMA        
+0800119 :     IMA        
+0800133 : AFA IMA INA    
+0800136 : AFA IMA        
+0800141 :     IMA        
+0800167 :     IMA        
+0800172 :     IMA        
+0800186 :     IMA        
+0800190 :     IMA INA    
+0800223 :     IMA INA    
+0800226 :     IMA        
+0800305 :     IMA        
+0800344 :     IMA        
+0800372 :     IMA        
+0800395 :     IMA INA    
+0800405 :     IMA INA    
+0800435 : AFA IMA        
+0800437 : AFA IMA        
+0800470 :     IMA        
+0800527 :         INA    
+0800531 :     IMA INA    
+0800559 :     IMA        
+0800568 : AFA IMA        
+0800576 :     IMA        
+0800622 :     IMA        
+0800665 : AFA IMA INA    
+0800666 :     IMA        
+0800686 :     IMA        
+0800710 :     IMA        
+0800724 :     IMA        
+0800752 :     IMA        
+0800777 :     IMA INA    
+0800783 :     IMA INA    
+0800798 :     IMA        
+0800813 :     IMA        
+0800823 :     IMA        
+0800827 : AFA IMA        
+0800833 :     IMA        
+0800847 : AFA IMA INA    
+0800907 : AFA IMA INA    
+0800922 : AFA IMA        
+0800936 : AFA IMA INA    
+0800952 : AFA IMA INA    
+0800960 : AFA IMA        
+0800883 :     IMA        
+0800886 :     IMA INA    
+0800887 :     IMA INA    
+0800929 :     IMA        
+0800939 :     IMA INA    
+0800950 :     IMA INA    
+0800961 :     IMA        
+0800996 :     IMA INA    
+0801010 :     IMA        
+0801022 : AFA IMA        
+0801025 :     IMA INA    
+0801026 :     IMA INA    
+0801050 :     IMA INA    
+0801086 :     IMA        
+0801089 :     IMA INA    
+0801093 :     IMA        
+0801117 :     IMA        
+0801128 : AFA IMA        
+0801149 : AFA IMA INA    
+0801157 :     IMA        
+0801167 :     IMA        
+0801183 :     IMA        
+0801251 :     IMA        
+0801295 :     IMA        
+0801308 :     IMA        
+0801311 :     IMA        
+0801313 :     IMA        
+0801324 : AFA IMA        
+0801356 :     IMA        
+0801371 : AFA IMA INA    
+0801410 : AFA IMA INA    
+0801433 :     IMA INA    
+0801440 : AFA IMA INA    
+0801452 :     IMA        
+0801463 :     IMA        
+0801500 :     IMA        
+0801584 :     IMA        
+0801598 :         INA    
+0801617 :     IMA INA    
+0801622 :     IMA        
+0801635 :     IMA        
+0801670 :     IMA INA    
+0801689 :     IMA        
+0801715 :     IMA        
+0801762 :     IMA        
+0801770 :         INA    
+0801780 : AFA IMA        
+0801782 :     IMA        
+0801810 :     IMA        
+0801813 :     IMA INA    
+0801831 :     IMA        
+0801848 :     IMA        
+0801890 :     IMA        
+0801912 :     IMA        
+0801920 :     IMA        
+0801990 :     IMA        
+0802013 : AFA IMA        
+0802023 :         INA    
+0802030 :     IMA        
+0802034 :     IMA        
+0802055 :     IMA INA    
+0802115 :     IMA        
+0802116 :         INA    
+0802137 :     IMA INA    
+0802147 :     IMA        
+0802162 :     IMA INA    
+0802165 :     IMA INA    
+0802176 : AFA IMA        
+0802179 :     IMA        
+0802220 : AFA IMA        
+0802223 : AFA IMA        
+0802230 :     IMA INA    
+0802236 :     IMA INA    
+0802258 :     IMA        
+0802306 : AFA IMA        
+0802375 : AFA IMA        
+0802436 :     IMA        
+0802467 :     IMA INA    
+0802521 : AFA IMA INA    
+0802527 :     IMA        
+0802570 :     IMA        
+0802572 :     IMA INA    
+0802628 :     IMA        
+0802633 :     IMA INA    
+0802638 :     IMA        
+0802671 : AFA IMA INA    
+0802726 : AFA IMA        
+0802758 :     IMA        
+0802765 :     IMA        
+0802842 :     IMA        
+0802846 : AFA IMA INA    
+0802855 : AFA IMA        
+0802896 : AFA IMA        
+0802943 :     IMA INA    
+0802960 :     IMA        
+0803000 :     IMA        
+0803002 :     IMA        
+0803022 :         INA    
+0803025 :         INA    
+0803027 :     IMA        
+0803041 : AFA IMA        
+0803054 : AFA IMA INA    
+0803090 : AFA IMA        
+0803061 :     IMA        
+0803074 :     IMA        
+0803114 :     IMA        
+0803122 :     IMA        
+0803126 :     IMA INA    
+0803144 :     IMA        
+0803151 :     IMA        
+0803186 :     IMA        
+0803207 :     IMA        
+0803282 :         INA    
+0803288 :     IMA        
+0803335 : AFA IMA        
+0803426 : AFA IMA INA    
+0803481 : AFA IMA        
+0803492 :     IMA        
+0803508 :     IMA        
+0803510 :     IMA        
+0803542 :     IMA        
+0803547 :     IMA INA    
+0803551 : AFA IMA        
+0803564 :     IMA INA    
+0803604 :     IMA        
+0803621 : AFA IMA        
+0803641 :     IMA        
+0803709 :         INA    
+0803729 :     IMA        
+0803737 :     IMA        
+0803740 : AFA IMA        
+0803776 :     IMA        
+0803893 : AFA IMA        
+0803861 :     IMA        
+0803896 : AFA IMA        
+0803943 : AFA IMA INA    
+0803960 : AFA IMA        
+0803877 :     IMA        
+0803936 :     IMA        
+0803961 :     IMA INA    
+0803968 :     IMA INA    
+0803994 :     IMA        
+0803997 :     IMA INA    
+0803953 :         INA    
+0804006 : AFA IMA        
+0804034 : AFA IMA INA    
+0804046 :     IMA        
+0804056 : AFA IMA        
+0804096 :     IMA        
+0804100 :     IMA INA    
+0804124 :     IMA        
+0804138 :     IMA        
+0804144 :     IMA        
+0804145 :     IMA INA    
+0804171 : AFA IMA INA    
+0804178 :     IMA        
+0804215 :     IMA INA    
+0804259 : AFA IMA        
+0804282 :     IMA        
+0804286 :     IMA        
+0804318 :     IMA        
+0804321 :         INA    
+0804328 :     IMA        
+0804331 :     IMA        
+0804335 :     IMA INA    
+0804391 :     IMA        
+0804402 :     IMA        
+0804420 :     IMA        
+0804439 :     IMA INA    
+0804457 :         INA    
+0804458 :     IMA INA    
+0804470 :     IMA        
+0804506 :     IMA        
+0804592 :     IMA INA    
+0804529 :         INA    
+0804600 : AFA IMA        
+0804645 :     IMA        
+0804679 :     IMA        
+0804685 :     IMA        
+0804721 :     IMA INA    
+0804746 :     IMA        
+0804755 :     IMA        
+0804782 :     IMA        
+0804811 :         INA    
+0804812 : AFA IMA        
+0804881 :     IMA        
+0804964 :     IMA        
+0804908 :         INA    
+0805031 :     IMA INA    
+0805039 :     IMA        
+0805085 :     IMA        
+0805096 :     IMA INA    
+0805103 :     IMA        
+0805192 : AFA IMA INA    
+0805130 :     IMA INA    
+0805195 :     IMA        
+0805281 : AFA IMA        
+0805299 :     IMA INA    
+0805315 :     IMA        
+0805318 :     IMA INA    
+0805327 :     IMA        
+0805344 :     IMA        
+0805369 :     IMA        
+0805373 :     IMA        
+0805391 :     IMA        
+0805383 :         INA    
+0805490 : AFA IMA INA    
+0805403 :     IMA INA    
+0805434 :     IMA        
+0805442 :     IMA INA    
+0805450 :     IMA        
+0805498 : AFA IMA INA    
+0805511 : AFA IMA        
+0805530 :     IMA INA    
+0805542 :     IMA INA    
+0805546 :     IMA        
+0805555 : AFA IMA        
+0805617 :     IMA INA    
+0805633 : AFA IMA        
+0805644 :     IMA        
+0805657 :     IMA        
+0805665 :     IMA        
+0805694 :     IMA        
+0805696 :     IMA        
+0805705 :     IMA INA    
+0805720 : AFA IMA        
+0805724 :     IMA INA    
+0805747 : AFA IMA INA    
+0805749 : AFA IMA        
+0805926 : AFA IMA INA    
+0805942 : AFA IMA        
+0805995 : AFA IMA INA    
+0805782 :     IMA        
+0805789 :     IMA        
+0805813 :     IMA        
+0805847 :     IMA INA    
+0805940 :     IMA        
+0806063 :     IMA        
+0806158 : AFA IMA INA    
+0806199 : AFA IMA        
+0806208 :     IMA        
+0806210 : AFA IMA INA    
+0806228 :         INA    
+0806233 :     IMA INA    
+0806251 :     IMA        
+0806272 : AFA IMA        
+0806287 :     IMA INA    
+0806294 :     IMA        
+0806297 :     IMA INA    
+0806303 :     IMA        
+0806308 :     IMA        
+0806323 :     IMA        
+0806328 :     IMA        
+0806352 :     IMA INA    
+0806358 :     IMA        
+0806375 :     IMA INA    
+0806413 :         INA    
+0806426 : AFA IMA        
+0806462 : AFA IMA        
+0806512 :     IMA        
+0806549 :     IMA        
+0806561 :         INA    
+0806645 :     IMA        
+0806659 :     IMA INA    
+0806665 :     IMA        
+0806683 :     IMA INA    
+0806689 :     IMA        
+0806701 :     IMA        
+0806757 :     IMA INA    
+0806784 :     IMA        
+0806809 : AFA IMA INA    
+0806965 : AFA IMA        
+0806811 :     IMA        
+0806825 :     IMA        
+0806839 :     IMA        
+0806840 :     IMA        
+0806843 :     IMA        
+0806854 :     IMA INA    
+0806864 :     IMA        
+0806981 : AFA IMA INA    
+0806894 :     IMA        
+0806910 :     IMA        
+0806911 :     IMA INA    
+0806938 :     IMA        
+0806942 :     IMA INA    
+0806980 :         INA    
+0807001 :     IMA        
+0807024 :     IMA        
+0807028 :     IMA        
+0807030 :     IMA        
+0807037 : AFA IMA        
+0807066 :     IMA INA    
+0807106 : AFA IMA INA    
+0807112 :     IMA        
+0807130 :     IMA INA    
+0807131 :     IMA        
+0807152 :     IMA INA    
+0807165 :     IMA INA    
+0807184 :     IMA INA    
+0807185 :     IMA        
+0807188 :     IMA        
+0807219 :     IMA        
+0807265 :     IMA INA    
+0807281 : AFA IMA        
+0807342 :     IMA        
+0807346 : AFA IMA        
+0807378 :     IMA        
+0807388 :     IMA        
+0807400 : AFA IMA        
+0807499 :     IMA        
+0807567 :     IMA        
+0807573 :     IMA        
+0807592 :     IMA        
+0807577 :         INA    
+0807601 :     IMA        
+0807605 :     IMA INA    
+0807618 :     IMA        
+0807666 : AFA            
+0807676 : AFA IMA        
+0807680 : AFA IMA        
+0807685 :     IMA        
+0807722 :     IMA        
+0807728 : AFA IMA        
+0807733 :     IMA        
+0807737 : AFA IMA        
+0807739 :     IMA        
+0807743 :     IMA        
+0807800 :         INA    
+0807824 :         INA    
+0807835 :     IMA        
+0807848 : AFA IMA        
+0807955 :     IMA INA    
+0807978 :     IMA        
+0807987 :     IMA        
+0808017 :     IMA        
+0808044 :     IMA        
+0808073 :     IMA        
+0808082 :     IMA        
+0808112 : AFA IMA        
+0808171 :         INA    
+0808223 :     IMA        
+0808232 :         INA    
+0808243 :     IMA        
+0808255 :     IMA        
+0808258 :     IMA        
+0808265 :     IMA        
+0808287 :     IMA        
+0808303 :         INA    
+0808348 :     IMA        
+0808359 :     IMA INA    
+0808366 :     IMA        
+0808375 : AFA IMA        
+0808431 :     IMA INA    
+0808439 :     IMA        
+0808513 :     IMA        
+0808562 :     IMA INA    
+0808569 :     IMA INA    
+0808573 : AFA IMA        
+0808581 :     IMA        
+0808599 :     IMA        
+0808615 : AFA IMA        
+0808900 : AFA IMA        
+0809050 : AFA IMA        
+0809281 : AFA IMA        
+0809388 : AFA IMA        
+0809402 : AFA IMA        
+0809443 : AFA IMA INA    
+0809795 : AFA            
+0808621 :     IMA        
+0808642 :         INA    
+0808668 :     IMA        
+0808671 :     IMA        
+0808730 :     IMA        
+0808785 :         INA    
+0809819 : AFA            
+0809948 : AFA IMA INA    
+0809962 : AFA IMA        
+0808812 :     IMA        
+0808813 :     IMA        
+0808835 :     IMA        
+0808859 :     IMA        
+0808867 :     IMA INA    
+0808886 :     IMA        
+0808956 :     IMA        
+0808970 :     IMA        
+0808994 :     IMA INA    
+0809000 :     IMA        
+0809025 :     IMA        
+0809030 :     IMA        
+0809052 :     IMA        
+0809075 :     IMA        
+0809122 :     IMA INA    
+0809153 :     IMA        
+0809186 :     IMA        
+0809205 :     IMA        
+0809255 :     IMA INA    
+0809285 :     IMA        
+0809341 :     IMA INA    
+0809360 :     IMA        
+0809407 :     IMA        
+0809413 :     IMA        
+0809423 :     IMA        
+0809478 :     IMA        
+0809536 :     IMA        
+0809553 :     IMA        
+0809604 :     IMA        
+0809638 :     IMA INA    
+0809648 :     IMA INA    
+0809983 :     IMA        
+0809225 :         INA    
+0809246 :         INA    
+0809489 :         INA    
+0809611 :         INA    
+0809681 :         INA    
+0809742 :         INA    
+0810020 :         INA    
+0810022 : AFA IMA INA    
+0810038 :     IMA INA    
+0810043 :     IMA        
+0810047 :     IMA        
+0810090 :     IMA INA    
+0810111 :     IMA        
+0810127 :     IMA        
+0810160 :     IMA INA    
+0810173 : AFA IMA        
+0810203 :     IMA        
+0810217 :     IMA        
+0810232 :     IMA        
+0810247 : AFA IMA        
+0810251 :     IMA        
+0810256 : AFA IMA INA    
+0810363 :     IMA INA    
+0810436 :     IMA        
+0810492 :     IMA        
+0810514 : AFA IMA        
+0810593 : AFA IMA        
+0810583 :     IMA        
+0810596 :     IMA INA    
+0810620 :     IMA        
+0810626 :     IMA        
+0810635 :         INA    
+0810640 :     IMA        
+0810645 :     IMA INA    
+0810659 : AFA IMA        
+0810667 :     IMA INA    
+0810671 : AFA IMA        
+0810676 :         INA    
+0810711 :     IMA        
+0810719 :     IMA        
+0810807 :     IMA INA    
+0810827 : AFA IMA        
+0810852 :     IMA        
+0810854 :     IMA        
+0810863 :     IMA        
+0810864 :     IMA        
+0810867 :     IMA INA    
+0810881 :     IMA        
+0810911 :     IMA INA    
+0810917 :     IMA        
+0810955 :         INA    
+0811005 :     IMA        
+0811027 : AFA IMA        
+0811044 :     IMA        
+0811045 :         INA    
+0811080 : AFA IMA        
+0811092 : AFA IMA        
+0811135 :     IMA        
+0811160 : AFA IMA INA    
+0811161 :     IMA        
+0811218 :     IMA INA    
+0811226 : AFA IMA INA    
+0811237 :     IMA        
+0811240 :     IMA        
+0811244 :     IMA        
+0811253 :     IMA        
+0811302 : AFA IMA        
+0811316 :     IMA        
+0811341 :     IMA        
+0811352 : AFA IMA        
+0811435 :     IMA        
+0811460 :     IMA        
+0811467 :     IMA        
+0811506 :     IMA        
+0811526 : AFA IMA INA    
+0811558 :     IMA        
+0811564 :     IMA        
+0811586 : AFA IMA        
+0811602 :     IMA INA    
+0811638 :     IMA INA    
+0811643 : AFA IMA        
+0811651 :     IMA        
+0811661 :     IMA INA    
+0811668 :     IMA        
+0811723 :     IMA        
+0811788 : AFA IMA INA    
+0811827 :     IMA        
+0811837 :     IMA INA    
+0811838 : AFA IMA        
+0811854 :     IMA        
+0811869 : AFA IMA        
+0811911 : AFA IMA        
+0811927 : AFA IMA        
+0811894 :     IMA INA    
+0811982 :     IMA INA    
+0811983 :     IMA INA    
+0811922 :         INA    
+0811963 :         INA    
+0812035 :     IMA INA    
+0812042 : AFA IMA        
+0812064 :     IMA INA    
+0812075 :     IMA        
+0812095 :     IMA        
+0812098 :     IMA        
+0812088 :         INA    
+0812125 :     IMA INA    
+0812127 :     IMA        
+0812149 :     IMA        
+0812159 :     IMA        
+0812169 :     IMA        
+0812200 :     IMA        
+0812205 : AFA IMA        
+0812207 :     IMA        
+0812223 :     IMA        
+0812236 :     IMA        
+0812239 :     IMA        
+0812277 :     IMA        
+0812281 :     IMA INA    
+0812358 :     IMA INA    
+0812400 :     IMA        
+0812427 :     IMA        
+0812434 :     IMA        
+0812501 :     IMA INA    
+0812517 :     IMA        
+0812611 :         INA    
+0812623 :     IMA INA    
+0812638 :     IMA INA    
+0812657 :     IMA        
+0812687 :     IMA        
+0812706 : AFA IMA        
+0812710 :     IMA        
+0812727 :     IMA        
+0812744 :     IMA        
+0812752 :     IMA        
+0812813 :         INA    
+0812836 :     IMA        
+0812842 :     IMA        
+0812867 : AFA IMA        
+0812875 :     IMA        
+0812909 :     IMA        
+0812976 :     IMA INA    
+0813080 :     IMA        
+0813102 :     IMA        
+0813140 :     IMA        
+0813144 :     IMA INA    
+0813179 :     IMA        
+0813185 : AFA IMA INA    
+0813220 :     IMA        
+0813237 : AFA IMA        
+0813240 :     IMA INA    
+0813248 :     IMA        
+0813307 : AFA IMA        
+0813333 :     IMA        
+0813336 :     IMA INA    
+0813340 : AFA IMA        
+0813346 :     IMA        
+0813353 :     IMA        
+0813361 :     IMA INA    
+0813394 :         INA    
+0813412 :     IMA INA    
+0813429 :         INA    
+0813433 :     IMA        
+0813445 :     IMA        
+0813447 : AFA IMA        
+0813473 :     IMA INA    
+0813500 :     IMA        
+0813517 :     IMA        
+0813520 :         INA    
+0813536 :         INA    
+0813579 :         INA    
+0813584 :     IMA        
+0813608 : AFA IMA        
+0813733 :     IMA        
+0813758 :     IMA        
+0813798 : AFA IMA        
+0813809 : AFA IMA        
+0813826 : AFA IMA        
+0813839 :     IMA        
+0813851 : AFA IMA        
+0813858 :     IMA INA    
+0813863 :         INA    
+0813872 : AFA IMA INA    
+0813896 :     IMA        
+0813913 :     IMA INA    
+0813931 :     IMA        
+0813969 :     IMA        
+0813980 :     IMA        
+0813982 :     IMA        
+0813990 :     IMA        
+0813995 :     IMA INA    
+0813892 :         INA    
+0813947 :         INA    
+0814004 :     IMA        
+0814011 :     IMA INA    
+0814014 :     IMA        
+0814060 :     IMA INA    
+0814073 : AFA IMA INA    
+0814076 : AFA IMA        
+0814192 : AFA IMA        
+0814149 :     IMA        
+0814190 :     IMA        
+0814146 :         INA    
+0814151 :         INA    
+0814238 :         INA    
+0814257 :     IMA        
+0814269 :     IMA INA    
+0814282 :     IMA        
+0814283 : AFA IMA INA    
+0814297 :     IMA        
+0814337 :     IMA INA    
+0814405 :         INA    
+0814491 : AFA IMA        
+0814411 :         INA    
+0814437 :     IMA INA    
+0814453 :     IMA        
+0814550 :     IMA INA    
+0814555 :     IMA        
+0814598 :     IMA INA    
+0814628 : AFA IMA        
+0814643 : AFA IMA INA    
+0814651 : AFA IMA INA    
+0814707 :     IMA        
+0814719 :     IMA        
+0814755 :     IMA        
+0814762 : AFA IMA        
+0814808 :     IMA        
+0814821 :     IMA        
+0814836 :     IMA        
+0814841 :     IMA INA    
+0814859 : AFA IMA        
+0814885 :     IMA INA    
+0814896 :     IMA        
+0814900 :     IMA        
+0814927 :     IMA        
+0814930 :     IMA        
+0814937 :     IMA        
+0814978 :     IMA        
+0814983 :     IMA        
+0814938 :         INA    
+0815017 :     IMA        
+0815051 :     IMA        
+0815060 :     IMA INA    
+0815078 :         INA    
+0815134 :     IMA        
+0815148 : AFA IMA        
+0815163 :     IMA        
+0815188 :     IMA        
+0815204 :     IMA        
+0815257 :     IMA        
+0815280 :     IMA        
+0815285 :     IMA        
+0815317 :         INA    
+0815376 : AFA IMA        
+0815400 : AFA IMA INA    
+0815424 :     IMA        
+0815442 :     IMA        
+0815608 :     IMA        
+0815659 :     IMA INA    
+0815657 :         INA    
+0815669 :     IMA        
+0815712 : AFA IMA        
+0815716 : AFA IMA        
+0815761 :     IMA INA    
+0815771 :     IMA INA    
+0815800 :     IMA        
+0815801 : AFA IMA INA    
+0815828 :     IMA        
+0815845 :     IMA INA    
+0815846 : AFA            
+0815848 :     IMA        
+0815851 :     IMA INA    
+0815857 :     IMA        
+0815925 :     IMA INA    
+0815959 :     IMA        
+0815972 :     IMA        
+0815990 :     IMA        
+0815919 :         INA    
+0816023 :     IMA INA    
+0816052 :     IMA        
+0816093 :     IMA        
+0816102 :     IMA        
+0816110 :         INA    
+0816179 : AFA IMA        
+0816196 :     IMA        
+0816208 : AFA IMA        
+0816290 : AFA IMA        
+0816251 :     IMA        
+0816291 :     IMA        
+0816383 :     IMA        
+0816389 :     IMA        
+0816434 :     IMA        
+0816471 :     IMA        
+0816508 : AFA IMA        
+0816528 : AFA IMA        
+0816567 :     IMA        
+0816591 :     IMA        
+0816603 :     IMA        
+0816606 :     IMA        
+0816628 :         INA    
+0816648 : AFA IMA        
+0816692 : AFA IMA INA    
+0816665 :         INA    
+0816721 :     IMA        
+0816722 :     IMA INA    
+0816974 : AFA IMA        
+0816999 : AFA IMA        
+0816791 :     IMA        
+0816855 :     IMA        
+0816872 :     IMA        
+0816883 :     IMA        
+0816901 :     IMA        
+0816907 :     IMA        
+0816945 :     IMA        
+0816970 :     IMA        
+0816976 :     IMA        
+0817034 :     IMA        
+0817059 :     IMA        
+0817081 : AFA IMA INA    
+0817084 :     IMA        
+0817095 :     IMA        
+0817106 :     IMA        
+0817126 :         INA    
+0817134 :     IMA        
+0817155 :         INA    
+0817164 :     IMA        
+0817173 :     IMA        
+0817188 :     IMA        
+0817290 : AFA IMA        
+0817223 :     IMA        
+0817236 :     IMA        
+0817331 :     IMA INA    
+0817338 :     IMA        
+0817343 :     IMA        
+0817350 :     IMA        
+0817356 :     IMA        
+0817363 : AFA IMA        
+0817367 :     IMA        
+0817382 :     IMA        
+0817383 :     IMA        
+0817490 : AFA IMA        
+0817430 :     IMA        
+0817465 :     IMA INA    
+0817482 :     IMA        
+0817493 :     IMA        
+0817501 :         INA    
+0817507 :     IMA        
+0817509 :         INA    
+0817516 : AFA IMA        
+0817518 :     IMA INA    
+0817525 : AFA IMA        
+0817538 :         INA    
+0817549 :     IMA        
+0817602 : AFA IMA        
+0817640 : AFA IMA        
+0817663 :     IMA        
+0817751 : AFA IMA INA    
+0817783 :     IMA        
+0817815 : AFA IMA        
+0817915 : AFA IMA INA    
+0817819 :     IMA        
+0817835 :     IMA        
+0817837 :         INA    
+0817875 :     IMA        
+0817900 :     IMA        
+0817910 :     IMA        
+0817946 :     IMA INA    
+0817954 :     IMA INA    
+0817959 :     IMA        
+0817903 :         INA    
+0817970 :         INA    
+0818092 :     IMA        
+0818104 :     IMA        
+0818154 :     IMA        
+0818183 :         INA    
+0818217 :     IMA INA    
+0818218 :     IMA        
+0818233 :     IMA        
+0818246 : AFA IMA        
+0818262 :     IMA        
+0818335 :     IMA        
+0818371 :         INA    
+0818377 :     IMA        
+0818499 : AFA IMA        
+0818418 :     IMA INA    
+0818488 :     IMA INA    
+0818495 :     IMA INA    
+0818498 :         INA    
+0818502 :     IMA        
+0818513 :         INA    
+0818555 :     IMA INA    
+0818558 :     IMA        
+0818576 :     IMA        
+0818613 :     IMA INA    
+0818624 :     IMA INA    
+0818633 :     IMA INA    
+0818681 : AFA IMA INA    
+0818696 :     IMA        
+0818699 :         INA    
+0818700 : AFA IMA        
+0818711 : AFA IMA        
+0818724 :     IMA        
+0818733 :     IMA        
+0818750 :     IMA INA    
+0818756 :     IMA INA    
+0818801 :     IMA INA    
+0818803 : AFA IMA INA    
+0818804 :         INA    
+0818807 : AFA IMA        
+0818901 : AFA IMA INA    
+0818929 : AFA IMA        
+0819303 : AFA IMA        
+0819328 : AFA IMA        
+0819473 : AFA IMA INA    
+0819517 : AFA IMA INA    
+0819536 : AFA IMA        
+0819741 : AFA IMA        
+0819748 : AFA IMA INA    
+0819780 : AFA IMA INA    
+0818843 :     IMA        
+0819848 : AFA IMA INA    
+0819929 : AFA            
+0818878 :     IMA        
+0818893 :     IMA INA    
+0818899 :     IMA        
+0818921 :     IMA        
+0818922 :     IMA INA    
+0819010 :     IMA INA    
+0819039 :     IMA        
+0819043 :     IMA INA    
+0819057 :     IMA        
+0819084 :     IMA        
+0819107 :     IMA        
+0819176 :     IMA        
+0819179 :     IMA        
+0819192 :     IMA        
+0819218 :     IMA        
+0819277 :     IMA        
+0819435 :     IMA        
+0819457 :     IMA        
+0819474 :     IMA INA    
+0819479 :     IMA        
+0819495 :     IMA INA    
+0819524 :     IMA INA    
+0819580 :     IMA        
+0819662 :     IMA INA    
+0819665 :     IMA        
+0819836 :     IMA        
+0819840 :     IMA INA    
+0819860 :     IMA        
+0819888 :     IMA        
+0819927 :     IMA        
+0819944 :     IMA INA    
+0819950 :     IMA        
+0819116 :         INA    
+0819935 :         INA    
+0820030 :     IMA        
+0820031 :     IMA INA    
+0820045 :     IMA INA    
+0820072 :     IMA INA    
+0820079 :     IMA        
+0820099 :     IMA        
+0820102 :     IMA        
+0820128 :     IMA        
+0820135 :     IMA        
+0820163 :     IMA INA    
+0820175 : AFA IMA INA    
+0820182 :     IMA INA    
+0820202 :     IMA INA    
+0820205 :     IMA INA    
+0820215 :     IMA        
+0820225 :     IMA        
+0820233 :     IMA        
+0820240 :     IMA        
+0820271 :     IMA        
+0820285 :         INA    
+0820339 :     IMA        
+0820382 :     IMA        
+0820383 :     IMA INA    
+0820427 :     IMA        
+0820443 :     IMA        
+0820479 :         INA    
+0820546 :     IMA        
+0820549 :     IMA        
+0820566 :     IMA        
+0820584 : AFA IMA INA    
+0820605 :     IMA        
+0820645 :     IMA        
+0820675 :     IMA INA    
+0820694 :     IMA        
+0820699 :     IMA        
+0820709 : AFA IMA INA    
+0820769 :     IMA        
+0820776 :     IMA INA    
+0820798 :     IMA        
+0820818 :     IMA        
+0820825 :     IMA INA    
+0820832 :     IMA        
+0820867 : AFA IMA INA    
+0820997 : AFA IMA        
+0820883 :     IMA INA    
+0820898 :     IMA        
+0820927 :     IMA        
+0820944 :     IMA INA    
+0820953 :     IMA        
+0820956 :     IMA        
+0821029 : AFA IMA INA    
+0821027 :     IMA        
+0821063 :     IMA INA    
+0821072 :     IMA INA    
+0821074 :     IMA        
+0821099 :     IMA        
+0821128 :     IMA        
+0821144 :     IMA        
+0821201 : AFA IMA        
+0821230 :     IMA        
+0821247 : AFA IMA        
+0821274 : AFA IMA INA    
+0821278 : AFA IMA        
+0821283 :     IMA        
+0821319 :     IMA        
+0821340 : AFA IMA        
+0821344 :     IMA        
+0821350 :     IMA INA    
+0821430 : AFA IMA        
+0821445 :     IMA        
+0821478 :     IMA        
+0821486 : AFA IMA        
+0821487 :     IMA        
+0821494 :     IMA        
+0821520 :     IMA        
+0821521 :     IMA        
+0821550 :     IMA INA    
+0821564 :     IMA        
+0821580 :     IMA        
+0821587 :     IMA        
+0821613 :     IMA        
+0821642 : AFA IMA        
+0821646 :     IMA        
+0821651 :     IMA INA    
+0821655 :     IMA        
+0821675 :     IMA        
+0821680 :     IMA        
+0821742 :         INA    
+0821760 :     IMA INA    
+0821788 :     IMA INA    
+0821807 :     IMA        
+0821820 :     IMA INA    
+0821821 :     IMA        
+0821834 :     IMA        
+0821873 :     IMA        
+0900008 :     IMA        
+0900031 :     IMA INA    
+0900079 :     IMA        
+0900369 :     IMA INA    
+0900415 :     IMA        
+0900460 :     IMA        
+0900467 :     IMA        
+0900481 :     IMA        
+1000077 :     IMA INA    
+1000204 :         INA    
+1000264 :     IMA        
+1000277 :     IMA INA    
+1000286 :     IMA INA    
+1000344 :     IMA        
+1000353 : AFA IMA INA    
+1000461 :     IMA INA    
+1000791 : AFA IMA INA    
+1000975 :     IMA INA    
+1001092 :     IMA INA    
+1001154 :     IMA INA    
+1001208 : AFA IMA INA    
+1001217 : AFA IMA INA    
+1001237 :         INA    
+1001242 : AFA IMA INA    
+1001308 :     IMA INA    
+1001333 : AFA IMA INA    
+1001367 :     IMA INA    
+1001443 :     IMA INA    
+1001523 : AFA IMA INA    
+1001565 :     IMA INA    
+1001586 : AFA IMA        
+1001681 :     IMA INA    
+1001708 :         INA    
+1001817 :     IMA        
+1001987 :     IMA        
+1001988 :         INA    
+1002032 :     IMA INA    
+1002050 :     IMA INA    
+1002204 : AFA IMA INA    
+1002539 :         INA    
+1002542 : AFA IMA INA    
+1002704 :     IMA INA    
+1002712 :         INA    
+1002809 : AFA IMA INA    
+1002821 :     IMA INA    
+1002897 :     IMA INA    
+1002936 :     IMA INA    
+1100005 :     IMA        
+1100019 :     IMA        
+1100029 : AFA IMA        
+1100085 : AFA IMA INA    
+1100094 : AFA IMA        
+1100175 : AFA IMA        
+1100186 :     IMA        
+1100251 :     IMA INA    
+1100287 : AFA IMA INA    
+1100348 :     IMA INA    
+1100350 : AFA IMA        
+1100414 :     IMA        
+1100450 : AFA IMA        
+1100456 :     IMA        
+1100457 :     IMA        
+1100480 : AFA IMA        
+1100507 :     IMA INA    
+1100523 :     IMA        
+1100688 :     IMA        
+1100707 :     IMA        
+1100729 :     IMA        
+1100739 : AFA IMA INA    
+1100732 :     IMA        
+1100788 :     IMA INA    
+1100800 : AFA IMA        
+1100952 : AFA IMA INA    
+1100981 :     IMA        
+1100987 :     IMA INA    
+1100992 :     IMA        
+1101020 :     IMA        
+1101031 :     IMA        
+1101043 :     IMA        
+1101052 :         INA    
+1101073 :     IMA        
+1101278 : AFA IMA        
+1101293 :     IMA        
+1101298 :     IMA        
+1101311 : AFA IMA        
+1101380 :     IMA INA    
+1101414 :     IMA INA    
+1101427 :     IMA        
+1101500 :     IMA INA    
+1101511 : AFA IMA INA    
+1101543 :     IMA        
+1101608 :     IMA INA    
+1101609 :     IMA        
+1101640 : AFA IMA INA    
+1101644 : AFA IMA        
+1101681 :     IMA        
+1101736 :     IMA        
+1101749 :         INA    
+1101771 :     IMA        
+1101818 :     IMA INA    
+1101861 :     IMA        
+1101912 :     IMA        
+1101916 :     IMA INA    
+1101958 :     IMA        
+1102019 :     IMA INA    
+1102068 :     IMA INA    
+1102115 :     IMA INA    
+1102152 : AFA IMA        
+1102155 :         INA    
+1102274 :     IMA        
+1102410 :     IMA        
+1102491 : AFA IMA INA    
+1102444 :     IMA        
+1102497 :     IMA INA    
+1102524 :     IMA INA    
+1102546 :     IMA INA    
+1102567 :     IMA        
+1102620 :     IMA        
+1102645 : AFA IMA INA    
+1102654 : AFA IMA        
+1102765 :     IMA        
+1102830 :     IMA INA    
+1102869 : AFA IMA        
+1102878 :     IMA INA    
+1102964 :     IMA        
+1103013 : AFA IMA INA    
+1103035 :     IMA INA    
+1103047 :     IMA        
+1103121 :     IMA INA    
+1103171 :     IMA        
+1103250 :     IMA        
+1103261 :     IMA        
+1103294 :     IMA INA    
+1103324 : AFA IMA INA    
+1103338 : AFA IMA INA    
+1103377 :     IMA        
+1103438 :     IMA        
+1103487 :     IMA        
+1103519 :     IMA        
+1103533 :     IMA        
+1103571 :     IMA        
+1103605 : AFA IMA INA    
+1103666 :     IMA        
+1103726 :     IMA        
+1103774 : AFA IMA INA    
+1103789 : AFA IMA        
+1103798 :     IMA        
+1103818 :     IMA        
+1103853 : AFA IMA        
+1103859 :     IMA        
+1103860 :     IMA        
+1103929 :     IMA        
+1103936 :     IMA INA    
+1103967 :     IMA INA    
+1103982 :     IMA        
+1103991 :     IMA INA    
+1103910 :         INA    
+1103959 :         INA    
+1104019 : AFA IMA        
+1104134 :     IMA        
+1104135 : AFA IMA        
+1104143 :     IMA INA    
+1104169 :     IMA        
+1104211 :     IMA        
+1104297 : AFA IMA        
+1104417 :     IMA INA    
+1104435 :     IMA INA    
+1104471 :     IMA INA    
+1104509 :         INA    
+1104561 :     IMA        
+1104616 :         INA    
+1104660 :     IMA INA    
+1104680 :     IMA        
+1104689 :     IMA        
+1104693 :     IMA        
+1104717 :         INA    
+1104728 :         INA    
+1104789 :     IMA INA    
+1104911 :     IMA        
+1104968 :     IMA        
+1105015 :     IMA        
+1105053 :     IMA        
+1105097 :         INA    
+1105128 :     IMA INA    
+1105173 :     IMA INA    
+1105225 :     IMA        
+1105245 :         INA    
+1105286 :         INA    
+1105334 :     IMA        
+1105363 :     IMA        
+1105430 :     IMA INA    
+1105489 :     IMA INA    
+1105521 :     IMA        
+1105526 :     IMA        
+1105565 :         INA    
+1105598 : AFA IMA        
+1105601 :     IMA        
+1105625 :     IMA        
+1105658 : AFA IMA INA    
+1105665 :     IMA INA    
+1105685 :     IMA        
+1105693 :     IMA        
+1105704 :     IMA        
+1105787 :     IMA INA    
+1105800 :     IMA INA    
+1105855 :     IMA INA    
+1105856 :     IMA INA    
+1105859 :     IMA        
+1105860 :     IMA        
+1105863 : AFA IMA INA    
+1105908 :     IMA        
+1105916 :         INA    
+1105959 :         INA    
+1106011 :     IMA        
+1106065 :     IMA        
+1106089 :     IMA        
+1106127 :     IMA        
+1106130 :         INA    
+1106215 :     IMA        
+1106260 :     IMA        
+1106273 :     IMA        
+1106312 :     IMA        
+1106368 : AFA IMA        
+1106400 :     IMA        
+1106426 :     IMA        
+1106483 : AFA IMA        
+1106504 : AFA IMA INA    
+1106525 : AFA IMA        
+1106546 :     IMA        
+1106568 :     IMA        
+1106593 :     IMA        
+1106598 :     IMA        
+1200021 :     IMA INA    
+1200060 :     IMA INA    
+1200205 : AFA IMA INA    
+1200221 :         INA    
+1200223 :         INA    
+1200277 :     IMA INA    
+1200384 :         INA    
+1200541 :         INA    
+1200588 :         INA    
+1200615 :         INA    
+1200626 :     IMA INA    
+1200702 :         INA    
+1200850 :     IMA INA    
+1200877 :     IMA INA    
+1200925 :     IMA INA    
+1200939 :     IMA INA    
+1200958 :     IMA        
+1201047 : AFA IMA        
+1201052 :     IMA INA    
+1201090 :     IMA INA    
+1201112 :     IMA INA    
+1201148 :         INA    
+1201200 :     IMA INA    
+1201222 :     IMA        
+1201237 :     IMA        
+1201329 :     IMA INA    
+1201365 :     IMA INA    
+1201589 :     IMA INA    
+1300075 :     IMA        
+1300105 :     IMA INA    
+1300170 :     IMA        
+1300187 :     IMA INA    
+1300391 : AFA IMA INA    
+1300321 :         INA    
+1300331 :     IMA INA    
+1300528 :         INA    
+1300532 :     IMA        
+1300598 :     IMA INA    
+1300593 :         INA    
+1300604 :     IMA INA    
+1300727 : AFA IMA INA    
+1300794 :     IMA        
+1300853 :     IMA INA    
+1300880 : AFA IMA INA    
+1300908 :     IMA INA    
+1300934 :         INA    
+1301048 : AFA IMA INA    
+1301103 : AFA IMA INA    
+1301151 :     IMA        
+1301162 :         INA    
+1301192 :         INA    
+1301281 : AFA IMA INA    
+1301390 :     IMA INA    
+1301374 :         INA    
+1301407 : AFA IMA INA    
+1301474 :     IMA INA    
+1301507 :         INA    
+1301531 :         INA    
+1301624 :     IMA INA    
+1301960 : AFA IMA INA    
+1301683 :     IMA INA    
+1301838 :     IMA INA    
+1301973 :     IMA INA    
+1302001 :         INA    
+1302029 :     IMA        
+1302048 : AFA IMA INA    
+1400036 :     IMA        
+1400075 :     IMA        
+1400088 :     IMA        
+1400170 :         INA    
+1400211 :     IMA        
+1400291 :     IMA INA    
+1400347 :     IMA        
+1400414 :     IMA        
+1400433 :     IMA        
+1400444 : AFA IMA        
+1400472 :         INA    
+1400488 :     IMA        
+1400498 :     IMA        
+1400563 :     IMA        
+1400609 : AFA IMA INA    
+1400603 :     IMA        
+1400809 :     IMA        
+1400811 : AFA IMA        
+1400930 : AFA IMA        
+1400829 :     IMA        
+1400894 :     IMA        
+1400908 :     IMA        
+1400927 :     IMA INA    
+1400951 :     IMA        
+1400940 :         INA    
+1401033 :     IMA        
+1401034 :     IMA        
+1401040 :     IMA        
+1401041 :     IMA INA    
+1401087 :     IMA INA    
+1401190 : AFA IMA        
+1401118 :     IMA INA    
+1401147 :     IMA        
+1401149 :     IMA        
+1401151 :     IMA        
+1401155 :     IMA        
+1401174 :     IMA        
+1401178 :         INA    
+1401180 :     IMA        
+1401226 : AFA IMA        
+1401231 :         INA    
+1401257 :     IMA INA    
+1401265 :     IMA        
+1401300 : AFA IMA        
+1401314 :         INA    
+1401334 :     IMA        
+1401349 : AFA IMA INA    
+1401351 :     IMA        
+1401352 :     IMA INA    
+1401395 : AFA IMA INA    
+1401437 :     IMA        
+1401451 :     IMA        
+1401479 :     IMA        
+1401495 :         INA    
+1401512 :     IMA        
+1401585 :     IMA        
+1401606 :         INA    
+1401658 :         INA    
+1401660 :     IMA        
+1401671 :     IMA        
+1401686 :     IMA        
+1401687 :     IMA        
+1401753 :     IMA        
+1401782 :     IMA        
+1401846 : AFA IMA        
+1401904 : AFA IMA        
+1401974 :     IMA        
+1402026 : AFA IMA INA    
+1402111 :     IMA        
+1402136 :     IMA        
+1402180 : AFA IMA INA    
+1402223 :     IMA        
+1402267 :     IMA        
+1402288 :     IMA        
+1402302 :     IMA        
+1402373 :     IMA        
+1402421 :     IMA        
+1402447 :     IMA INA    
+1402590 : AFA IMA        
+1402500 :     IMA        
+1402516 :     IMA INA    
+1402533 :     IMA        
+1402573 :     IMA        
+1402576 :     IMA        
+1402577 :     IMA        
+1402582 :     IMA        
+1402614 :     IMA        
+1402623 : AFA IMA        
+1402681 : AFA IMA        
+1402684 :     IMA        
+1402685 :     IMA        
+1402719 :     IMA INA    
+1402749 :     IMA        
+1402779 :     IMA INA    
+1402820 :     IMA INA    
+1402831 : AFA IMA INA    
+1402958 : AFA IMA        
+1402875 :     IMA        
+1402970 :     IMA        
+1402988 :     IMA        
+1403004 :     IMA        
+1403012 :     IMA        
+1403040 :     IMA        
+1403123 :     IMA        
+1403146 :     IMA        
+1403187 :         INA    
+1403208 :     IMA        
+1403210 :     IMA        
+1403236 : AFA IMA        
+1403287 :     IMA        
+1403324 :         INA    
+1403364 : AFA IMA        
+1403399 :     IMA        
+1403412 :     IMA        
+1403423 :     IMA        
+1403503 :     IMA        
+1403626 :     IMA INA    
+1403641 :     IMA INA    
+1403644 : AFA IMA        
+1403652 :     IMA        
+1403711 :     IMA INA    
+1403775 :     IMA        
+1403776 :     IMA INA    
+1403872 :     IMA        
+1403885 :     IMA        
+1403906 :     IMA        
+1403925 :     IMA INA    
+1403943 :     IMA        
+1403959 :     IMA        
+1404057 :     IMA        
+1404072 : AFA IMA        
+1404085 :     IMA        
+1404112 :     IMA        
+1404121 : AFA IMA        
+1404143 :     IMA        
+1404144 :     IMA        
+1404178 :     IMA        
+1404196 :     IMA        
+1404252 :     IMA        
+1404262 :     IMA        
+1404272 :     IMA INA    
+1404326 :     IMA        
+1404342 :     IMA        
+1404343 :     IMA        
+1404355 :     IMA        
+1404363 :     IMA INA    
+1404385 : AFA IMA        
+1404437 : AFA IMA        
+1404499 : AFA IMA        
+1404482 :     IMA INA    
+1404500 :     IMA        
+1404523 : AFA IMA        
+1404551 :     IMA        
+1404569 :     IMA        
+1404586 :     IMA INA    
+1404602 :     IMA INA    
+1404648 :     IMA        
+1404672 : AFA IMA        
+1404695 :         INA    
+1404700 :     IMA        
+1404701 :     IMA        
+1404723 :     IMA        
+1404782 : AFA IMA        
+1404784 :     IMA        
+1404843 : AFA IMA        
+1404850 :     IMA        
+1404853 :     IMA        
+1404949 :     IMA        
+1404971 :     IMA        
+1404980 :     IMA        
+1404996 :     IMA        
+1404997 :     IMA        
+1405037 :     IMA        
+1405043 :     IMA INA    
+1405044 :     IMA        
+1405074 :     IMA        
+1405084 : AFA IMA        
+1405099 :     IMA        
+1405117 :     IMA        
+1405166 :     IMA        
+1405190 :     IMA        
+1500033 : AFA IMA        
+1500099 : AFA IMA        
+1500108 :     IMA        
+1500112 :     IMA        
+1500123 : AFA IMA        
+1500141 : AFA IMA        
+1500183 :     IMA        
+1500205 :     IMA        
+1500236 :     IMA        
+1500239 :     IMA        
+1500241 :     IMA        
+1500263 :     IMA        
+1500268 :     IMA        
+1500292 :     IMA        
+1500321 : AFA IMA        
+1500343 :     IMA        
+1500344 :     IMA        
+1500358 :     IMA INA    
+1500376 :     IMA        
+1500377 : AFA IMA        
+1500517 :     IMA        
+1500532 :     IMA INA    
+1500583 :     IMA        
+1500603 :     IMA        
+1500660 :     IMA        
+1500661 :     IMA        
+1500665 :     IMA        
+1500692 :     IMA INA    
+1500710 :     IMA INA    
+1500713 :     IMA        
+1500761 : AFA IMA        
+1500791 :     IMA        
+1500810 : AFA IMA        
+1500901 : AFA IMA        
+1500819 :     IMA        
+1500837 :     IMA        
+1500875 :     IMA        
+1500937 :     IMA        
+1500941 :     IMA        
+1500958 :     IMA INA    
+1500998 :     IMA        
+1501002 :     IMA        
+1501006 : AFA IMA INA    
+1501016 :     IMA INA    
+1501019 :     IMA INA    
+1501117 :         INA    
+1501180 :     IMA        
+1501269 :     IMA        
+1501272 :         INA    
+1501278 :     IMA        
+1501303 :     IMA INA    
+1501329 : AFA IMA        
+1501353 :     IMA INA    
+1501359 :         INA    
+1501389 :     IMA INA    
+1501390 :     IMA        
+1501437 : AFA IMA        
+1501574 :         INA    
+1501577 : AFA IMA        
+1501610 :     IMA        
+1501621 :     IMA INA    
+1501622 : AFA IMA        
+1501665 : AFA IMA INA    
+1501676 :     IMA        
+1501695 :     IMA        
+1501789 : AFA IMA        
+1501851 :         INA    
+1501861 :     IMA        
+1501890 :     IMA        
+1501899 :     IMA INA    
+1501959 :     IMA        
+1501963 :     IMA        
+1502014 :     IMA INA    
+1502025 :     IMA        
+1502033 :     IMA INA    
+1502095 : AFA IMA        
+1502087 :     IMA        
+1502109 :     IMA        
+1502128 :     IMA        
+1502193 :     IMA        
+1502217 : AFA IMA INA    
+1502337 :     IMA INA    
+1502383 :     IMA INA    
+1502392 :     IMA INA    
+1502420 :     IMA        
+1502421 : AFA IMA INA    
+1502430 :     IMA        
+1502471 :     IMA        
+1502503 :     IMA INA    
+1502534 :     IMA        
+1502547 :     IMA INA    
+1502548 :     IMA        
+1502621 :     IMA        
+1502636 :     IMA        
+1502654 :         INA    
+1502795 :     IMA        
+1502797 :     IMA        
+1502803 :     IMA        
+1502815 :     IMA        
+1502944 :     IMA        
+1502999 :     IMA        
+1502862 :         INA    
+1503007 :     IMA        
+1503051 :     IMA        
+1503055 :     IMA INA    
+1503075 :     IMA        
+1503149 :         INA    
+1503156 :     IMA        
+1503171 :     IMA        
+1503175 :     IMA        
+1503211 :     IMA        
+1503245 :     IMA INA    
+1503285 : AFA IMA        
+1503300 :     IMA        
+1503329 :     IMA INA    
+1503417 :     IMA INA    
+1503421 :     IMA        
+1503453 : AFA IMA        
+1503487 :     IMA        
+1503508 :     IMA INA    
+1503555 :     IMA        
+1503653 : AFA IMA        
+1503655 :     IMA        
+1503669 : AFA IMA        
+1503948 : AFA IMA        
+1503713 :     IMA INA    
+1503729 :     IMA        
+1503741 :     IMA        
+1503770 :     IMA        
+1503793 :     IMA        
+1503847 :     IMA        
+1503849 :     IMA        
+1503875 :     IMA        
+1503909 :     IMA        
+1503923 :     IMA        
+1503925 :     IMA        
+1503937 :     IMA        
+1503966 :     IMA        
+1504088 :     IMA        
+1504310 :     IMA        
+1504311 :     IMA        
+1504335 :     IMA        
+1504385 : AFA IMA INA    
+1504459 : AFA IMA        
+1504475 :     IMA        
+1504521 :     IMA INA    
+1504541 :     IMA INA    
+1504547 : AFA IMA        
+1504560 :     IMA        
+1504566 :     IMA        
+1504616 : AFA IMA        
+1504643 :     IMA        
+1504645 : AFA IMA        
+1504647 :     IMA INA    
+1504648 :     IMA INA    
+1504660 :         INA    
+1504665 : AFA IMA INA    
+1504702 :     IMA        
+1504731 :     IMA INA    
+1504756 : AFA IMA        
+1504791 : AFA IMA        
+1504935 : AFA IMA        
+1504785 :     IMA        
+1504803 :     IMA        
+1504810 :     IMA INA    
+1504850 :     IMA        
+1504867 :     IMA        
+1504908 :     IMA        
+1504940 :     IMA        
+1504995 :     IMA        
+1505042 :     IMA        
+1505095 : AFA IMA        
+1505091 :     IMA        
+1505071 :         INA    
+1505125 :     IMA        
+1505128 :     IMA        
+1505133 :     IMA INA    
+1505173 : AFA IMA INA    
+1505244 :         INA    
+1505256 :     IMA        
+1505266 :     IMA        
+1505267 :     IMA        
+1505288 : AFA IMA        
+1505336 : AFA IMA        
+1505341 :     IMA        
+1505363 :     IMA        
+1505407 :     IMA        
+1505417 :     IMA        
+1505498 : AFA IMA        
+1505508 :     IMA INA    
+1505525 :     IMA        
+1505608 :     IMA        
+1505611 : AFA IMA        
+1505613 :     IMA        
+1505623 : AFA IMA INA    
+1505638 :     IMA        
+1505653 :     IMA INA    
+1505667 :     IMA        
+1505680 : AFA IMA        
+1505683 :     IMA INA    
+1505700 : AFA IMA        
+1505744 : AFA IMA        
+1505935 : AFA IMA INA    
+1505800 :         INA    
+1505836 :     IMA        
+1505850 :     IMA INA    
+1505865 :     IMA        
+1505881 :     IMA        
+1700001 :     IMA INA    
+1700025 : AFA IMA        
+1700044 : AFA IMA        
+1700093 :     IMA        
+1700203 :         INA    
+1700282 :         INA    
+1700314 :         INA    
+1700368 :         INA    
+1700434 :     IMA INA    
+1700479 :     IMA        
+1700596 :     IMA        
+1700671 :     IMA INA    
+1700741 :     IMA INA    
+1700755 : AFA IMA        
+1700855 :         INA    
+1700868 :     IMA INA    
+1700971 :     IMA INA    
+1701022 :     IMA        
+1800066 : AFA IMA        
+1900186 : AFA IMA INA    
+1900285 : AFA IMA        
+1900329 : AFA IMA INA    
+1900939 : AFA IMA INA    
+1901052 : AFA IMA        
+1900221 :     IMA INA    
+1900275 :     IMA INA    
+1900301 :     IMA INA    
+1900381 :     IMA INA    
+1900679 :     IMA INA    
+1900715 :     IMA        
+1900771 :     IMA        
+1900819 :     IMA INA    
+1900825 :     IMA INA    
+1900852 :     IMA INA    
+1900958 :     IMA INA    
+1901031 :     IMA INA    
+1901079 :     IMA INA    
+1900074 :         INA    
+1900826 :         INA    
+1900999 :         INA    
+2400029 : AFA IMA        
+2400052 :     IMA        
+2400062 :     IMA INA    
+2400165 :         INA    
+2400243 :     IMA INA    
+2400282 :     IMA        
+2400417 :     IMA        
+2400426 :     IMA        
+2400440 :     IMA        
+2400441 :         INA    
+2400458 :     IMA INA    
+2400490 :     IMA        
+2400683 :     IMA INA    
+2400984 : AFA IMA        
+2400894 :     IMA INA    
+2400906 :     IMA INA    
+2401033 : AFA IMA INA    
+2401331 :     IMA        
+2401349 :         INA    
+2401448 :     IMA INA    
+2401484 :     IMA        
+2401517 :     IMA        
+2401547 : AFA IMA INA    
+2401624 :     IMA        
+2401636 : AFA IMA INA    
+2401651 :     IMA INA    
+2401756 :     IMA        
+2401784 :     IMA INA    
+2401840 :     IMA INA    
+2401858 :         INA    
+2402047 :     IMA INA    
+2402059 :     IMA        
+2402068 :         INA    
+2402074 :     IMA INA    
+2402097 :     IMA INA    
+2402161 :     IMA        
+2402190 :     IMA INA    
+2600029 : AFA IMA        
+2600043 : AFA IMA        
+2600076 :     IMA INA    
+2600087 : AFA IMA INA    
+2600102 :     IMA INA    
+2600151 :     IMA        
+2600155 :     IMA        
+2600169 :     IMA INA    
+2600189 : AFA IMA INA    
+2600180 :     IMA        
+2600196 :     IMA        
+2600245 :     IMA        
+2600353 : AFA IMA INA    
+2600379 :     IMA        
+2600472 :     IMA        
+2600529 : AFA IMA        
+2600526 :     IMA INA    
+2600544 :     IMA        
+2600578 : AFA IMA        
+2600596 :     IMA        
+2600625 :     IMA        
+2600664 :     IMA INA    
+2600671 :         INA    
+2600702 : AFA IMA        
+2600712 : AFA IMA INA    
+2600936 :     IMA INA    
+2601003 :     IMA        
+2601008 :     IMA INA    
+2601030 : AFA IMA INA    
+2601080 : AFA IMA        
+2601260 :         INA    
+2601343 :     IMA        
+2601353 :     IMA        
+2601366 : AFA IMA INA    
+2601387 :     IMA INA    
+2601447 :     IMA        
+2601554 :     IMA        
+2601560 :     IMA INA    
+2601563 :     IMA        
+2601613 :         INA    
+2601666 :     IMA INA    
+2601679 :     IMA        
+2601695 :     IMA        
+2601733 :     IMA INA    
+2601812 :     IMA INA    
+2601962 :     IMA        
+2601970 :     IMA        
+2602011 :     IMA        
+2602038 :     IMA        
+2602052 : AFA IMA        
+2602055 :     IMA        
+2602105 :     IMA        
+2602127 : AFA IMA        
+2602141 :     IMA INA    
+2602190 :     IMA        
+2602162 :         INA    
+2602220 :     IMA        
+2602232 :     IMA        
+2602241 :     IMA        
+2602246 : AFA IMA INA    
+2602293 :     IMA INA    
+2602312 :     IMA INA    
+2602357 :         INA    
+2602400 : AFA IMA        
+2602411 :     IMA        
+2602533 :     IMA        
+2602537 :     IMA        
+2602546 : AFA IMA        
+2602549 :     IMA        
+2602553 :     IMA        
+2602589 : AFA IMA        
+2602583 :     IMA INA    
+2602588 :     IMA        
+2602606 :         INA    
+2602616 :     IMA INA    
+2602619 :     IMA        
+2602637 :     IMA INA    
+2602663 : AFA IMA INA    
+2602691 :     IMA        
+2602785 :         INA    
+2602808 : AFA IMA        
+2602819 : AFA IMA        
+2602826 :     IMA        
+2602851 :     IMA        
+2602872 : AFA IMA        
+2602996 : AFA IMA        
+2602880 :     IMA        
+2602937 :     IMA        
+2602968 :     IMA INA    
+2603001 :     IMA        
+2603039 :     IMA        
+2603051 :         INA    
+2603060 :     IMA        
+2603112 :     IMA        
+2603131 : AFA IMA        
+2603139 : AFA IMA        
+2603135 :         INA    
+2603168 :     IMA        
+2603235 :     IMA        
+2603268 :     IMA        
+2603351 : AFA IMA        
+2603370 : AFA IMA        
+2603395 : AFA IMA        
+2603391 :     IMA        
+2603407 :     IMA        
+2603509 :     IMA        
+2603532 : AFA IMA        
+2603615 : AFA IMA        
+2603732 :     IMA        
+2603752 : AFA IMA        
+2603804 :     IMA        
+2603826 :     IMA        
+2603927 :     IMA INA    
+2603930 :     IMA        
+2603947 :     IMA        
+2603976 :     IMA        
+2604014 :     IMA        
+2604100 :     IMA        
+2604175 :     IMA INA    
+2604216 :     IMA        
+2604283 :     IMA        
+2604387 :     IMA        
+2604436 : AFA IMA        
+2604545 :     IMA        
+2604613 :     IMA        
+2604702 :     IMA        
+2604732 :     IMA        
+2604894 : AFA IMA        
+2604852 :     IMA        
+2604947 :     IMA INA    
+2604927 :         INA    
+2605131 : AFA IMA        
+2605139 :     IMA        
+2605303 :     IMA        
+2605346 :     IMA        
+2605371 : AFA IMA        
+2605413 : AFA IMA INA    
+2605432 : AFA IMA        
+2605433 : AFA IMA INA    
+2605477 :     IMA        
+2605505 : AFA IMA        
+2605560 :     IMA INA    
+2605581 :     IMA        
+2605723 :     IMA        
+2605745 :     IMA INA    
+2605772 :     IMA        
+2605781 :     IMA        
+2605805 : AFA IMA        
+2605907 : AFA IMA        
+2605807 :     IMA        
+2605973 :     IMA INA    
+2605982 :     IMA        
+2606000 :     IMA        
+2606009 :     IMA INA    
+2606038 :     IMA INA    
+2606170 :     IMA INA    
+2606174 : AFA IMA        
+2606181 : AFA IMA        
+2606213 : AFA IMA        
+2606269 : AFA IMA INA    
+2606337 : AFA IMA INA    
+2606349 : AFA IMA INA    
+2606341 :     IMA        
+2606358 :     IMA        
+2606397 :     IMA        
+2606399 :     IMA INA    
+2606402 :         INA    
+2606442 :     IMA        
+2606459 :     IMA INA    
+2606471 :     IMA        
+2606480 :     IMA        
+2606486 : AFA IMA        
+2606540 :     IMA        
+2606617 :     IMA        
+2606654 : AFA IMA INA    
+2606674 :     IMA        
+2606694 :     IMA INA    
+2606720 :     IMA        
+2606724 :     IMA        
+2606746 : AFA IMA        
+2606756 : AFA IMA        
+2606770 :     IMA        
+2606977 : AFA IMA INA    
+2606833 :         INA    
+2606875 :         INA    
+2606876 :     IMA INA    
+2606877 :     IMA        
+2606992 :     IMA INA    
+2606924 :         INA    
+2607091 : AFA IMA INA    
+2607017 :     IMA        
+2607084 :     IMA INA    
+2607101 :     IMA INA    
+2607146 :     IMA        
+2607195 :     IMA        
+2607248 :     IMA        
+2607249 :     IMA        
+2607294 :     IMA        
+2607454 : AFA IMA        
+2607500 :     IMA        
+2607523 : AFA IMA INA    
+3400006 : AFA IMA        
+3400018 :     IMA        
+3400142 :         INA    
+3400208 :         INA    
+3400418 :         INA    
+3400432 :     IMA        
+3400462 :     IMA INA    
+3400486 :     IMA INA    
+3400496 :     IMA INA    
+3400556 :     IMA        
+3400639 : AFA IMA INA    
+3400809 : AFA IMA INA    
+3400911 : AFA IMA        
+3400808 :         INA    
+3400828 :     IMA        
+3400914 :     IMA INA    
+3401120 :     IMA        
+3401135 :     IMA        
+3401149 : AFA IMA INA    
+3401152 :         INA    
+3401167 :     IMA        
+3401173 :     IMA        
+3401191 :     IMA        
+3401192 :     IMA        
+3401212 :     IMA        
+3401259 :     IMA        
+3401318 :         INA    
+3401339 :     IMA        
+3401356 :         INA    
+3401367 :         INA    
+3401450 :     IMA INA    
+3401482 :     IMA INA    
+3401489 :     IMA INA    
+3401527 :     IMA INA    
+3401559 :     IMA INA    
+3401647 :     IMA INA    
+3401733 :     IMA INA    
+3500035 :     IMA INA    
+3500122 : AFA IMA        
+3500134 :     IMA INA    
+3500135 : AFA IMA        
+3500146 :     IMA INA    
+3500191 :     IMA INA    
+3500199 :         INA    
+3500227 :     IMA INA    
+3500239 :     IMA        
+3500245 :     IMA        
+3500259 : AFA IMA        
+3500254 :     IMA INA    
+3500310 : AFA IMA        
+3500369 :     IMA        
+3500395 :     IMA INA    
+3500411 :     IMA        
+3500438 : AFA IMA        
+3500448 :     IMA        
+3500455 :     IMA        
+3500511 :     IMA        
+3500544 :     IMA        
+3500576 :     IMA INA    
+3500624 :     IMA INA    
+3500645 :     IMA INA    
+3500670 :     IMA INA    
+3500686 :     IMA        
+3500687 :     IMA        
+3500792 :     IMA        
+3500790 :         INA    
+3501066 :     IMA INA    
+3501108 : AFA IMA        
+3501123 :     IMA INA    
+3501137 :     IMA INA    
+3501161 :     IMA        
+3501171 :     IMA        
+3501283 :     IMA        
+3501302 :     IMA        
+3501307 :     IMA        
+3501321 : AFA IMA INA    
+3501325 : AFA IMA        
+3501341 :         INA    
+3501395 :     IMA        
+3501410 :     IMA        
+3501456 :         INA    
+3501476 :     IMA        
+3501527 :         INA    
+3501530 :     IMA        
+3501581 :     IMA INA    
+3501608 :     IMA INA    
+3501612 : AFA IMA        
+3501638 :     IMA INA    
+3501641 :     IMA        
+3501678 :     IMA        
+3501790 : AFA IMA INA    
+3501749 :     IMA INA    
+3501770 :     IMA        
+3501795 :     IMA        
+3501884 :     IMA        
+3501894 :     IMA        
+3501895 :     IMA INA    
+3501920 :     IMA        
+3501929 :     IMA        
+3501967 :     IMA        
+3501993 :     IMA INA    
+3501951 :         INA    
+3502018 :     IMA        
+3502114 :     IMA        
+3502127 :         INA    
+3502133 :     IMA        
+3502195 :     IMA INA    
+3502204 : AFA IMA INA    
+3502221 :     IMA        
+3502240 : AFA IMA INA    
+3502262 : AFA IMA INA    
+3502272 :     IMA        
+3502306 :     IMA        
+3502368 :     IMA        
+3502409 : AFA IMA        
+3502430 :     IMA        
+3502433 : AFA IMA INA    
+3502457 :     IMA        
+3502537 :     IMA INA    
+3502538 : AFA IMA INA    
+3502616 : AFA IMA INA    
+3502659 :     IMA INA    
+3502740 :     IMA        
+3502751 : AFA IMA        
+3502774 :         INA    
+3502784 :         INA    
+3502811 :     IMA        
+3502834 :     IMA        
+3502856 :     IMA        
+3502891 :     IMA        
+3502937 :     IMA INA    
+3503059 :     IMA INA    
+3503066 :     IMA        
+3503086 :     IMA        
+3503095 :     IMA INA    
+3503128 :     IMA INA    
+3503138 :     IMA INA    
+3503160 :     IMA INA    
+3503259 :     IMA        
+3503303 : AFA IMA        
+3503461 :     IMA        
+3503463 :     IMA INA    
+3503468 :     IMA        
+3503516 :     IMA INA    
+3503544 :     IMA INA    
+3503598 :     IMA        
+3503620 :     IMA        
+3503636 :     IMA        
+3503654 :     IMA        
+3503684 :     IMA INA    
+3503727 :     IMA        
+3503728 :     IMA INA    
+3503730 :     IMA INA    
+3503743 :     IMA INA    
+3503850 :         INA    
+3503879 :     IMA        
+3503887 :     IMA INA    
+3503901 :     IMA        
+3503921 :     IMA INA    
+3503959 :     IMA        
+3503968 :     IMA        
+3503972 :     IMA        
+3504029 :     IMA        
+3504048 :         INA    
+3504159 :     IMA        
+3504176 :     IMA INA    
+3504179 :     IMA        
+3504240 :     IMA INA    
+3504287 :         INA    
+3504425 :     IMA        
+3504490 :     IMA        
+3504511 :     IMA        
+3504541 :     IMA        
+3504575 :     IMA        
+3504614 :     IMA        
+3504636 :     IMA INA    
+3504638 :     IMA INA    
+3504666 : AFA IMA        
+3504818 :     IMA        
+3504822 :     IMA INA    
+3504839 : AFA IMA INA    
+3504905 :     IMA        
+3504926 :     IMA        
+3504995 :     IMA INA    
+3504864 :         INA    
+3505039 :     IMA        
+3505086 :     IMA        
+3505149 :     IMA INA    
+3505159 :     IMA        
+3505217 :     IMA        
+3505219 :     IMA        
+3505228 :     IMA        
+3505316 :         INA    
+3505329 :     IMA        
+3505360 :     IMA        
+3505433 : AFA IMA        
+3505434 :     IMA        
+3505454 :     IMA INA    
+3505464 :     IMA INA    
+3505513 :     IMA INA    
+3505537 :     IMA        
+3505577 :     IMA        
+3505588 :     IMA        
+3505610 :     IMA INA    
+3505645 : AFA IMA INA    
+3505678 : AFA IMA INA    
+3505739 : AFA IMA        
+3505954 : AFA IMA        
+3505738 :     IMA INA    
+3505767 :         INA    
+3505837 :     IMA INA    
+3505851 :     IMA INA    
+3505920 :     IMA        
+3505956 :     IMA        
+3505957 :     IMA INA    
+3600030 :     IMA INA    
+3600051 :     IMA INA    
+3600114 :     IMA INA    
+3600151 :     IMA        
+3600192 :     IMA INA    
+3600199 :     IMA        
+3600225 :     IMA        
+3600266 :     IMA        
+3600267 :     IMA INA    
+3600290 :     IMA INA    
+3600432 : AFA IMA INA    
+3600498 : AFA IMA        
+3600495 :     IMA INA    
+3600499 :     IMA        
+3600541 :     IMA INA    
+3600593 :     IMA INA    
+3700021 :     IMA INA    
+3700023 :     IMA        
+3700029 :     IMA        
+3900026 :     IMA INA    
+3900124 :     IMA INA    
+3900142 :     IMA        
+3900349 :     IMA        
+3900612 :     IMA INA    
+3900642 :     IMA        
+3900170 :         INA    
+3900915 :         INA    
+4000105 :     IMA        
+4000236 :     IMA        
+4000416 :         INA    
+4000430 : AFA IMA INA    
+4000740 :     IMA INA    
+4000887 : AFA IMA INA    
+4100022 : AFA IMA        
+4100050 : AFA IMA INA    
+4100070 : AFA            
+4100099 : AFA IMA INA    
+4100119 :     IMA        
+4100159 : AFA IMA        
+4100156 :         INA    
+4100165 :     IMA INA    
+4100180 :     IMA INA    
+4100200 :     IMA        
+4100231 :     IMA        
+4100232 :     IMA        
+4100252 :     IMA        
+4100257 :     IMA        
+4100285 :     IMA        
+4100291 :     IMA        
+4100367 : AFA IMA        
+4100371 : AFA IMA INA    
+4100374 : AFA IMA        
+4100407 :     IMA INA    
+4100414 :     IMA        
+4100429 : AFA IMA        
+4100493 : AFA IMA INA    
+4100472 :     IMA        
+4100509 :         INA    
+4100578 :     IMA INA    
+4100612 :     IMA INA    
+4100619 :     IMA INA    
+4100645 : AFA IMA        
+4100686 :     IMA        
+4100775 :     IMA        
+4100801 :     IMA INA    
+4100836 :     IMA        
+4100855 : AFA IMA INA    
+4100874 :     IMA        
+4100902 :     IMA        
+4100916 :     IMA        
+4100917 :     IMA INA    
+4100926 :     IMA        
+4100973 :         INA    
+4101021 :     IMA        
+4101126 :         INA    
+4101145 :     IMA        
+4101147 : AFA IMA INA    
+4101166 : AFA IMA        
+4101221 :     IMA        
+4101272 :         INA    
+4101288 : AFA IMA        
+4101347 : AFA IMA        
+4101460 :     IMA        
+4101494 :     IMA INA    
+4101528 :     IMA INA    
+4101565 :     IMA        
+4101694 : AFA IMA        
+4101646 :     IMA        
+4101725 : AFA IMA INA    
+4101733 :     IMA        
+4101761 :         INA    
+4101788 : AFA IMA INA    
+4101801 : AFA IMA        
+4101958 : AFA IMA        
+4101813 :     IMA        
+4101840 :     IMA INA    
+4101862 :     IMA        
+4101884 :     IMA        
+4102000 : AFA IMA        
+4102019 : AFA IMA        
+4102084 :         INA    
+4102130 : AFA IMA INA    
+4102149 : AFA IMA INA    
+4900529 : AFA IMA INA    
+4900583 : AFA IMA INA    
+4900613 : AFA IMA INA    
+4900966 : AFA IMA INA    
+4200235 :     IMA        
+4400218 :     IMA        
+4500015 :     IMA        
+4500088 :     IMA        
+4900048 :     IMA        
+4900130 :     IMA        
+4900182 :     IMA INA    
+4900196 :     IMA        
+4900295 :     IMA INA    
+4900347 :     IMA        
+4900476 :     IMA INA    
+4900543 :     IMA        
+4900566 :     IMA        
+4900581 :     IMA        
+4900669 :     IMA INA    
+4900711 :     IMA INA    
+4900817 :     IMA        
+4900936 :     IMA INA    
+4900988 :     IMA INA    
+4900189 :         INA    
+4900349 :         INA    
+4900515 :         INA    
+4900774 :         INA    
+4900856 :         INA    
+5000110 : AFA IMA INA    
+5000193 :     IMA INA    
+5000263 :     IMA        
+5000387 :     IMA INA    
+5000421 :     IMA INA    
+5000436 : AFA     INA    
+5100068 :         INA    
+5100107 :     IMA INA    
+5100110 :     IMA INA    
+5100193 :     IMA INA    
+5100209 :     IMA        
+5100249 :     IMA INA    
+5100263 : AFA IMA        
+5100315 :     IMA INA    
+5100357 :     IMA INA    
+5100358 : AFA IMA INA    
+5100400 : AFA IMA INA    
+5100445 :         INA    
+5100531 :         INA    
+5100636 : AFA IMA        
+5100902 : AFA IMA        
+5100801 :     IMA INA    
+5101035 :     IMA INA    
+5101038 :     IMA INA    
+5101052 :     IMA INA    
+5101053 :     IMA INA    
+5101110 :     IMA INA    
+5101379 :     IMA INA    
+5101416 : AFA IMA INA    
+5101425 : AFA IMA INA    
+5101444 :         INA    
+5101492 :         INA    
+5101543 :     IMA INA    
+5200053 : AFA IMA        
+5200055 :         INA    
+5200074 :     IMA        
+5200132 :     IMA INA    
+5200148 :     IMA        
+5200172 :     IMA        
+5200236 : AFA IMA INA    
+5200270 :         INA    
+5200277 : AFA IMA INA    
+5200322 :     IMA        
+5200345 :         INA    
+5200361 :     IMA        
+5200380 :     IMA INA    
+5200441 :         INA    
+5200487 :     IMA        
+5200580 :     IMA        
+5200630 :     IMA        
+5200635 :     IMA        
+5300041 :         INA    
+5300123 :         INA    
+5300153 :         INA    
+5300154 : AFA IMA INA    
+5300188 :     IMA        
+5300268 :     IMA        
+5300303 :     IMA        
+5400029 :     IMA        
+5400046 :     IMA INA    
+5400091 :     IMA        
+5400162 :     IMA        
+5400172 :     IMA INA    
+5400180 : AFA IMA        
+5400185 :     IMA        
+5400231 : AFA IMA        
+5400253 : AFA IMA        
+5400913 : AFA IMA INA    
+5400254 :     IMA        
+5400283 :     IMA        
+5400361 :     IMA        
+5400410 :     IMA        
+5400443 :         INA    
+5400508 :     IMA        
+5400543 :     IMA INA    
+5400591 :     IMA INA    
+5400569 :         INA    
+5400656 :     IMA        
+5400677 :     IMA        
+5400721 :     IMA        
+5400737 :     IMA INA    
+5400743 :     IMA        
+5400789 :     IMA        
+5400832 :     IMA        
+5400859 :     IMA        
+5400860 :     IMA        
+5400975 :     IMA        
+5401047 :     IMA        
+5401105 :     IMA        
+5401115 :     IMA INA    
+5401124 :         INA    
+5401135 :     IMA        
+5401139 :     IMA INA    
+5401153 :     IMA        
+5401187 : AFA IMA        
+5401196 :     IMA        
+5401205 :     IMA        
+5401222 :     IMA        
+5401227 :     IMA        
+5401228 :     IMA        
+5401242 :     IMA        
+5401257 :     IMA INA    
+5401262 :     IMA        
+5401297 : AFA IMA INA    
+5401317 :     IMA        
+5401349 : AFA IMA        
+5401395 :     IMA INA    
+5401447 :     IMA        
+5401451 :     IMA        
+5401492 :     IMA        
+5401509 : AFA IMA        
+5401511 :     IMA INA    
+5401577 : AFA IMA        
+5401644 : AFA IMA        
+5401649 :     IMA INA    
+5401672 :     IMA        
+5401721 :     IMA INA    
+5401727 :     IMA INA    
+5401774 :     IMA        
+5401818 :     IMA        
+5401890 :     IMA INA    
+5401915 :     IMA INA    
+5401918 :     IMA        
+5401947 :     IMA        
+5401985 :     IMA        
+5402027 :     IMA INA    
+5402070 :     IMA        
+5402107 :     IMA INA    
+5402136 :     IMA        
+5402145 : AFA IMA        
+5402167 :         INA    
+5402219 :     IMA        
+5402232 : AFA IMA        

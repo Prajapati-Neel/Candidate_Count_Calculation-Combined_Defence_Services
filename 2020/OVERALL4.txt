@@ -1,0 +1,6720 @@
+0100026 : AFA IMA     OTA
+0100044 :     IMA INA    
+0100079 :     IMA INA OTA
+0100143 : AFA IMA INA OTA
+0100144 :     IMA        
+0100172 :         INA OTA
+0100208 :     IMA INA    
+0100277 :             OTA
+0100287 :             OTA
+0100324 :     IMA INA OTA
+0100353 :     IMA INA    
+0100394 :     IMA     OTA
+0100499 :     IMA     OTA
+0100421 :         INA    
+0100617 : AFA IMA INA    
+0100673 :     IMA INA    
+0100736 : AFA IMA     OTA
+0100790 : AFA IMA INA OTA
+0100781 :             OTA
+0100785 :     IMA INA    
+0100822 :     IMA INA    
+0100954 :             OTA
+0101034 :             OTA
+0101071 :             OTA
+0101131 :     IMA INA    
+0101148 :     IMA     OTA
+0101174 :     IMA INA OTA
+0101290 : AFA IMA INA OTA
+0101262 :             OTA
+0101321 : AFA IMA INA OTA
+0101369 :     IMA INA OTA
+0101378 :     IMA INA    
+0101428 :     IMA     OTA
+0101479 :     IMA INA    
+0101487 :     IMA INA OTA
+0101493 :             OTA
+0101526 :     IMA INA    
+0101550 : AFA IMA INA OTA
+0101611 :     IMA INA OTA
+0101808 :             OTA
+0101822 : AFA IMA     OTA
+0101943 :         INA    
+0101823 :             OTA
+0101906 :             OTA
+0102097 :     IMA INA OTA
+0102098 :     IMA INA OTA
+0102130 :         INA    
+0102138 :             OTA
+0102147 :         INA OTA
+0102186 :             OTA
+0102196 :             OTA
+0102227 :     IMA     OTA
+0102228 : AFA IMA INA OTA
+0102240 :         INA    
+0102274 :             OTA
+0102316 :             OTA
+0102351 :             OTA
+0102714 :             OTA
+0102749 :             OTA
+0102800 :             OTA
+0102810 :             OTA
+0102904 :             OTA
+0102935 :             OTA
+0102936 :             OTA
+0103075 :             OTA
+0103097 :             OTA
+0103101 :             OTA
+0103134 :             OTA
+0103156 :             OTA
+0103199 :             OTA
+0103319 :             OTA
+0103363 :             OTA
+0103445 :             OTA
+0103464 :             OTA
+0103535 :             OTA
+0103610 :             OTA
+0103646 :             OTA
+0103746 :             OTA
+0103762 :             OTA
+0103819 :             OTA
+0103846 :             OTA
+0103894 :             OTA
+0104066 :             OTA
+0104067 :             OTA
+0104273 :             OTA
+0104443 :             OTA
+0104556 :             OTA
+0104568 :             OTA
+0200025 :             OTA
+0200108 :     IMA INA    
+0200124 :     IMA INA OTA
+0200155 :     IMA        
+0200157 :     IMA        
+0200167 :     IMA INA OTA
+0200299 :     IMA     OTA
+0200245 :             OTA
+0200303 :     IMA     OTA
+0200304 :             OTA
+0200307 :             OTA
+0200376 :     IMA INA    
+0200432 :             OTA
+0200433 :     IMA        
+0200453 :     IMA     OTA
+0200468 : AFA IMA     OTA
+0200721 :     IMA     OTA
+0200741 : AFA IMA     OTA
+0200769 :     IMA        
+0200821 :     IMA     OTA
+0200840 : AFA IMA INA    
+0200848 :             OTA
+0200855 :     IMA INA OTA
+0200864 : AFA IMA     OTA
+0200957 : AFA IMA     OTA
+0200870 :     IMA     OTA
+0200983 : AFA IMA     OTA
+0200900 :     IMA        
+0200919 :     IMA INA    
+0200923 :             OTA
+0201025 :             OTA
+0201033 :     IMA INA    
+0201125 :     IMA INA OTA
+0201148 : AFA IMA     OTA
+0201173 :     IMA     OTA
+0201242 :     IMA        
+0201279 :     IMA        
+0201316 : AFA IMA     OTA
+0201335 :     IMA        
+0201346 :             OTA
+0201348 :     IMA     OTA
+0201395 :     IMA     OTA
+0201413 :             OTA
+0201435 :     IMA        
+0201470 :     IMA        
+0201521 :     IMA        
+0201528 :     IMA INA    
+0201541 : AFA IMA     OTA
+0201543 :     IMA     OTA
+0201602 :     IMA     OTA
+0201614 :             OTA
+0201621 : AFA IMA INA OTA
+0201627 :     IMA        
+0201638 :     IMA        
+0201647 :             OTA
+0201656 :             OTA
+0201673 :     IMA        
+0201680 :     IMA INA OTA
+0201682 :     IMA     OTA
+0201706 : AFA IMA     OTA
+0201715 :         INA    
+0201729 :     IMA     OTA
+0201741 :     IMA        
+0201767 : AFA IMA        
+0201800 :     IMA     OTA
+0201831 :     IMA        
+0201843 :     IMA        
+0201852 :     IMA        
+0201896 : AFA IMA     OTA
+0201967 : AFA IMA INA OTA
+0201901 :     IMA        
+0201910 :     IMA     OTA
+0201925 :     IMA     OTA
+0201928 :     IMA     OTA
+0201961 :             OTA
+0202019 : AFA IMA     OTA
+0202055 :             OTA
+0202084 :     IMA     OTA
+0202127 :     IMA INA OTA
+0202151 :     IMA        
+0202182 : AFA IMA INA OTA
+0202196 :     IMA     OTA
+0202293 :     IMA     OTA
+0202298 :     IMA     OTA
+0202341 :     IMA     OTA
+0202379 :             OTA
+0202385 :             OTA
+0202398 : AFA IMA     OTA
+0202415 :     IMA INA OTA
+0202445 :     IMA INA    
+0202501 : AFA IMA INA OTA
+0202531 :     IMA        
+0202536 :     IMA        
+0202587 : AFA IMA     OTA
+0202601 :     IMA        
+0202607 :             OTA
+0202666 :     IMA        
+0202718 :             OTA
+0202762 :         INA    
+0202779 :         INA    
+0202820 :     IMA     OTA
+0202838 : AFA IMA        
+0202848 :     IMA     OTA
+0202956 :     IMA     OTA
+0202870 :             OTA
+0202980 :     IMA     OTA
+0202982 :     IMA INA OTA
+0202882 :             OTA
+0202934 :             OTA
+0202985 :             OTA
+0203002 : AFA IMA INA OTA
+0203010 :     IMA        
+0203023 : AFA IMA     OTA
+0203124 :             OTA
+0203193 : AFA IMA     OTA
+0203146 :             OTA
+0203198 :     IMA     OTA
+0203211 :     IMA INA    
+0203228 :             OTA
+0203258 :     IMA        
+0203282 :     IMA INA    
+0203317 :     IMA     OTA
+0203423 :     IMA        
+0203434 :     IMA     OTA
+0203444 :         INA    
+0203455 :         INA    
+0203458 :     IMA     OTA
+0203460 :             OTA
+0203488 :             OTA
+0203494 :             OTA
+0203537 :     IMA     OTA
+0203627 :             OTA
+0203702 :             OTA
+0203723 :     IMA        
+0203738 :     IMA        
+0203784 :     IMA        
+0203805 : AFA IMA INA OTA
+0203946 : AFA IMA INA OTA
+0203827 :             OTA
+0203852 :     IMA INA    
+0203869 :     IMA        
+0203894 :     IMA        
+0203981 :     IMA     OTA
+0203897 :             OTA
+0204112 :     IMA        
+0204124 : AFA IMA INA OTA
+0204263 :             OTA
+0204375 :             OTA
+0204453 :             OTA
+0204528 :             OTA
+0204707 :             OTA
+0204913 :             OTA
+0204917 :             OTA
+0204921 :             OTA
+0204956 :             OTA
+0204997 :             OTA
+0205109 :             OTA
+0205243 :             OTA
+0205248 :             OTA
+0205296 :             OTA
+0205313 :             OTA
+0205354 :             OTA
+0205432 :             OTA
+0205541 :             OTA
+0205576 :             OTA
+0205604 :             OTA
+0205698 :             OTA
+0205715 :             OTA
+0205719 :             OTA
+0205733 :             OTA
+0205818 :             OTA
+0205823 :             OTA
+0205972 :             OTA
+0206080 :             OTA
+0206226 :             OTA
+0206329 :             OTA
+0206398 :             OTA
+0206559 :             OTA
+0206631 :             OTA
+0206660 :             OTA
+0206790 :             OTA
+0206791 :             OTA
+0206856 :             OTA
+0206969 :             OTA
+0206984 :             OTA
+0207015 :             OTA
+0207018 :             OTA
+0207139 :             OTA
+0207261 :             OTA
+0207265 :             OTA
+0207375 :             OTA
+0207416 :             OTA
+0207454 :             OTA
+0207458 :             OTA
+0207556 :             OTA
+0207684 :             OTA
+0208006 :             OTA
+0208031 :             OTA
+0208176 :             OTA
+0208267 :             OTA
+0208311 :             OTA
+0208557 :             OTA
+0300038 :         INA OTA
+0300078 :     IMA INA OTA
+0300106 :             OTA
+0300120 :     IMA     OTA
+0300184 : AFA IMA     OTA
+0300203 :             OTA
+0300238 :             OTA
+0300276 :             OTA
+0300304 :     IMA INA OTA
+0300308 :         INA    
+0300319 :     IMA INA OTA
+0300335 :             OTA
+0300364 :     IMA INA OTA
+0300388 :         INA    
+0300402 :         INA    
+0300466 :             OTA
+0300553 : AFA IMA INA    
+0300554 :             OTA
+0300631 :             OTA
+0300634 :             OTA
+0300696 : AFA IMA     OTA
+0300666 :         INA    
+0300702 :     IMA     OTA
+0300758 :     IMA        
+0300773 :             OTA
+0300787 :     IMA INA OTA
+0300790 :     IMA INA OTA
+0300794 :     IMA INA OTA
+0300872 :     IMA INA OTA
+0300878 :     IMA INA    
+0300936 :     IMA INA OTA
+0300956 :     IMA INA OTA
+0300961 :     IMA INA OTA
+0300987 :         INA OTA
+0301050 :             OTA
+0301057 :             OTA
+0301104 :             OTA
+0301167 :             OTA
+0301173 :     IMA     OTA
+0301247 :             OTA
+0301283 :     IMA INA    
+0301285 :             OTA
+0301358 :             OTA
+0301369 :             OTA
+0301371 :     IMA     OTA
+0301523 :     IMA INA OTA
+0301537 :     IMA        
+0301538 :     IMA INA    
+0301594 :         INA    
+0301546 :             OTA
+0301593 :             OTA
+0301615 :     IMA INA OTA
+0301647 :             OTA
+0301660 :     IMA INA    
+0301724 :             OTA
+0301731 : AFA IMA INA OTA
+0301910 : AFA IMA INA OTA
+0301745 :             OTA
+0301767 :     IMA INA    
+0301868 :             OTA
+0301870 :         INA    
+0301897 :     IMA     OTA
+0301905 :     IMA INA OTA
+0302136 :     IMA INA OTA
+0302195 :     IMA INA OTA
+0302198 :             OTA
+0302240 :     IMA INA OTA
+0302259 :             OTA
+0302314 :     IMA INA    
+0302322 :             OTA
+0302336 :     IMA INA OTA
+0302341 :     IMA        
+0302354 : AFA IMA INA OTA
+0302391 :     IMA     OTA
+0302361 :         INA    
+0302368 :             OTA
+0302386 :             OTA
+0302435 :             OTA
+0302451 :     IMA INA OTA
+0302458 :             OTA
+0302460 :             OTA
+0302476 :             OTA
+0302516 :         INA    
+0302542 : AFA IMA INA OTA
+0302574 :     IMA INA    
+0302591 :         INA OTA
+0302625 : AFA IMA INA OTA
+0302723 :             OTA
+0302724 :             OTA
+0302729 :             OTA
+0302752 :             OTA
+0302784 :             OTA
+0302828 :             OTA
+0302869 :             OTA
+0302956 :             OTA
+0303000 :             OTA
+0303008 :             OTA
+0303013 :             OTA
+0303085 :             OTA
+0303151 :             OTA
+0303176 :             OTA
+0303213 :             OTA
+0303306 :             OTA
+0303449 :             OTA
+0303483 :             OTA
+0303626 :             OTA
+0303680 :             OTA
+0303708 :             OTA
+0303731 :             OTA
+0303744 :             OTA
+0303918 :             OTA
+0304039 :             OTA
+0304041 :             OTA
+0304144 :             OTA
+0304188 :             OTA
+0304189 :             OTA
+0304264 :             OTA
+0304292 :             OTA
+0304334 :             OTA
+0304368 :             OTA
+0304447 :             OTA
+0304520 :             OTA
+0304531 :             OTA
+0304534 :             OTA
+0304588 :             OTA
+0304589 :             OTA
+0304621 :             OTA
+0304658 :             OTA
+0304721 :             OTA
+0304758 :             OTA
+0304775 :             OTA
+0304816 :             OTA
+0304824 :             OTA
+0304826 :             OTA
+0304830 :             OTA
+0304872 :             OTA
+0304895 :             OTA
+0304901 :             OTA
+0304926 :             OTA
+0304927 :             OTA
+0304989 :             OTA
+0305114 :             OTA
+0305155 :             OTA
+0305159 :             OTA
+0305191 :             OTA
+0305231 :             OTA
+0305301 :             OTA
+0305334 :             OTA
+0305369 :             OTA
+0305489 :             OTA
+0305491 :             OTA
+0305576 :             OTA
+0305697 :             OTA
+0305737 :             OTA
+0305800 :             OTA
+0400030 :             OTA
+0400031 :     IMA INA    
+0400044 : AFA IMA INA OTA
+0400058 :     IMA        
+0400060 : AFA IMA     OTA
+0400063 :     IMA INA OTA
+0400111 :     IMA        
+0400180 :             OTA
+0400212 : AFA IMA     OTA
+0400259 : AFA IMA        
+0400258 :             OTA
+0400267 :             OTA
+0400324 :             OTA
+0400393 :             OTA
+0400404 :     IMA INA    
+0400428 :     IMA     OTA
+0400441 :             OTA
+0400446 :             OTA
+0400448 :     IMA     OTA
+0400501 :             OTA
+0400503 :     IMA INA OTA
+0400530 : AFA IMA INA OTA
+0400581 :     IMA INA OTA
+0400587 :     IMA INA OTA
+0400603 :             OTA
+0400607 :     IMA        
+0400614 :     IMA INA    
+0400763 :         INA    
+0400815 :             OTA
+0400816 :     IMA     OTA
+0400833 :     IMA     OTA
+0400836 : AFA IMA INA OTA
+0400952 :     IMA        
+0400915 :         INA    
+0400957 :         INA    
+0400879 :             OTA
+0401027 :     IMA     OTA
+0401041 : AFA IMA INA OTA
+0401149 :     IMA INA OTA
+0401189 :     IMA INA    
+0401186 :             OTA
+0401299 :     IMA INA OTA
+0401249 :             OTA
+0401293 :             OTA
+0401306 :             OTA
+0401334 :     IMA INA    
+0401358 :     IMA INA    
+0401369 :     IMA INA    
+0401399 :             OTA
+0401401 :     IMA     OTA
+0401405 :     IMA        
+0401412 :             OTA
+0401431 :             OTA
+0401433 :             OTA
+0401459 :     IMA INA    
+0401481 :             OTA
+0401500 :     IMA     OTA
+0401552 :     IMA INA    
+0401589 :             OTA
+0401662 :             OTA
+0401663 : AFA IMA INA OTA
+0401903 : AFA IMA INA OTA
+0401738 :     IMA     OTA
+0401759 :             OTA
+0401766 :     IMA INA OTA
+0401780 :     IMA     OTA
+0401788 :     IMA INA OTA
+0401829 :     IMA INA OTA
+0401918 :     IMA INA OTA
+0401948 :     IMA     OTA
+0401999 :             OTA
+0402030 :     IMA     OTA
+0402037 :             OTA
+0402062 : AFA IMA INA OTA
+0402080 :     IMA INA OTA
+0402094 :         INA OTA
+0402191 : AFA IMA INA    
+0402131 :             OTA
+0402140 :             OTA
+0402155 :     IMA        
+0402164 :     IMA        
+0402178 :     IMA        
+0402190 :             OTA
+0402209 :     IMA INA OTA
+0402228 :             OTA
+0402276 :     IMA        
+0402318 :             OTA
+0402320 :         INA    
+0402365 :     IMA     OTA
+0402398 :             OTA
+0402410 :     IMA     OTA
+0402413 : AFA IMA     OTA
+0402492 : AFA IMA INA OTA
+0402488 :     IMA     OTA
+0402518 :     IMA     OTA
+0402560 : AFA IMA INA OTA
+0402561 :     IMA     OTA
+0402578 :     IMA     OTA
+0402598 : AFA IMA        
+0402693 : AFA IMA INA OTA
+0402673 :     IMA INA OTA
+0402678 :     IMA        
+0402707 :     IMA INA OTA
+0402754 :             OTA
+0402787 :         INA    
+0402802 :         INA    
+0402823 :             OTA
+0402833 :     IMA INA OTA
+0402860 :             OTA
+0402867 :             OTA
+0402876 :     IMA INA OTA
+0402881 :             OTA
+0402988 : AFA IMA INA OTA
+0402894 :     IMA INA OTA
+0402898 :     IMA INA OTA
+0402921 :             OTA
+0402928 :             OTA
+0402944 :             OTA
+0403006 :     IMA INA    
+0403012 :     IMA INA    
+0403022 :             OTA
+0403045 :     IMA INA    
+0403080 :     IMA INA OTA
+0403133 :             OTA
+0403194 : AFA IMA     OTA
+0403159 :     IMA     OTA
+0403187 :             OTA
+0403201 :     IMA     OTA
+0403224 : AFA IMA     OTA
+0403255 :             OTA
+0403256 :         INA    
+0403289 :     IMA INA    
+0403344 :         INA    
+0403385 : AFA IMA     OTA
+0403446 :     IMA        
+0403450 :     IMA     OTA
+0403452 :     IMA INA    
+0403464 :     IMA     OTA
+0403516 :     IMA     OTA
+0403611 :         INA    
+0403661 :             OTA
+0403708 :     IMA INA    
+0403710 :             OTA
+0403714 :     IMA     OTA
+0403729 :     IMA     OTA
+0403731 :     IMA        
+0403733 :     IMA     OTA
+0403752 :     IMA INA    
+0403776 :     IMA     OTA
+0403785 :     IMA INA OTA
+0403786 : AFA IMA INA OTA
+0403813 : AFA IMA     OTA
+0403860 :     IMA        
+0403923 :     IMA     OTA
+0403968 :     IMA        
+0403985 :             OTA
+0404007 :             OTA
+0404104 :             OTA
+0404197 :             OTA
+0404241 :             OTA
+0404289 :             OTA
+0404343 :             OTA
+0404365 :             OTA
+0404383 :             OTA
+0404434 :             OTA
+0404529 :             OTA
+0404536 :             OTA
+0404588 :             OTA
+0404627 :             OTA
+0404711 :             OTA
+0404736 :             OTA
+0404797 :             OTA
+0404812 :             OTA
+0404834 :             OTA
+0404855 :             OTA
+0404918 :             OTA
+0405048 :             OTA
+0405105 :             OTA
+0405122 :             OTA
+0405226 :             OTA
+0405231 :             OTA
+0405396 :             OTA
+0405402 :             OTA
+0405430 :             OTA
+0405446 :             OTA
+0405539 :             OTA
+0405590 :             OTA
+0405730 :             OTA
+0405747 :             OTA
+0405816 :             OTA
+0405818 :             OTA
+0405893 :             OTA
+0405916 :             OTA
+0405984 :             OTA
+0405988 :             OTA
+0406047 :             OTA
+0406076 :             OTA
+0406094 :             OTA
+0406174 :             OTA
+0406203 :             OTA
+0406211 :             OTA
+0406262 :             OTA
+0406510 :             OTA
+0406567 :             OTA
+0406589 :             OTA
+0406780 :             OTA
+0406815 :             OTA
+0406864 :             OTA
+0406869 :             OTA
+0406890 :             OTA
+0406920 :             OTA
+0406944 :             OTA
+0406949 :             OTA
+0407051 :             OTA
+0407084 :             OTA
+0407111 :             OTA
+0407204 :             OTA
+0407219 :             OTA
+0407236 :             OTA
+0407256 :             OTA
+0407287 :             OTA
+0407319 :             OTA
+0407332 :             OTA
+0407498 :             OTA
+0407511 :             OTA
+0407528 :             OTA
+0407669 :             OTA
+0407688 :             OTA
+0407720 :             OTA
+0407795 :             OTA
+0407806 :             OTA
+0407828 :             OTA
+0407835 :             OTA
+0407879 :             OTA
+0407937 :             OTA
+0407942 :             OTA
+0408094 :             OTA
+0408144 :             OTA
+0408211 :             OTA
+0408279 :             OTA
+0408344 :             OTA
+0408473 :             OTA
+0408502 :             OTA
+0408513 :             OTA
+0408540 :             OTA
+0408639 :             OTA
+0408696 :             OTA
+0408746 :             OTA
+0408857 :             OTA
+0408878 :             OTA
+0408935 :             OTA
+0408969 :             OTA
+0408970 :             OTA
+0409025 :             OTA
+0409068 :             OTA
+0409081 :             OTA
+0409098 :             OTA
+0409133 :             OTA
+0409176 :             OTA
+0409287 :             OTA
+0409337 :             OTA
+0409367 :             OTA
+0409409 :             OTA
+0409472 :             OTA
+0500030 :             OTA
+0500034 :             OTA
+0500070 :     IMA     OTA
+0500100 :         INA    
+0500118 :             OTA
+0500178 :             OTA
+0500188 :             OTA
+0500203 : AFA IMA     OTA
+0500237 :     IMA        
+0500291 :     IMA INA OTA
+0500297 :             OTA
+0500348 : AFA IMA     OTA
+0500355 :     IMA INA OTA
+0500407 :         INA    
+0500432 :     IMA INA OTA
+0500498 :         INA    
+0500506 :     IMA INA OTA
+0500519 :             OTA
+0500522 :             OTA
+0500542 :     IMA     OTA
+0500560 :             OTA
+0500669 :     IMA     OTA
+0500778 : AFA IMA INA OTA
+0500816 :     IMA INA    
+0500842 : AFA IMA     OTA
+0500869 : AFA IMA INA OTA
+0500922 : AFA IMA INA OTA
+0500942 : AFA IMA INA OTA
+0500960 : AFA IMA INA OTA
+0500890 :     IMA INA OTA
+0500915 :     IMA INA    
+0500933 :     IMA     OTA
+0500939 :     IMA INA OTA
+0500925 :         INA OTA
+0500936 :             OTA
+0500966 :             OTA
+0501002 :     IMA     OTA
+0501058 :     IMA INA OTA
+0501093 :     IMA        
+0501087 :             OTA
+0501193 :     IMA     OTA
+0501189 :             OTA
+0501202 :     IMA INA OTA
+0501203 :             OTA
+0501226 :             OTA
+0501240 :             OTA
+0501245 : AFA IMA INA OTA
+0501249 :     IMA INA    
+0501266 :             OTA
+0501268 :     IMA     OTA
+0501280 :     IMA INA OTA
+0501309 :     IMA     OTA
+0501342 :     IMA INA OTA
+0501347 :             OTA
+0501426 :         INA    
+0501489 :         INA OTA
+0501487 :             OTA
+0501502 :     IMA     OTA
+0501526 :     IMA     OTA
+0501601 :     IMA INA OTA
+0501680 :             OTA
+0501717 :     IMA INA    
+0501729 : AFA IMA INA    
+0501743 :             OTA
+0501758 :         INA OTA
+0501770 :     IMA INA OTA
+0501871 :     IMA     OTA
+0501944 :     IMA INA    
+0501963 :     IMA INA    
+0501980 :     IMA        
+0501904 :             OTA
+0501912 :             OTA
+0501925 :             OTA
+0501990 :             OTA
+0502000 :     IMA        
+0502009 :     IMA INA OTA
+0502047 :     IMA     OTA
+0502056 :             OTA
+0502074 :             OTA
+0502100 :             OTA
+0502152 :             OTA
+0502155 :     IMA     OTA
+0502190 :             OTA
+0502194 :             OTA
+0502229 :     IMA     OTA
+0502256 :     IMA INA OTA
+0502264 :             OTA
+0502273 :     IMA INA    
+0502310 :             OTA
+0502339 :             OTA
+0502351 :     IMA INA OTA
+0502382 :     IMA INA    
+0502405 :     IMA     OTA
+0502435 :     IMA INA OTA
+0502569 :             OTA
+0502643 : AFA IMA        
+0502914 : AFA IMA INA OTA
+0502647 :     IMA INA    
+0502653 :             OTA
+0502655 :     IMA INA OTA
+0502665 :         INA OTA
+0502684 :     IMA INA    
+0502686 :             OTA
+0502710 :     IMA     OTA
+0502719 :             OTA
+0502726 :             OTA
+0502734 :             OTA
+0502764 :             OTA
+0502800 :             OTA
+0502846 :     IMA        
+0502877 :     IMA        
+0502909 :     IMA INA    
+0502924 :     IMA        
+0502953 :     IMA INA    
+0502978 :         INA    
+0502891 :             OTA
+0502894 :             OTA
+0502938 :             OTA
+0502990 :             OTA
+0503002 :             OTA
+0503055 :         INA    
+0503100 :             OTA
+0503104 :     IMA INA OTA
+0503134 : AFA IMA INA OTA
+0503180 :     IMA INA    
+0503190 :         INA    
+0503390 :     IMA     OTA
+0503398 :         INA OTA
+0503447 :         INA    
+0503503 :     IMA INA    
+0503527 : AFA IMA INA OTA
+0503550 :         INA OTA
+0503555 : AFA IMA INA OTA
+0503628 :             OTA
+0503632 :     IMA INA OTA
+0503655 :     IMA INA    
+0503683 :             OTA
+0503749 :     IMA     OTA
+0503766 :             OTA
+0503827 :             OTA
+0503898 : AFA IMA INA OTA
+0503942 : AFA IMA INA OTA
+0503946 :     IMA     OTA
+0503913 :             OTA
+0504003 :     IMA INA OTA
+0504027 :     IMA INA OTA
+0504034 :     IMA INA    
+0504035 : AFA IMA INA OTA
+0504036 :     IMA     OTA
+0504039 :             OTA
+0504049 :             OTA
+0504089 : AFA IMA     OTA
+0504137 :         INA OTA
+0504158 :             OTA
+0504226 :             OTA
+0504242 :     IMA     OTA
+0504272 :     IMA INA OTA
+0504278 :     IMA INA OTA
+0504330 :     IMA     OTA
+0504381 :         INA OTA
+0504385 :         INA OTA
+0504415 :             OTA
+0504428 :             OTA
+0504433 :     IMA INA OTA
+0504555 :             OTA
+0504594 :             OTA
+0504620 : AFA IMA INA OTA
+0504650 :             OTA
+0504754 :     IMA     OTA
+0504761 :     IMA     OTA
+0504782 :             OTA
+0504819 :     IMA INA OTA
+0504824 :             OTA
+0504850 :             OTA
+0504864 :     IMA INA    
+0504960 :     IMA INA    
+0504917 :         INA OTA
+0504955 :         INA    
+0504897 :             OTA
+0504973 :             OTA
+0505000 :     IMA        
+0505019 :             OTA
+0505029 :     IMA     OTA
+0505050 :         INA OTA
+0505072 :     IMA        
+0505139 :             OTA
+0505142 :             OTA
+0505162 :             OTA
+0505212 :     IMA INA OTA
+0505263 :     IMA INA OTA
+0505267 :             OTA
+0505391 : AFA IMA     OTA
+0505327 :             OTA
+0505334 :         INA    
+0505385 :     IMA     OTA
+0505469 :     IMA INA    
+0505465 :             OTA
+0505494 :             OTA
+0505500 :     IMA     OTA
+0505511 :             OTA
+0505528 :     IMA INA OTA
+0505599 :             OTA
+0505604 :             OTA
+0505649 :         INA OTA
+0505647 :             OTA
+0505678 :             OTA
+0505794 :     IMA INA OTA
+0505791 :         INA    
+0505793 :             OTA
+0505820 :     IMA INA OTA
+0505832 :             OTA
+0505893 : AFA IMA INA OTA
+0505840 :     IMA     OTA
+0505899 :     IMA INA OTA
+0505928 :     IMA INA OTA
+0505908 :             OTA
+0506019 :     IMA INA OTA
+0506022 :     IMA INA OTA
+0506068 :     IMA     OTA
+0506123 :     IMA        
+0506179 :             OTA
+0506186 :         INA OTA
+0506219 :     IMA        
+0506237 :     IMA INA OTA
+0506319 :             OTA
+0506336 :     IMA INA    
+0506379 : AFA IMA INA OTA
+0506415 :     IMA     OTA
+0506475 :         INA    
+0506485 :             OTA
+0506507 :             OTA
+0506523 :     IMA INA OTA
+0506535 :             OTA
+0506540 :     IMA INA OTA
+0506571 :     IMA INA OTA
+0506672 :             OTA
+0506686 :         INA    
+0506723 :         INA    
+0506756 :             OTA
+0506779 :     IMA     OTA
+0506788 :             OTA
+0506817 :     IMA     OTA
+0506835 :             OTA
+0506882 :             OTA
+0506920 :             OTA
+0506935 :             OTA
+0506980 :             OTA
+0507017 :             OTA
+0507083 :             OTA
+0507109 :             OTA
+0507131 :             OTA
+0507133 :             OTA
+0507163 :             OTA
+0507174 :             OTA
+0507205 :             OTA
+0507320 :             OTA
+0507373 :             OTA
+0507393 :             OTA
+0507409 :             OTA
+0507434 :             OTA
+0507470 :             OTA
+0507496 :             OTA
+0507528 :             OTA
+0507549 :             OTA
+0507594 :             OTA
+0507675 :             OTA
+0507758 :             OTA
+0507774 :             OTA
+0507776 :             OTA
+0507793 :             OTA
+0507802 :             OTA
+0507825 :             OTA
+0507849 :             OTA
+0507899 :             OTA
+0507932 :             OTA
+0507977 :             OTA
+0508072 :             OTA
+0508128 :             OTA
+0508196 :             OTA
+0508200 :             OTA
+0508205 :             OTA
+0508266 :             OTA
+0508298 :             OTA
+0508318 :             OTA
+0508354 :             OTA
+0508388 :             OTA
+0508487 :             OTA
+0508522 :             OTA
+0508565 :             OTA
+0508659 :             OTA
+0508709 :             OTA
+0508733 :             OTA
+0508756 :             OTA
+0508774 :             OTA
+0508784 :             OTA
+0508788 :             OTA
+0508837 :             OTA
+0508952 :             OTA
+0508994 :             OTA
+0509013 :             OTA
+0509164 :             OTA
+0509189 :             OTA
+0509198 :             OTA
+0509204 :             OTA
+0509222 :             OTA
+0509261 :             OTA
+0509345 :             OTA
+0509370 :             OTA
+0509372 :             OTA
+0509379 :             OTA
+0509408 :             OTA
+0509553 :             OTA
+0509589 :             OTA
+0509606 :             OTA
+0509743 :             OTA
+0509798 :             OTA
+0509846 :             OTA
+0509977 :             OTA
+0509979 :             OTA
+0509994 :             OTA
+0510059 :             OTA
+0510120 :             OTA
+0510147 :             OTA
+0510149 :             OTA
+0510210 :             OTA
+0510267 :             OTA
+0510291 :             OTA
+0510328 :             OTA
+0510425 :             OTA
+0510484 :             OTA
+0510530 :             OTA
+0510543 :             OTA
+0510562 :             OTA
+0510626 :             OTA
+0510639 :             OTA
+0510682 :             OTA
+0510705 :             OTA
+0510776 :             OTA
+0510935 :             OTA
+0510988 :             OTA
+0511067 :             OTA
+0511077 :             OTA
+0511086 :             OTA
+0511092 :             OTA
+0511098 :             OTA
+0511113 :             OTA
+0511136 :             OTA
+0511137 :             OTA
+0511140 :             OTA
+0511202 :             OTA
+0511205 :             OTA
+0511234 :             OTA
+0511260 :             OTA
+0511264 :             OTA
+0511281 :             OTA
+0511282 :             OTA
+0511305 :             OTA
+0511386 :             OTA
+0511405 :             OTA
+0511427 :             OTA
+0511435 :             OTA
+0511606 :             OTA
+0511652 :             OTA
+0511676 :             OTA
+0511741 :             OTA
+0511742 :             OTA
+0511778 :             OTA
+0511828 :             OTA
+0511842 :             OTA
+0511854 :             OTA
+0512017 :             OTA
+0512035 :             OTA
+0512128 :             OTA
+0512131 :             OTA
+0512170 :             OTA
+0512241 :             OTA
+0512276 :             OTA
+0512350 :             OTA
+0512438 :             OTA
+0512442 :             OTA
+0512495 :             OTA
+0512525 :             OTA
+0512548 :             OTA
+0512616 :             OTA
+0512630 :             OTA
+0512684 :             OTA
+0512772 :             OTA
+0512773 :             OTA
+0512802 :             OTA
+0512809 :             OTA
+0512822 :             OTA
+0512845 :             OTA
+0512856 :             OTA
+0512858 :             OTA
+0512962 :             OTA
+0513025 :             OTA
+0513042 :             OTA
+0513092 :             OTA
+0513135 :             OTA
+0513137 :             OTA
+0513175 :             OTA
+0513192 :             OTA
+0513211 :             OTA
+0513350 :             OTA
+0513433 :             OTA
+0513457 :             OTA
+0513497 :             OTA
+0513536 :             OTA
+0513575 :             OTA
+0513584 :             OTA
+0513593 :             OTA
+0513609 :             OTA
+0513632 :             OTA
+0513659 :             OTA
+0513701 :             OTA
+0513706 :             OTA
+0513748 :             OTA
+0513797 :             OTA
+0513886 :             OTA
+0513939 :             OTA
+0513943 :             OTA
+0513959 :             OTA
+0514107 :             OTA
+0514152 :             OTA
+0514215 :             OTA
+0514291 :             OTA
+0514335 :             OTA
+0514357 :             OTA
+0514362 :             OTA
+0514372 :             OTA
+0514389 :             OTA
+0514405 :             OTA
+0514425 :             OTA
+0514463 :             OTA
+0514467 :             OTA
+0514485 :             OTA
+0514588 :             OTA
+0514684 :             OTA
+0514702 :             OTA
+0514795 :             OTA
+0514847 :             OTA
+0514859 :             OTA
+0514862 :             OTA
+0514868 :             OTA
+0600081 :     IMA INA OTA
+0600194 : AFA IMA        
+0600171 :     IMA INA    
+0600214 :             OTA
+0600397 :     IMA INA OTA
+0600440 : AFA IMA     OTA
+0600473 :     IMA     OTA
+0600522 :     IMA INA    
+0600570 :             OTA
+0600576 :     IMA INA OTA
+0600639 :             OTA
+0600890 :     IMA INA    
+0600851 :             OTA
+0600989 :     IMA     OTA
+0600885 :             OTA
+0601079 :     IMA INA OTA
+0601252 :             OTA
+0601254 : AFA IMA INA    
+0601292 :         INA    
+0601417 : AFA IMA INA OTA
+0601424 :     IMA        
+0601432 :             OTA
+0601460 :         INA    
+0601464 : AFA IMA INA OTA
+0601478 :             OTA
+0601580 :     IMA     OTA
+0601601 :     IMA        
+0601633 :         INA    
+0601663 :     IMA     OTA
+0601675 :     IMA INA    
+0601799 :     IMA     OTA
+0601954 :     IMA     OTA
+0601990 :     IMA INA OTA
+0601717 :         INA OTA
+0601915 :             OTA
+0602121 :             OTA
+0602173 :     IMA INA    
+0602377 : AFA IMA     OTA
+0602382 :     IMA        
+0602456 :     IMA INA OTA
+0602570 :     IMA INA    
+0602571 :     IMA        
+0602607 :             OTA
+0602619 :     IMA INA OTA
+0602668 :             OTA
+0602736 :     IMA     OTA
+0602741 :     IMA INA    
+0602742 : AFA IMA     OTA
+0602770 :         INA OTA
+0602829 :     IMA INA    
+0602899 :     IMA INA OTA
+0602872 :         INA    
+0602989 :             OTA
+0603024 :     IMA        
+0603122 :             OTA
+0603172 :     IMA        
+0603176 : AFA IMA INA OTA
+0603194 :     IMA        
+0603219 :             OTA
+0603252 :             OTA
+0603329 :             OTA
+0603369 :             OTA
+0603393 :             OTA
+0603394 :             OTA
+0603684 :             OTA
+0603816 :             OTA
+0603889 :             OTA
+0603932 :             OTA
+0603997 :             OTA
+0604055 :             OTA
+0604135 :             OTA
+0604368 :             OTA
+0604409 :             OTA
+0604424 :             OTA
+0604449 :             OTA
+0604465 :             OTA
+0604561 :             OTA
+0604592 :             OTA
+0604605 :             OTA
+0604683 :             OTA
+0604710 :             OTA
+0604758 :             OTA
+0604789 :             OTA
+0604846 :             OTA
+0604878 :             OTA
+0604899 :             OTA
+0605011 :             OTA
+0605110 :             OTA
+0605252 :             OTA
+0605309 :             OTA
+0605598 :             OTA
+0605804 :             OTA
+0605921 :             OTA
+0606003 :             OTA
+0606106 :             OTA
+0606144 :             OTA
+0606163 :             OTA
+0606229 :             OTA
+0606254 :             OTA
+0606270 :             OTA
+0606290 :             OTA
+0606310 :             OTA
+0606333 :             OTA
+0606403 :             OTA
+0606429 :             OTA
+0606479 :             OTA
+0606504 :             OTA
+0606531 :             OTA
+0606567 :             OTA
+0606577 :             OTA
+0606598 :             OTA
+0606686 :             OTA
+0606775 :             OTA
+0606780 :             OTA
+0606794 :             OTA
+0700068 :     IMA     OTA
+0700153 :     IMA     OTA
+0700299 :     IMA        
+0700351 :     IMA        
+0700402 :     IMA INA    
+0700435 :     IMA     OTA
+0700437 :     IMA     OTA
+0700489 :     IMA INA OTA
+0700545 :     IMA     OTA
+0700959 : AFA IMA INA    
+0700745 :     IMA        
+0700759 :     IMA     OTA
+0700765 :         INA    
+0700809 :     IMA        
+0700920 :     IMA        
+0700937 :     IMA INA    
+0700992 :     IMA        
+0700817 :             OTA
+0701028 :     IMA INA    
+0701031 : AFA IMA INA    
+0701106 :             OTA
+0701111 :     IMA        
+0701139 : AFA IMA     OTA
+0701145 : AFA IMA     OTA
+0701295 :     IMA        
+0701271 :             OTA
+0701333 :             OTA
+0701425 :             OTA
+0701438 :     IMA        
+0701466 : AFA IMA     OTA
+0701553 :     IMA     OTA
+0701603 : AFA IMA INA    
+0701608 :     IMA INA OTA
+0701621 :     IMA        
+0701650 :             OTA
+0701702 :     IMA     OTA
+0701724 :             OTA
+0701740 : AFA IMA        
+0701789 :     IMA INA OTA
+0701786 :             OTA
+0701823 :     IMA     OTA
+0701950 :             OTA
+0702123 :             OTA
+0702168 :             OTA
+0702309 :             OTA
+0702374 :             OTA
+0702390 :             OTA
+0702444 :             OTA
+0702513 :             OTA
+0702676 :             OTA
+0702942 :             OTA
+0702959 :             OTA
+0702990 :             OTA
+0703019 :             OTA
+0703122 :             OTA
+0703262 :             OTA
+0703286 :             OTA
+0703287 :             OTA
+0703317 :             OTA
+0703453 :             OTA
+0703487 :             OTA
+0703693 :             OTA
+0800013 :         INA OTA
+0800016 :         INA    
+0800023 :     IMA     OTA
+0800034 :     IMA INA OTA
+0800056 :     IMA        
+0800058 : AFA IMA     OTA
+0800119 :     IMA        
+0800133 : AFA IMA INA    
+0800136 : AFA IMA     OTA
+0800141 :     IMA        
+0800167 :     IMA        
+0800172 :     IMA     OTA
+0800186 :     IMA        
+0800190 :     IMA INA    
+0800223 :     IMA INA OTA
+0800226 :     IMA        
+0800232 :             OTA
+0800233 :             OTA
+0800234 :             OTA
+0800288 :             OTA
+0800305 :     IMA        
+0800333 :             OTA
+0800344 :     IMA     OTA
+0800372 :     IMA     OTA
+0800395 :     IMA INA OTA
+0800386 :             OTA
+0800405 :     IMA INA OTA
+0800435 : AFA IMA        
+0800437 : AFA IMA        
+0800470 :     IMA        
+0800489 :             OTA
+0800510 :             OTA
+0800527 :         INA    
+0800531 :     IMA INA    
+0800559 :     IMA     OTA
+0800567 :             OTA
+0800568 : AFA IMA     OTA
+0800576 :     IMA     OTA
+0800583 :             OTA
+0800589 :             OTA
+0800601 :             OTA
+0800622 :     IMA        
+0800665 : AFA IMA INA OTA
+0800666 :     IMA     OTA
+0800674 :             OTA
+0800686 :     IMA     OTA
+0800710 :     IMA     OTA
+0800724 :     IMA        
+0800736 :             OTA
+0800752 :     IMA        
+0800777 :     IMA INA OTA
+0800783 :     IMA INA OTA
+0800798 :     IMA     OTA
+0800813 :     IMA        
+0800823 :     IMA     OTA
+0800827 : AFA IMA        
+0800833 :     IMA        
+0800847 : AFA IMA INA OTA
+0800907 : AFA IMA INA OTA
+0800922 : AFA IMA        
+0800936 : AFA IMA INA    
+0800952 : AFA IMA INA    
+0800960 : AFA IMA        
+0800850 :             OTA
+0800883 :     IMA     OTA
+0800886 :     IMA INA OTA
+0800887 :     IMA INA OTA
+0800929 :     IMA        
+0800939 :     IMA INA    
+0800950 :     IMA INA    
+0800961 :     IMA        
+0800996 :     IMA INA    
+0800916 :             OTA
+0800997 :             OTA
+0801010 :     IMA     OTA
+0801022 : AFA IMA        
+0801025 :     IMA INA OTA
+0801026 :     IMA INA OTA
+0801050 :     IMA INA    
+0801086 :     IMA     OTA
+0801089 :     IMA INA    
+0801093 :     IMA        
+0801091 :             OTA
+0801099 :             OTA
+0801117 :     IMA        
+0801128 : AFA IMA     OTA
+0801149 : AFA IMA INA OTA
+0801157 :     IMA     OTA
+0801167 :     IMA     OTA
+0801183 :     IMA     OTA
+0801220 :             OTA
+0801228 :             OTA
+0801251 :     IMA        
+0801295 :     IMA     OTA
+0801308 :     IMA     OTA
+0801311 :     IMA     OTA
+0801313 :     IMA        
+0801323 :             OTA
+0801324 : AFA IMA     OTA
+0801356 :     IMA        
+0801358 :             OTA
+0801371 : AFA IMA INA OTA
+0801410 : AFA IMA INA    
+0801433 :     IMA INA OTA
+0801440 : AFA IMA INA OTA
+0801452 :     IMA        
+0801463 :     IMA        
+0801500 :     IMA     OTA
+0801521 :             OTA
+0801584 :     IMA     OTA
+0801598 :         INA OTA
+0801612 :             OTA
+0801617 :     IMA INA OTA
+0801622 :     IMA        
+0801635 :     IMA        
+0801670 :     IMA INA OTA
+0801689 :     IMA     OTA
+0801715 :     IMA        
+0801762 :     IMA     OTA
+0801770 :         INA    
+0801780 : AFA IMA     OTA
+0801782 :     IMA     OTA
+0801795 :             OTA
+0801810 :     IMA     OTA
+0801813 :     IMA INA    
+0801829 :             OTA
+0801831 :     IMA        
+0801848 :     IMA     OTA
+0801890 :     IMA     OTA
+0801912 :     IMA        
+0801920 :     IMA     OTA
+0801990 :     IMA     OTA
+0802013 : AFA IMA     OTA
+0802023 :         INA OTA
+0802030 :     IMA        
+0802034 :     IMA     OTA
+0802045 :             OTA
+0802055 :     IMA INA    
+0802083 :             OTA
+0802115 :     IMA     OTA
+0802116 :         INA    
+0802137 :     IMA INA    
+0802147 :     IMA        
+0802162 :     IMA INA OTA
+0802165 :     IMA INA OTA
+0802176 : AFA IMA     OTA
+0802179 :     IMA        
+0802220 : AFA IMA     OTA
+0802223 : AFA IMA     OTA
+0802230 :     IMA INA OTA
+0802236 :     IMA INA    
+0802258 :     IMA        
+0802262 :             OTA
+0802306 : AFA IMA     OTA
+0802368 :             OTA
+0802375 : AFA IMA     OTA
+0802417 :             OTA
+0802436 :     IMA     OTA
+0802439 :             OTA
+0802447 :             OTA
+0802467 :     IMA INA OTA
+0802519 :             OTA
+0802521 : AFA IMA INA OTA
+0802527 :     IMA        
+0802556 :             OTA
+0802570 :     IMA     OTA
+0802572 :     IMA INA OTA
+0802595 :             OTA
+0802628 :     IMA        
+0802633 :     IMA INA OTA
+0802638 :     IMA     OTA
+0802671 : AFA IMA INA OTA
+0802698 :             OTA
+0802726 : AFA IMA     OTA
+0802758 :     IMA     OTA
+0802765 :     IMA     OTA
+0802770 :             OTA
+0802836 :             OTA
+0802842 :     IMA     OTA
+0802846 : AFA IMA INA    
+0802855 : AFA IMA     OTA
+0802896 : AFA IMA     OTA
+0802943 :     IMA INA OTA
+0802960 :     IMA     OTA
+0802898 :             OTA
+0802906 :             OTA
+0802925 :             OTA
+0803000 :     IMA        
+0803002 :     IMA     OTA
+0803022 :         INA    
+0803025 :         INA    
+0803027 :     IMA        
+0803041 : AFA IMA        
+0803054 : AFA IMA INA OTA
+0803090 : AFA IMA     OTA
+0803061 :     IMA        
+0803074 :     IMA        
+0803114 :     IMA     OTA
+0803122 :     IMA     OTA
+0803126 :     IMA INA OTA
+0803138 :             OTA
+0803144 :     IMA        
+0803151 :     IMA     OTA
+0803186 :     IMA        
+0803207 :     IMA     OTA
+0803258 :             OTA
+0803282 :         INA    
+0803288 :     IMA     OTA
+0803335 : AFA IMA        
+0803416 :             OTA
+0803426 : AFA IMA INA OTA
+0803446 :             OTA
+0803481 : AFA IMA        
+0803492 :     IMA        
+0803508 :     IMA     OTA
+0803510 :     IMA        
+0803542 :     IMA        
+0803547 :     IMA INA    
+0803551 : AFA IMA     OTA
+0803556 :             OTA
+0803564 :     IMA INA OTA
+0803604 :     IMA        
+0803612 :             OTA
+0803621 : AFA IMA     OTA
+0803628 :             OTA
+0803641 :     IMA        
+0803645 :             OTA
+0803688 :             OTA
+0803689 :             OTA
+0803709 :         INA    
+0803714 :             OTA
+0803729 :     IMA     OTA
+0803737 :     IMA     OTA
+0803738 :             OTA
+0803740 : AFA IMA     OTA
+0803754 :             OTA
+0803776 :     IMA     OTA
+0803791 :             OTA
+0803809 :             OTA
+0803824 :             OTA
+0803893 : AFA IMA     OTA
+0803840 :             OTA
+0803861 :     IMA     OTA
+0803896 : AFA IMA     OTA
+0803943 : AFA IMA INA OTA
+0803960 : AFA IMA     OTA
+0803877 :     IMA        
+0803936 :     IMA        
+0803961 :     IMA INA OTA
+0803968 :     IMA INA OTA
+0803994 :     IMA     OTA
+0803997 :     IMA INA    
+0803953 :         INA    
+0803907 :             OTA
+0803929 :             OTA
+0803988 :             OTA
+0804006 : AFA IMA     OTA
+0804034 : AFA IMA INA OTA
+0804046 :     IMA     OTA
+0804056 : AFA IMA        
+0804096 :     IMA     OTA
+0804100 :     IMA INA OTA
+0804124 :     IMA     OTA
+0804138 :     IMA        
+0804144 :     IMA        
+0804145 :     IMA INA OTA
+0804171 : AFA IMA INA OTA
+0804178 :     IMA        
+0804215 :     IMA INA OTA
+0804259 : AFA IMA        
+0804282 :     IMA        
+0804286 :     IMA     OTA
+0804318 :     IMA        
+0804321 :         INA OTA
+0804328 :     IMA        
+0804331 :     IMA     OTA
+0804335 :     IMA INA OTA
+0804391 :     IMA     OTA
+0804372 :             OTA
+0804402 :     IMA        
+0804420 :     IMA        
+0804439 :     IMA INA OTA
+0804432 :             OTA
+0804457 :         INA    
+0804458 :     IMA INA OTA
+0804470 :     IMA     OTA
+0804506 :     IMA        
+0804592 :     IMA INA    
+0804529 :         INA    
+0804569 :             OTA
+0804600 : AFA IMA     OTA
+0804645 :     IMA        
+0804679 :     IMA        
+0804677 :             OTA
+0804685 :     IMA     OTA
+0804721 :     IMA INA    
+0804746 :     IMA        
+0804755 :     IMA     OTA
+0804782 :     IMA     OTA
+0804811 :         INA    
+0804812 : AFA IMA     OTA
+0804856 :             OTA
+0804881 :     IMA        
+0804964 :     IMA        
+0804908 :         INA    
+0804926 :             OTA
+0804971 :             OTA
+0805022 :             OTA
+0805031 :     IMA INA    
+0805039 :     IMA        
+0805054 :             OTA
+0805085 :     IMA     OTA
+0805096 :     IMA INA    
+0805103 :     IMA     OTA
+0805192 : AFA IMA INA    
+0805130 :     IMA INA    
+0805195 :     IMA     OTA
+0805197 :             OTA
+0805281 : AFA IMA     OTA
+0805299 :     IMA INA OTA
+0805298 :             OTA
+0805302 :             OTA
+0805308 :             OTA
+0805315 :     IMA     OTA
+0805318 :     IMA INA    
+0805327 :     IMA        
+0805339 :             OTA
+0805344 :     IMA        
+0805369 :     IMA        
+0805373 :     IMA     OTA
+0805391 :     IMA        
+0805383 :         INA    
+0805390 :             OTA
+0805490 : AFA IMA INA    
+0805403 :     IMA INA OTA
+0805434 :     IMA        
+0805442 :     IMA INA OTA
+0805450 :     IMA        
+0805475 :             OTA
+0805498 : AFA IMA INA OTA
+0805497 :             OTA
+0805511 : AFA IMA     OTA
+0805530 :     IMA INA OTA
+0805540 :             OTA
+0805542 :     IMA INA OTA
+0805546 :     IMA     OTA
+0805555 : AFA IMA     OTA
+0805596 :             OTA
+0805617 :     IMA INA OTA
+0805633 : AFA IMA        
+0805644 :     IMA     OTA
+0805656 :             OTA
+0805657 :     IMA     OTA
+0805665 :     IMA     OTA
+0805694 :     IMA        
+0805696 :     IMA        
+0805675 :             OTA
+0805705 :     IMA INA OTA
+0805720 : AFA IMA     OTA
+0805724 :     IMA INA    
+0805747 : AFA IMA INA    
+0805749 : AFA IMA     OTA
+0805926 : AFA IMA INA OTA
+0805942 : AFA IMA     OTA
+0805995 : AFA IMA INA OTA
+0805782 :     IMA     OTA
+0805789 :     IMA     OTA
+0805813 :     IMA     OTA
+0805847 :     IMA INA OTA
+0805940 :     IMA        
+0806045 :             OTA
+0806063 :     IMA        
+0806158 : AFA IMA INA    
+0806199 : AFA IMA     OTA
+0806191 :             OTA
+0806208 :     IMA        
+0806210 : AFA IMA INA OTA
+0806228 :         INA OTA
+0806233 :     IMA INA OTA
+0806251 :     IMA     OTA
+0806272 : AFA IMA        
+0806287 :     IMA INA OTA
+0806294 :     IMA        
+0806297 :     IMA INA    
+0806303 :     IMA        
+0806308 :     IMA        
+0806323 :     IMA     OTA
+0806328 :     IMA     OTA
+0806352 :     IMA INA OTA
+0806356 :             OTA
+0806358 :     IMA        
+0806375 :     IMA INA OTA
+0806397 :             OTA
+0806405 :             OTA
+0806413 :         INA    
+0806426 : AFA IMA     OTA
+0806443 :             OTA
+0806462 : AFA IMA        
+0806512 :     IMA     OTA
+0806549 :     IMA        
+0806540 :             OTA
+0806561 :         INA    
+0806582 :             OTA
+0806645 :     IMA     OTA
+0806659 :     IMA INA    
+0806665 :     IMA        
+0806683 :     IMA INA OTA
+0806689 :     IMA     OTA
+0806701 :     IMA     OTA
+0806757 :     IMA INA    
+0806766 :             OTA
+0806784 :     IMA        
+0806809 : AFA IMA INA OTA
+0806965 : AFA IMA     OTA
+0806811 :     IMA        
+0806816 :             OTA
+0806818 :             OTA
+0806825 :     IMA        
+0806839 :     IMA     OTA
+0806840 :     IMA     OTA
+0806843 :     IMA     OTA
+0806851 :             OTA
+0806854 :     IMA INA OTA
+0806864 :     IMA     OTA
+0806981 : AFA IMA INA OTA
+0806894 :     IMA        
+0806910 :     IMA     OTA
+0806911 :     IMA INA    
+0806938 :     IMA        
+0806942 :     IMA INA    
+0806980 :         INA OTA
+0807001 :     IMA     OTA
+0807024 :     IMA     OTA
+0807028 :     IMA        
+0807030 :     IMA        
+0807037 : AFA IMA     OTA
+0807066 :     IMA INA OTA
+0807106 : AFA IMA INA    
+0807112 :     IMA     OTA
+0807119 :             OTA
+0807130 :     IMA INA OTA
+0807131 :     IMA        
+0807152 :     IMA INA OTA
+0807165 :     IMA INA OTA
+0807184 :     IMA INA OTA
+0807185 :     IMA        
+0807188 :     IMA     OTA
+0807219 :     IMA        
+0807265 :     IMA INA OTA
+0807281 : AFA IMA     OTA
+0807334 :             OTA
+0807336 :             OTA
+0807342 :     IMA        
+0807346 : AFA IMA     OTA
+0807378 :     IMA        
+0807388 :     IMA     OTA
+0807400 : AFA IMA        
+0807499 :     IMA        
+0807405 :             OTA
+0807444 :             OTA
+0807469 :             OTA
+0807519 :             OTA
+0807567 :     IMA     OTA
+0807573 :     IMA     OTA
+0807592 :     IMA     OTA
+0807577 :         INA    
+0807601 :     IMA        
+0807605 :     IMA INA    
+0807618 :     IMA        
+0807666 : AFA            
+0807676 : AFA IMA     OTA
+0807680 : AFA IMA     OTA
+0807685 :     IMA        
+0807722 :     IMA     OTA
+0807728 : AFA IMA     OTA
+0807733 :     IMA     OTA
+0807737 : AFA IMA     OTA
+0807739 :     IMA        
+0807743 :     IMA     OTA
+0807761 :             OTA
+0807800 :         INA    
+0807824 :         INA OTA
+0807835 :     IMA        
+0807848 : AFA IMA     OTA
+0807955 :     IMA INA OTA
+0807978 :     IMA        
+0807987 :     IMA     OTA
+0807917 :             OTA
+0807918 :             OTA
+0807926 :             OTA
+0807934 :             OTA
+0807936 :             OTA
+0808017 :     IMA     OTA
+0808044 :     IMA        
+0808054 :             OTA
+0808073 :     IMA     OTA
+0808082 :     IMA     OTA
+0808112 : AFA IMA     OTA
+0808166 :             OTA
+0808171 :         INA    
+0808223 :     IMA     OTA
+0808232 :         INA    
+0808243 :     IMA        
+0808255 :     IMA     OTA
+0808258 :     IMA     OTA
+0808265 :     IMA     OTA
+0808287 :     IMA        
+0808303 :         INA    
+0808348 :     IMA        
+0808359 :     IMA INA OTA
+0808366 :     IMA     OTA
+0808375 : AFA IMA     OTA
+0808393 :             OTA
+0808410 :             OTA
+0808431 :     IMA INA OTA
+0808439 :     IMA     OTA
+0808457 :             OTA
+0808513 :     IMA        
+0808562 :     IMA INA OTA
+0808569 :     IMA INA OTA
+0808573 : AFA IMA     OTA
+0808581 :     IMA        
+0808599 :     IMA     OTA
+0808606 :             OTA
+0808615 : AFA IMA     OTA
+0808900 : AFA IMA     OTA
+0809050 : AFA IMA     OTA
+0809281 : AFA IMA        
+0809388 : AFA IMA     OTA
+0809402 : AFA IMA     OTA
+0809443 : AFA IMA INA OTA
+0809795 : AFA         OTA
+0808621 :     IMA        
+0808642 :         INA OTA
+0808668 :     IMA        
+0808671 :     IMA     OTA
+0808675 :             OTA
+0808730 :     IMA        
+0808779 :             OTA
+0808785 :         INA    
+0809819 : AFA            
+0809948 : AFA IMA INA    
+0809962 : AFA IMA     OTA
+0808812 :     IMA     OTA
+0808813 :     IMA     OTA
+0808822 :             OTA
+0808835 :     IMA     OTA
+0808859 :     IMA        
+0808867 :     IMA INA    
+0808878 :             OTA
+0808886 :     IMA        
+0808956 :     IMA        
+0808970 :     IMA        
+0808994 :     IMA INA OTA
+0809000 :     IMA     OTA
+0809025 :     IMA     OTA
+0809030 :     IMA        
+0809052 :     IMA     OTA
+0809075 :     IMA     OTA
+0809122 :     IMA INA OTA
+0809153 :     IMA        
+0809186 :     IMA        
+0809205 :     IMA     OTA
+0809255 :     IMA INA    
+0809285 :     IMA        
+0809341 :     IMA INA    
+0809360 :     IMA     OTA
+0809407 :     IMA     OTA
+0809413 :     IMA     OTA
+0809423 :     IMA     OTA
+0809478 :     IMA     OTA
+0809536 :     IMA     OTA
+0809553 :     IMA        
+0809604 :     IMA        
+0809638 :     IMA INA    
+0809648 :     IMA INA OTA
+0809983 :     IMA     OTA
+0809225 :         INA    
+0809246 :         INA OTA
+0809489 :         INA    
+0809611 :         INA OTA
+0809681 :         INA OTA
+0809742 :         INA    
+0808934 :             OTA
+0809104 :             OTA
+0809240 :             OTA
+0809260 :             OTA
+0809326 :             OTA
+0809381 :             OTA
+0809430 :             OTA
+0809628 :             OTA
+0809699 :             OTA
+0809751 :             OTA
+0809777 :             OTA
+0809915 :             OTA
+0809937 :             OTA
+0809989 :             OTA
+0810020 :         INA    
+0810022 : AFA IMA INA OTA
+0810038 :     IMA INA OTA
+0810043 :     IMA        
+0810047 :     IMA        
+0810090 :     IMA INA OTA
+0810111 :     IMA     OTA
+0810112 :             OTA
+0810127 :     IMA        
+0810160 :     IMA INA OTA
+0810173 : AFA IMA     OTA
+0810176 :             OTA
+0810203 :     IMA        
+0810217 :     IMA        
+0810222 :             OTA
+0810223 :             OTA
+0810232 :     IMA        
+0810247 : AFA IMA     OTA
+0810248 :             OTA
+0810251 :     IMA        
+0810256 : AFA IMA INA OTA
+0810329 :             OTA
+0810363 :     IMA INA    
+0810379 :             OTA
+0810384 :             OTA
+0810436 :     IMA     OTA
+0810492 :     IMA     OTA
+0810496 :             OTA
+0810514 : AFA IMA     OTA
+0810593 : AFA IMA        
+0810583 :     IMA        
+0810596 :     IMA INA OTA
+0810620 :     IMA     OTA
+0810626 :     IMA     OTA
+0810635 :         INA    
+0810640 :     IMA        
+0810645 :     IMA INA OTA
+0810659 : AFA IMA     OTA
+0810665 :             OTA
+0810667 :     IMA INA OTA
+0810671 : AFA IMA     OTA
+0810676 :         INA    
+0810699 :             OTA
+0810711 :     IMA        
+0810719 :     IMA     OTA
+0810800 :             OTA
+0810807 :     IMA INA OTA
+0810827 : AFA IMA     OTA
+0810837 :             OTA
+0810852 :     IMA        
+0810854 :     IMA     OTA
+0810863 :     IMA     OTA
+0810864 :     IMA     OTA
+0810867 :     IMA INA OTA
+0810881 :     IMA        
+0810911 :     IMA INA    
+0810917 :     IMA     OTA
+0810955 :         INA OTA
+0810907 :             OTA
+0811005 :     IMA     OTA
+0811027 : AFA IMA     OTA
+0811044 :     IMA     OTA
+0811045 :         INA    
+0811048 :             OTA
+0811080 : AFA IMA     OTA
+0811092 : AFA IMA     OTA
+0811097 :             OTA
+0811129 :             OTA
+0811135 :     IMA        
+0811139 :             OTA
+0811160 : AFA IMA INA OTA
+0811161 :     IMA        
+0811197 :             OTA
+0811218 :     IMA INA OTA
+0811226 : AFA IMA INA OTA
+0811237 :     IMA        
+0811240 :     IMA        
+0811244 :     IMA     OTA
+0811253 :     IMA        
+0811274 :             OTA
+0811285 :             OTA
+0811302 : AFA IMA        
+0811310 :             OTA
+0811316 :     IMA     OTA
+0811341 :     IMA     OTA
+0811352 : AFA IMA     OTA
+0811359 :             OTA
+0811389 :             OTA
+0811397 :             OTA
+0811435 :     IMA        
+0811446 :             OTA
+0811460 :     IMA     OTA
+0811467 :     IMA        
+0811489 :             OTA
+0811506 :     IMA     OTA
+0811526 : AFA IMA INA OTA
+0811538 :             OTA
+0811551 :             OTA
+0811558 :     IMA     OTA
+0811564 :     IMA     OTA
+0811571 :             OTA
+0811586 : AFA IMA        
+0811602 :     IMA INA OTA
+0811638 :     IMA INA OTA
+0811643 : AFA IMA     OTA
+0811645 :             OTA
+0811648 :             OTA
+0811651 :     IMA     OTA
+0811661 :     IMA INA    
+0811668 :     IMA        
+0811723 :     IMA        
+0811755 :             OTA
+0811788 : AFA IMA INA OTA
+0811827 :     IMA     OTA
+0811833 :             OTA
+0811837 :     IMA INA OTA
+0811838 : AFA IMA     OTA
+0811854 :     IMA     OTA
+0811869 : AFA IMA        
+0811911 : AFA IMA     OTA
+0811927 : AFA IMA     OTA
+0811894 :     IMA INA    
+0811873 :             OTA
+0811982 :     IMA INA OTA
+0811983 :     IMA INA OTA
+0811922 :         INA OTA
+0811963 :         INA    
+0811898 :             OTA
+0811945 :             OTA
+0812009 :             OTA
+0812027 :             OTA
+0812035 :     IMA INA OTA
+0812042 : AFA IMA     OTA
+0812064 :     IMA INA OTA
+0812075 :     IMA     OTA
+0812095 :     IMA        
+0812098 :     IMA     OTA
+0812088 :         INA OTA
+0812125 :     IMA INA    
+0812127 :     IMA        
+0812149 :     IMA        
+0812159 :     IMA        
+0812169 :     IMA        
+0812193 :             OTA
+0812200 :     IMA        
+0812205 : AFA IMA     OTA
+0812207 :     IMA     OTA
+0812223 :     IMA        
+0812236 :     IMA     OTA
+0812239 :     IMA        
+0812259 :             OTA
+0812260 :             OTA
+0812277 :     IMA        
+0812281 :     IMA INA OTA
+0812358 :     IMA INA OTA
+0812387 :             OTA
+0812400 :     IMA     OTA
+0812427 :     IMA     OTA
+0812434 :     IMA     OTA
+0812447 :             OTA
+0812462 :             OTA
+0812472 :             OTA
+0812501 :     IMA INA    
+0812516 :             OTA
+0812517 :     IMA     OTA
+0812530 :             OTA
+0812611 :         INA OTA
+0812623 :     IMA INA    
+0812638 :     IMA INA    
+0812657 :     IMA        
+0812663 :             OTA
+0812666 :             OTA
+0812687 :     IMA        
+0812706 : AFA IMA     OTA
+0812710 :     IMA        
+0812711 :             OTA
+0812727 :     IMA        
+0812744 :     IMA        
+0812752 :     IMA     OTA
+0812813 :         INA OTA
+0812836 :     IMA     OTA
+0812842 :     IMA     OTA
+0812866 :             OTA
+0812867 : AFA IMA     OTA
+0812875 :     IMA     OTA
+0812909 :     IMA        
+0812976 :     IMA INA    
+0813025 :             OTA
+0813044 :             OTA
+0813076 :             OTA
+0813080 :     IMA        
+0813102 :     IMA        
+0813129 :             OTA
+0813140 :     IMA        
+0813144 :     IMA INA OTA
+0813155 :             OTA
+0813179 :     IMA        
+0813185 : AFA IMA INA OTA
+0813200 :             OTA
+0813220 :     IMA     OTA
+0813237 : AFA IMA     OTA
+0813240 :     IMA INA    
+0813248 :     IMA        
+0813307 : AFA IMA     OTA
+0813317 :             OTA
+0813329 :             OTA
+0813333 :     IMA     OTA
+0813336 :     IMA INA    
+0813340 : AFA IMA     OTA
+0813346 :     IMA     OTA
+0813353 :     IMA        
+0813359 :             OTA
+0813361 :     IMA INA    
+0813394 :         INA    
+0813412 :     IMA INA OTA
+0813429 :         INA OTA
+0813420 :             OTA
+0813433 :     IMA     OTA
+0813445 :     IMA     OTA
+0813447 : AFA IMA     OTA
+0813473 :     IMA INA OTA
+0813500 :     IMA        
+0813517 :     IMA     OTA
+0813520 :         INA    
+0813536 :         INA    
+0813579 :         INA    
+0813584 :     IMA        
+0813608 : AFA IMA     OTA
+0813610 :             OTA
+0813621 :             OTA
+0813697 :             OTA
+0813703 :             OTA
+0813732 :             OTA
+0813733 :     IMA     OTA
+0813737 :             OTA
+0813758 :     IMA        
+0813798 : AFA IMA        
+0813809 : AFA IMA     OTA
+0813826 : AFA IMA     OTA
+0813839 :     IMA     OTA
+0813851 : AFA IMA     OTA
+0813858 :     IMA INA OTA
+0813862 :             OTA
+0813863 :         INA OTA
+0813872 : AFA IMA INA OTA
+0813896 :     IMA     OTA
+0813913 :     IMA INA OTA
+0813931 :     IMA     OTA
+0813969 :     IMA     OTA
+0813980 :     IMA     OTA
+0813982 :     IMA        
+0813990 :     IMA        
+0813995 :     IMA INA    
+0813892 :         INA    
+0813947 :         INA OTA
+0813939 :             OTA
+0814004 :     IMA     OTA
+0814011 :     IMA INA    
+0814014 :     IMA        
+0814060 :     IMA INA OTA
+0814066 :             OTA
+0814073 : AFA IMA INA OTA
+0814076 : AFA IMA     OTA
+0814192 : AFA IMA        
+0814149 :     IMA     OTA
+0814190 :     IMA     OTA
+0814146 :         INA    
+0814151 :         INA    
+0814197 :             OTA
+0814238 :         INA    
+0814241 :             OTA
+0814243 :             OTA
+0814257 :     IMA     OTA
+0814269 :     IMA INA    
+0814282 :     IMA     OTA
+0814283 : AFA IMA INA OTA
+0814297 :     IMA     OTA
+0814302 :             OTA
+0814337 :     IMA INA    
+0814384 :             OTA
+0814405 :         INA OTA
+0814491 : AFA IMA     OTA
+0814411 :         INA    
+0814437 :     IMA INA OTA
+0814453 :     IMA        
+0814457 :             OTA
+0814550 :     IMA INA OTA
+0814555 :     IMA     OTA
+0814598 :     IMA INA OTA
+0814628 : AFA IMA     OTA
+0814643 : AFA IMA INA OTA
+0814651 : AFA IMA INA OTA
+0814697 :             OTA
+0814702 :             OTA
+0814707 :     IMA        
+0814719 :     IMA     OTA
+0814755 :     IMA     OTA
+0814762 : AFA IMA        
+0814808 :     IMA        
+0814821 :     IMA     OTA
+0814836 :     IMA     OTA
+0814841 :     IMA INA OTA
+0814845 :             OTA
+0814859 : AFA IMA     OTA
+0814885 :     IMA INA OTA
+0814896 :     IMA        
+0814900 :     IMA        
+0814927 :     IMA     OTA
+0814930 :     IMA        
+0814937 :     IMA        
+0814978 :     IMA        
+0814983 :     IMA     OTA
+0814938 :         INA OTA
+0814886 :             OTA
+0814905 :             OTA
+0814933 :             OTA
+0814993 :             OTA
+0815017 :     IMA     OTA
+0815051 :     IMA     OTA
+0815060 :     IMA INA    
+0815078 :         INA    
+0815083 :             OTA
+0815134 :     IMA     OTA
+0815148 : AFA IMA     OTA
+0815163 :     IMA     OTA
+0815188 :     IMA        
+0815204 :     IMA     OTA
+0815257 :     IMA        
+0815272 :             OTA
+0815280 :     IMA     OTA
+0815285 :     IMA        
+0815317 :         INA    
+0815346 :             OTA
+0815376 : AFA IMA     OTA
+0815396 :             OTA
+0815400 : AFA IMA INA OTA
+0815424 :     IMA     OTA
+0815429 :             OTA
+0815442 :     IMA     OTA
+0815517 :             OTA
+0815519 :             OTA
+0815608 :     IMA     OTA
+0815659 :     IMA INA    
+0815657 :         INA OTA
+0815669 :     IMA        
+0815712 : AFA IMA     OTA
+0815716 : AFA IMA     OTA
+0815761 :     IMA INA OTA
+0815771 :     IMA INA    
+0815800 :     IMA     OTA
+0815801 : AFA IMA INA OTA
+0815828 :     IMA     OTA
+0815845 :     IMA INA OTA
+0815846 : AFA            
+0815848 :     IMA        
+0815851 :     IMA INA OTA
+0815857 :     IMA     OTA
+0815925 :     IMA INA OTA
+0815959 :     IMA     OTA
+0815972 :     IMA        
+0815990 :     IMA     OTA
+0815919 :         INA    
+0815939 :             OTA
+0815940 :             OTA
+0816023 :     IMA INA OTA
+0816052 :     IMA     OTA
+0816093 :     IMA     OTA
+0816060 :             OTA
+0816087 :             OTA
+0816102 :     IMA     OTA
+0816103 :             OTA
+0816110 :         INA OTA
+0816179 : AFA IMA        
+0816196 :     IMA        
+0816208 : AFA IMA        
+0816290 : AFA IMA     OTA
+0816251 :     IMA     OTA
+0816291 :     IMA        
+0816276 :             OTA
+0816287 :             OTA
+0816365 :             OTA
+0816383 :     IMA     OTA
+0816389 :     IMA        
+0816434 :     IMA     OTA
+0816435 :             OTA
+0816471 :     IMA     OTA
+0816508 : AFA IMA     OTA
+0816509 :             OTA
+0816519 :             OTA
+0816528 : AFA IMA     OTA
+0816567 :     IMA     OTA
+0816591 :     IMA        
+0816603 :     IMA        
+0816606 :     IMA     OTA
+0816628 :         INA OTA
+0816648 : AFA IMA     OTA
+0816692 : AFA IMA INA OTA
+0816665 :         INA OTA
+0816695 :             OTA
+0816721 :     IMA        
+0816722 :     IMA INA OTA
+0816772 :             OTA
+0816974 : AFA IMA     OTA
+0816999 : AFA IMA        
+0816791 :     IMA        
+0816855 :     IMA     OTA
+0816872 :     IMA        
+0816883 :     IMA        
+0816901 :     IMA     OTA
+0816907 :     IMA        
+0816945 :     IMA        
+0816970 :     IMA     OTA
+0816976 :     IMA     OTA
+0816914 :             OTA
+0817034 :     IMA     OTA
+0817059 :     IMA     OTA
+0817081 : AFA IMA INA OTA
+0817084 :     IMA        
+0817095 :     IMA        
+0817106 :     IMA     OTA
+0817126 :         INA    
+0817134 :     IMA     OTA
+0817147 :             OTA
+0817155 :         INA    
+0817164 :     IMA     OTA
+0817166 :             OTA
+0817173 :     IMA     OTA
+0817188 :     IMA     OTA
+0817192 :             OTA
+0817290 : AFA IMA        
+0817223 :     IMA     OTA
+0817225 :             OTA
+0817236 :     IMA     OTA
+0817331 :     IMA INA OTA
+0817338 :     IMA        
+0817340 :             OTA
+0817343 :     IMA     OTA
+0817350 :     IMA        
+0817356 :     IMA     OTA
+0817363 : AFA IMA        
+0817367 :     IMA     OTA
+0817382 :     IMA     OTA
+0817383 :     IMA     OTA
+0817490 : AFA IMA     OTA
+0817406 :             OTA
+0817423 :             OTA
+0817430 :     IMA        
+0817465 :     IMA INA    
+0817482 :     IMA     OTA
+0817493 :     IMA     OTA
+0817501 :         INA    
+0817507 :     IMA        
+0817509 :         INA    
+0817508 :             OTA
+0817516 : AFA IMA     OTA
+0817518 :     IMA INA OTA
+0817525 : AFA IMA     OTA
+0817538 :         INA OTA
+0817549 :     IMA        
+0817552 :             OTA
+0817602 : AFA IMA     OTA
+0817640 : AFA IMA     OTA
+0817663 :     IMA     OTA
+0817705 :             OTA
+0817718 :             OTA
+0817751 : AFA IMA INA OTA
+0817779 :             OTA
+0817783 :     IMA     OTA
+0817815 : AFA IMA     OTA
+0817915 : AFA IMA INA    
+0817819 :     IMA     OTA
+0817818 :             OTA
+0817835 :     IMA        
+0817837 :         INA    
+0817847 :             OTA
+0817875 :     IMA        
+0817900 :     IMA     OTA
+0817910 :     IMA        
+0817946 :     IMA INA    
+0817954 :     IMA INA    
+0817959 :     IMA        
+0817903 :         INA OTA
+0817970 :         INA    
+0818008 :             OTA
+0818092 :     IMA     OTA
+0818104 :     IMA        
+0818154 :     IMA     OTA
+0818183 :         INA    
+0818199 :             OTA
+0818217 :     IMA INA OTA
+0818218 :     IMA     OTA
+0818233 :     IMA     OTA
+0818245 :             OTA
+0818246 : AFA IMA     OTA
+0818262 :     IMA     OTA
+0818335 :     IMA     OTA
+0818371 :         INA    
+0818377 :     IMA     OTA
+0818499 : AFA IMA     OTA
+0818418 :     IMA INA OTA
+0818488 :     IMA INA OTA
+0818495 :     IMA INA    
+0818498 :         INA OTA
+0818497 :             OTA
+0818502 :     IMA     OTA
+0818513 :         INA    
+0818555 :     IMA INA    
+0818558 :     IMA     OTA
+0818562 :             OTA
+0818576 :     IMA     OTA
+0818602 :             OTA
+0818613 :     IMA INA    
+0818624 :     IMA INA OTA
+0818633 :     IMA INA OTA
+0818681 : AFA IMA INA OTA
+0818696 :     IMA        
+0818699 :         INA    
+0818700 : AFA IMA     OTA
+0818711 : AFA IMA     OTA
+0818724 :     IMA     OTA
+0818733 :     IMA     OTA
+0818750 :     IMA INA OTA
+0818756 :     IMA INA OTA
+0818801 :     IMA INA    
+0818803 : AFA IMA INA OTA
+0818804 :         INA    
+0818807 : AFA IMA     OTA
+0818901 : AFA IMA INA    
+0818929 : AFA IMA     OTA
+0819303 : AFA IMA     OTA
+0819328 : AFA IMA        
+0819473 : AFA IMA INA OTA
+0819517 : AFA IMA INA OTA
+0819536 : AFA IMA     OTA
+0819741 : AFA IMA     OTA
+0819748 : AFA IMA INA    
+0819780 : AFA IMA INA OTA
+0818843 :     IMA     OTA
+0819848 : AFA IMA INA OTA
+0819929 : AFA         OTA
+0818867 :             OTA
+0818870 :             OTA
+0818878 :     IMA        
+0818893 :     IMA INA OTA
+0818899 :     IMA     OTA
+0818921 :     IMA     OTA
+0818922 :     IMA INA    
+0819010 :     IMA INA OTA
+0819039 :     IMA     OTA
+0819043 :     IMA INA    
+0819057 :     IMA     OTA
+0819084 :     IMA        
+0819107 :     IMA        
+0819176 :     IMA     OTA
+0819179 :     IMA        
+0819192 :     IMA        
+0819218 :     IMA        
+0819277 :     IMA     OTA
+0819435 :     IMA     OTA
+0819457 :     IMA     OTA
+0819474 :     IMA INA OTA
+0819479 :     IMA     OTA
+0819495 :     IMA INA    
+0819524 :     IMA INA OTA
+0819580 :     IMA        
+0819662 :     IMA INA    
+0819665 :     IMA        
+0819836 :     IMA     OTA
+0819840 :     IMA INA    
+0819860 :     IMA        
+0819888 :     IMA        
+0819927 :     IMA        
+0819944 :     IMA INA    
+0819950 :     IMA     OTA
+0819116 :         INA    
+0819935 :         INA    
+0818914 :             OTA
+0819017 :             OTA
+0819050 :             OTA
+0819233 :             OTA
+0819265 :             OTA
+0819289 :             OTA
+0819300 :             OTA
+0819332 :             OTA
+0819354 :             OTA
+0819637 :             OTA
+0819716 :             OTA
+0819761 :             OTA
+0819917 :             OTA
+0819959 :             OTA
+0820020 :             OTA
+0820021 :             OTA
+0820022 :             OTA
+0820028 :             OTA
+0820030 :     IMA     OTA
+0820031 :     IMA INA OTA
+0820045 :     IMA INA    
+0820054 :             OTA
+0820072 :     IMA INA OTA
+0820079 :     IMA        
+0820099 :     IMA        
+0820082 :             OTA
+0820102 :     IMA        
+0820128 :     IMA     OTA
+0820135 :     IMA        
+0820163 :     IMA INA    
+0820171 :             OTA
+0820175 : AFA IMA INA OTA
+0820182 :     IMA INA OTA
+0820187 :             OTA
+0820202 :     IMA INA OTA
+0820205 :     IMA INA    
+0820207 :             OTA
+0820215 :     IMA     OTA
+0820225 :     IMA     OTA
+0820233 :     IMA     OTA
+0820240 :     IMA     OTA
+0820264 :             OTA
+0820271 :     IMA     OTA
+0820285 :         INA    
+0820339 :     IMA     OTA
+0820382 :     IMA     OTA
+0820383 :     IMA INA    
+0820390 :             OTA
+0820394 :             OTA
+0820427 :     IMA     OTA
+0820443 :     IMA     OTA
+0820449 :             OTA
+0820479 :         INA OTA
+0820546 :     IMA     OTA
+0820549 :     IMA        
+0820566 :     IMA     OTA
+0820584 : AFA IMA INA OTA
+0820605 :     IMA     OTA
+0820645 :     IMA     OTA
+0820675 :     IMA INA OTA
+0820694 :     IMA     OTA
+0820699 :     IMA        
+0820676 :             OTA
+0820709 : AFA IMA INA OTA
+0820742 :             OTA
+0820769 :     IMA     OTA
+0820776 :     IMA INA    
+0820780 :             OTA
+0820783 :             OTA
+0820798 :     IMA        
+0820818 :     IMA        
+0820825 :     IMA INA OTA
+0820832 :     IMA        
+0820866 :             OTA
+0820867 : AFA IMA INA OTA
+0820997 : AFA IMA     OTA
+0820879 :             OTA
+0820883 :     IMA INA    
+0820898 :     IMA     OTA
+0820927 :     IMA        
+0820944 :     IMA INA OTA
+0820953 :     IMA     OTA
+0820956 :     IMA        
+0821029 : AFA IMA INA OTA
+0821027 :     IMA        
+0821063 :     IMA INA OTA
+0821072 :     IMA INA    
+0821074 :     IMA        
+0821099 :     IMA     OTA
+0821126 :             OTA
+0821128 :     IMA        
+0821144 :     IMA     OTA
+0821172 :             OTA
+0821201 : AFA IMA     OTA
+0821230 :     IMA     OTA
+0821247 : AFA IMA     OTA
+0821274 : AFA IMA INA OTA
+0821278 : AFA IMA     OTA
+0821283 :     IMA     OTA
+0821319 :     IMA     OTA
+0821340 : AFA IMA        
+0821344 :     IMA        
+0821350 :     IMA INA    
+0821364 :             OTA
+0821430 : AFA IMA     OTA
+0821434 :             OTA
+0821440 :             OTA
+0821445 :     IMA     OTA
+0821472 :             OTA
+0821478 :     IMA        
+0821481 :             OTA
+0821486 : AFA IMA        
+0821487 :     IMA        
+0821494 :     IMA     OTA
+0821507 :             OTA
+0821510 :             OTA
+0821520 :     IMA     OTA
+0821521 :     IMA     OTA
+0821550 :     IMA INA    
+0821564 :     IMA     OTA
+0821580 :     IMA     OTA
+0821587 :     IMA     OTA
+0821588 :             OTA
+0821590 :             OTA
+0821613 :     IMA     OTA
+0821642 : AFA IMA     OTA
+0821646 :     IMA     OTA
+0821651 :     IMA INA OTA
+0821655 :     IMA        
+0821675 :     IMA     OTA
+0821680 :     IMA     OTA
+0821681 :             OTA
+0821742 :         INA    
+0821755 :             OTA
+0821760 :     IMA INA    
+0821788 :     IMA INA OTA
+0821806 :             OTA
+0821807 :     IMA        
+0821820 :     IMA INA    
+0821821 :     IMA        
+0821834 :     IMA     OTA
+0821873 :     IMA     OTA
+0900008 :     IMA     OTA
+0900031 :     IMA INA OTA
+0900079 :     IMA        
+0900369 :     IMA INA    
+0900415 :     IMA     OTA
+0900460 :     IMA     OTA
+0900467 :     IMA        
+0900481 :     IMA     OTA
+0821897 :             OTA
+0821929 :             OTA
+0821940 :             OTA
+0821996 :             OTA
+0822021 :             OTA
+0822038 :             OTA
+0822040 :             OTA
+0822043 :             OTA
+0822050 :             OTA
+0822066 :             OTA
+0822079 :             OTA
+0822086 :             OTA
+0822127 :             OTA
+0822223 :             OTA
+0822293 :             OTA
+0822348 :             OTA
+0822381 :             OTA
+0822399 :             OTA
+0822409 :             OTA
+0822462 :             OTA
+0822465 :             OTA
+0822477 :             OTA
+0822483 :             OTA
+0822513 :             OTA
+0822525 :             OTA
+0822562 :             OTA
+0822604 :             OTA
+0822613 :             OTA
+0822633 :             OTA
+0822704 :             OTA
+0822738 :             OTA
+0822752 :             OTA
+0822760 :             OTA
+0822809 :             OTA
+0822818 :             OTA
+0822853 :             OTA
+0822856 :             OTA
+0822871 :             OTA
+0822883 :             OTA
+0822909 :             OTA
+0822910 :             OTA
+0822971 :             OTA
+0823012 :             OTA
+0823028 :             OTA
+0823047 :             OTA
+0823052 :             OTA
+0823056 :             OTA
+0823103 :             OTA
+0823106 :             OTA
+0823146 :             OTA
+0823201 :             OTA
+0823219 :             OTA
+0823231 :             OTA
+0823258 :             OTA
+0823270 :             OTA
+0823281 :             OTA
+0823311 :             OTA
+0823316 :             OTA
+0823415 :             OTA
+0823464 :             OTA
+0823477 :             OTA
+0823501 :             OTA
+0823528 :             OTA
+0823612 :             OTA
+0823750 :             OTA
+0823763 :             OTA
+0823778 :             OTA
+0823781 :             OTA
+0823828 :             OTA
+0823844 :             OTA
+0823908 :             OTA
+0823918 :             OTA
+0823919 :             OTA
+0824040 :             OTA
+0824074 :             OTA
+0824105 :             OTA
+0824112 :             OTA
+0824196 :             OTA
+0824201 :             OTA
+0824224 :             OTA
+0824246 :             OTA
+0824294 :             OTA
+0824298 :             OTA
+0824347 :             OTA
+0824354 :             OTA
+0824392 :             OTA
+0824409 :             OTA
+0824414 :             OTA
+0824425 :             OTA
+0824457 :             OTA
+0824492 :             OTA
+0824525 :             OTA
+0824561 :             OTA
+0824580 :             OTA
+0824591 :             OTA
+0824612 :             OTA
+0824616 :             OTA
+0824618 :             OTA
+0824622 :             OTA
+0824648 :             OTA
+0824685 :             OTA
+0824691 :             OTA
+0824721 :             OTA
+0824835 :             OTA
+0824838 :             OTA
+0824855 :             OTA
+0824876 :             OTA
+0824884 :             OTA
+0824945 :             OTA
+0824974 :             OTA
+0824983 :             OTA
+0824993 :             OTA
+0825051 :             OTA
+0825059 :             OTA
+0825103 :             OTA
+0825121 :             OTA
+0825153 :             OTA
+0825234 :             OTA
+0825279 :             OTA
+0825282 :             OTA
+0825329 :             OTA
+0825363 :             OTA
+0825382 :             OTA
+0825384 :             OTA
+0825435 :             OTA
+0825436 :             OTA
+0825458 :             OTA
+0825536 :             OTA
+0825563 :             OTA
+0825589 :             OTA
+0825591 :             OTA
+0825602 :             OTA
+0825608 :             OTA
+0825612 :             OTA
+0825639 :             OTA
+0825653 :             OTA
+0825683 :             OTA
+0825724 :             OTA
+0825775 :             OTA
+0825797 :             OTA
+0825849 :             OTA
+0825850 :             OTA
+0825875 :             OTA
+0825880 :             OTA
+0825925 :             OTA
+0825999 :             OTA
+0826042 :             OTA
+0826060 :             OTA
+0826075 :             OTA
+0826104 :             OTA
+0826123 :             OTA
+0826137 :             OTA
+0826144 :             OTA
+0826162 :             OTA
+0826177 :             OTA
+0826292 :             OTA
+0826321 :             OTA
+0826327 :             OTA
+0826360 :             OTA
+0826372 :             OTA
+0826447 :             OTA
+0826496 :             OTA
+0826508 :             OTA
+0826513 :             OTA
+0826572 :             OTA
+0826604 :             OTA
+0826621 :             OTA
+0826651 :             OTA
+0826671 :             OTA
+0826678 :             OTA
+0826720 :             OTA
+0826751 :             OTA
+0826757 :             OTA
+0826769 :             OTA
+0826770 :             OTA
+0826789 :             OTA
+0826894 :             OTA
+0826898 :             OTA
+0826900 :             OTA
+0826976 :             OTA
+0827012 :             OTA
+0827014 :             OTA
+0827020 :             OTA
+0827027 :             OTA
+0827045 :             OTA
+0827101 :             OTA
+0827131 :             OTA
+0827140 :             OTA
+0827169 :             OTA
+0827190 :             OTA
+0827323 :             OTA
+0827340 :             OTA
+0827379 :             OTA
+0827418 :             OTA
+0827452 :             OTA
+0827546 :             OTA
+0827571 :             OTA
+0827665 :             OTA
+0827687 :             OTA
+0827792 :             OTA
+0827809 :             OTA
+0827842 :             OTA
+0827860 :             OTA
+0827889 :             OTA
+0828041 :             OTA
+0828107 :             OTA
+0828120 :             OTA
+0828182 :             OTA
+0828258 :             OTA
+0828271 :             OTA
+0828296 :             OTA
+0828318 :             OTA
+0828357 :             OTA
+0828402 :             OTA
+0828412 :             OTA
+0828463 :             OTA
+0828480 :             OTA
+0828509 :             OTA
+0828670 :             OTA
+0828702 :             OTA
+0828717 :             OTA
+0828727 :             OTA
+0828776 :             OTA
+0828895 :             OTA
+0828920 :             OTA
+0828995 :             OTA
+0828998 :             OTA
+0829024 :             OTA
+0829042 :             OTA
+0829085 :             OTA
+0829090 :             OTA
+0829199 :             OTA
+0829236 :             OTA
+0829266 :             OTA
+0829286 :             OTA
+0829288 :             OTA
+0829336 :             OTA
+0829347 :             OTA
+0829379 :             OTA
+0829392 :             OTA
+0829413 :             OTA
+0829420 :             OTA
+0829429 :             OTA
+0829435 :             OTA
+0829486 :             OTA
+0829518 :             OTA
+0829574 :             OTA
+0829626 :             OTA
+0829639 :             OTA
+0829707 :             OTA
+0829717 :             OTA
+0829725 :             OTA
+0829765 :             OTA
+0829800 :             OTA
+0829801 :             OTA
+0829842 :             OTA
+0829853 :             OTA
+0829872 :             OTA
+0829878 :             OTA
+0829916 :             OTA
+0829924 :             OTA
+0830016 :             OTA
+0830049 :             OTA
+0830076 :             OTA
+0830100 :             OTA
+0830130 :             OTA
+0830171 :             OTA
+0830179 :             OTA
+0830186 :             OTA
+0830189 :             OTA
+0830209 :             OTA
+0830239 :             OTA
+0830241 :             OTA
+0830265 :             OTA
+0830281 :             OTA
+0830294 :             OTA
+0830297 :             OTA
+0830358 :             OTA
+0830398 :             OTA
+0830412 :             OTA
+0830510 :             OTA
+0830572 :             OTA
+0830608 :             OTA
+0830625 :             OTA
+0830639 :             OTA
+0830644 :             OTA
+0830684 :             OTA
+0830728 :             OTA
+0830735 :             OTA
+0830757 :             OTA
+0830797 :             OTA
+0830833 :             OTA
+0830841 :             OTA
+0830857 :             OTA
+0830865 :             OTA
+0830876 :             OTA
+0830895 :             OTA
+0830930 :             OTA
+0830966 :             OTA
+0830968 :             OTA
+0830987 :             OTA
+0830996 :             OTA
+0831117 :             OTA
+0831159 :             OTA
+0831161 :             OTA
+0831219 :             OTA
+0831236 :             OTA
+0831245 :             OTA
+0831262 :             OTA
+0831287 :             OTA
+0831295 :             OTA
+0831315 :             OTA
+0831333 :             OTA
+0831357 :             OTA
+0831421 :             OTA
+0831457 :             OTA
+0831512 :             OTA
+0831616 :             OTA
+0831631 :             OTA
+0831688 :             OTA
+0831696 :             OTA
+0831715 :             OTA
+0831819 :             OTA
+0831851 :             OTA
+0831978 :             OTA
+0831994 :             OTA
+0831998 :             OTA
+0832018 :             OTA
+0832040 :             OTA
+0832042 :             OTA
+0832048 :             OTA
+0832076 :             OTA
+0832080 :             OTA
+0832103 :             OTA
+0832157 :             OTA
+0832164 :             OTA
+0832242 :             OTA
+0832337 :             OTA
+0832365 :             OTA
+0832456 :             OTA
+0832474 :             OTA
+0832570 :             OTA
+0832657 :             OTA
+0832729 :             OTA
+0832787 :             OTA
+0832872 :             OTA
+0832895 :             OTA
+0832897 :             OTA
+0832944 :             OTA
+0832970 :             OTA
+0833046 :             OTA
+0833053 :             OTA
+0833065 :             OTA
+0833166 :             OTA
+0833220 :             OTA
+0833259 :             OTA
+0833328 :             OTA
+0833354 :             OTA
+0833406 :             OTA
+0833411 :             OTA
+0833435 :             OTA
+0833436 :             OTA
+0833438 :             OTA
+0833504 :             OTA
+0833586 :             OTA
+0833675 :             OTA
+0833756 :             OTA
+0833818 :             OTA
+0833854 :             OTA
+0833877 :             OTA
+0833886 :             OTA
+0833909 :             OTA
+0833953 :             OTA
+0833971 :             OTA
+0833992 :             OTA
+0834011 :             OTA
+0834018 :             OTA
+0834024 :             OTA
+0834048 :             OTA
+0834114 :             OTA
+0834133 :             OTA
+0834158 :             OTA
+0834196 :             OTA
+0834346 :             OTA
+0834382 :             OTA
+0834391 :             OTA
+0834398 :             OTA
+0834440 :             OTA
+0834458 :             OTA
+0834469 :             OTA
+0834541 :             OTA
+0834567 :             OTA
+0834578 :             OTA
+0834723 :             OTA
+0834772 :             OTA
+0834803 :             OTA
+0834825 :             OTA
+0834831 :             OTA
+0834868 :             OTA
+0834873 :             OTA
+0834935 :             OTA
+0834965 :             OTA
+0834986 :             OTA
+0834991 :             OTA
+0835018 :             OTA
+0835027 :             OTA
+0835057 :             OTA
+0835090 :             OTA
+0835104 :             OTA
+0835125 :             OTA
+0835129 :             OTA
+0835140 :             OTA
+0835149 :             OTA
+0835151 :             OTA
+0835184 :             OTA
+0835191 :             OTA
+0835211 :             OTA
+0835216 :             OTA
+0835217 :             OTA
+0835241 :             OTA
+0835334 :             OTA
+0835360 :             OTA
+0835373 :             OTA
+0835411 :             OTA
+0835471 :             OTA
+0835475 :             OTA
+0835500 :             OTA
+0835521 :             OTA
+0835540 :             OTA
+0835591 :             OTA
+0835593 :             OTA
+0835596 :             OTA
+0835606 :             OTA
+0835625 :             OTA
+0835632 :             OTA
+0835662 :             OTA
+0835703 :             OTA
+0835706 :             OTA
+0835712 :             OTA
+0835725 :             OTA
+0835735 :             OTA
+0835786 :             OTA
+0835787 :             OTA
+0835891 :             OTA
+0835908 :             OTA
+0835914 :             OTA
+0835960 :             OTA
+0835967 :             OTA
+0836014 :             OTA
+0836054 :             OTA
+0836065 :             OTA
+0836088 :             OTA
+0836105 :             OTA
+0836156 :             OTA
+0836253 :             OTA
+0836272 :             OTA
+0836279 :             OTA
+0836408 :             OTA
+0836464 :             OTA
+0836480 :             OTA
+0836623 :             OTA
+0836638 :             OTA
+0836640 :             OTA
+0836714 :             OTA
+0836821 :             OTA
+0836830 :             OTA
+0836846 :             OTA
+0836854 :             OTA
+0836908 :             OTA
+0836964 :             OTA
+0836995 :             OTA
+0837018 :             OTA
+0837052 :             OTA
+0837107 :             OTA
+0837115 :             OTA
+0837122 :             OTA
+0837139 :             OTA
+0837175 :             OTA
+0837232 :             OTA
+0837258 :             OTA
+0837291 :             OTA
+0837306 :             OTA
+0837333 :             OTA
+0837335 :             OTA
+0837395 :             OTA
+0837422 :             OTA
+0837427 :             OTA
+0837446 :             OTA
+0837457 :             OTA
+0837474 :             OTA
+0837478 :             OTA
+0837486 :             OTA
+0837493 :             OTA
+0837507 :             OTA
+0837553 :             OTA
+0837570 :             OTA
+0837577 :             OTA
+0837588 :             OTA
+0837597 :             OTA
+0837613 :             OTA
+0837621 :             OTA
+0837657 :             OTA
+0837671 :             OTA
+0837685 :             OTA
+0837700 :             OTA
+0837719 :             OTA
+0837770 :             OTA
+0837780 :             OTA
+0837811 :             OTA
+0837818 :             OTA
+0837895 :             OTA
+0837915 :             OTA
+0837998 :             OTA
+0838001 :             OTA
+0838042 :             OTA
+0838049 :             OTA
+0838092 :             OTA
+0838097 :             OTA
+0838106 :             OTA
+0838123 :             OTA
+0838133 :             OTA
+0838134 :             OTA
+0838144 :             OTA
+0838207 :             OTA
+0838208 :             OTA
+0838281 :             OTA
+0838323 :             OTA
+0838401 :             OTA
+0838429 :             OTA
+0838493 :             OTA
+0838569 :             OTA
+0838594 :             OTA
+0838614 :             OTA
+0838642 :             OTA
+0838694 :             OTA
+0838734 :             OTA
+0838761 :             OTA
+0838798 :             OTA
+0838830 :             OTA
+0838840 :             OTA
+0838843 :             OTA
+0838865 :             OTA
+0838876 :             OTA
+0838897 :             OTA
+0838903 :             OTA
+0838921 :             OTA
+0838960 :             OTA
+0839013 :             OTA
+0839020 :             OTA
+0839084 :             OTA
+0839125 :             OTA
+0839175 :             OTA
+0839178 :             OTA
+0839223 :             OTA
+0839237 :             OTA
+0839255 :             OTA
+0839353 :             OTA
+0839392 :             OTA
+0839410 :             OTA
+0839478 :             OTA
+0839488 :             OTA
+0839492 :             OTA
+0839510 :             OTA
+0839513 :             OTA
+0839581 :             OTA
+0839684 :             OTA
+0839701 :             OTA
+0839747 :             OTA
+0839783 :             OTA
+0839866 :             OTA
+0839876 :             OTA
+0839883 :             OTA
+0839947 :             OTA
+0840095 :             OTA
+0840138 :             OTA
+0840186 :             OTA
+0840197 :             OTA
+0840249 :             OTA
+0840317 :             OTA
+0840363 :             OTA
+0840387 :             OTA
+0840426 :             OTA
+0840437 :             OTA
+0840499 :             OTA
+0840561 :             OTA
+0840589 :             OTA
+0840623 :             OTA
+0840642 :             OTA
+0840696 :             OTA
+0840700 :             OTA
+0840740 :             OTA
+0840744 :             OTA
+0840766 :             OTA
+0840894 :             OTA
+0840903 :             OTA
+0840966 :             OTA
+0840981 :             OTA
+0841011 :             OTA
+0841027 :             OTA
+0841055 :             OTA
+0841062 :             OTA
+0841106 :             OTA
+0841133 :             OTA
+0841275 :             OTA
+0841346 :             OTA
+0841441 :             OTA
+0841465 :             OTA
+0841467 :             OTA
+0841484 :             OTA
+0841505 :             OTA
+0841512 :             OTA
+0841630 :             OTA
+0841636 :             OTA
+0841667 :             OTA
+0841691 :             OTA
+0841717 :             OTA
+0841741 :             OTA
+0841749 :             OTA
+0841813 :             OTA
+0841821 :             OTA
+0841838 :             OTA
+0841927 :             OTA
+0841937 :             OTA
+0841961 :             OTA
+0842008 :             OTA
+0842072 :             OTA
+0842088 :             OTA
+0842117 :             OTA
+0842194 :             OTA
+0842202 :             OTA
+0842234 :             OTA
+0842326 :             OTA
+0842345 :             OTA
+0842381 :             OTA
+0842421 :             OTA
+0842487 :             OTA
+0842553 :             OTA
+0842575 :             OTA
+0842578 :             OTA
+0842594 :             OTA
+0842617 :             OTA
+0842642 :             OTA
+0842662 :             OTA
+0842663 :             OTA
+0842670 :             OTA
+0842681 :             OTA
+0842687 :             OTA
+0842696 :             OTA
+0842786 :             OTA
+0842814 :             OTA
+0842816 :             OTA
+0842838 :             OTA
+0842840 :             OTA
+0842895 :             OTA
+0842898 :             OTA
+0842936 :             OTA
+0842943 :             OTA
+0843035 :             OTA
+0843053 :             OTA
+0843089 :             OTA
+0843110 :             OTA
+0843122 :             OTA
+0843133 :             OTA
+0843140 :             OTA
+0843191 :             OTA
+0843214 :             OTA
+0843277 :             OTA
+0843278 :             OTA
+0843309 :             OTA
+0843348 :             OTA
+0843352 :             OTA
+0843360 :             OTA
+0843368 :             OTA
+0843384 :             OTA
+0843434 :             OTA
+0843435 :             OTA
+0843536 :             OTA
+0843600 :             OTA
+0843615 :             OTA
+0843644 :             OTA
+0843664 :             OTA
+0843670 :             OTA
+0843770 :             OTA
+0843792 :             OTA
+0843813 :             OTA
+0843849 :             OTA
+0843933 :             OTA
+0843964 :             OTA
+0843968 :             OTA
+0844008 :             OTA
+0844026 :             OTA
+0844029 :             OTA
+0844069 :             OTA
+0844075 :             OTA
+0844093 :             OTA
+0844166 :             OTA
+0844170 :             OTA
+0844174 :             OTA
+0844251 :             OTA
+0844267 :             OTA
+0844288 :             OTA
+0844319 :             OTA
+0844355 :             OTA
+0844364 :             OTA
+0844422 :             OTA
+0844449 :             OTA
+0844474 :             OTA
+0844485 :             OTA
+0844495 :             OTA
+0844506 :             OTA
+0844552 :             OTA
+0844556 :             OTA
+0844560 :             OTA
+0844567 :             OTA
+0844578 :             OTA
+0844581 :             OTA
+0844663 :             OTA
+0844755 :             OTA
+0844765 :             OTA
+0844774 :             OTA
+0844776 :             OTA
+0844781 :             OTA
+0844866 :             OTA
+0844909 :             OTA
+0844923 :             OTA
+0844928 :             OTA
+0844968 :             OTA
+0844977 :             OTA
+0844991 :             OTA
+0845016 :             OTA
+0845040 :             OTA
+0845062 :             OTA
+0845105 :             OTA
+0845119 :             OTA
+0845155 :             OTA
+0845164 :             OTA
+0845194 :             OTA
+0845217 :             OTA
+0845224 :             OTA
+0845300 :             OTA
+0845304 :             OTA
+0845332 :             OTA
+0845359 :             OTA
+0845409 :             OTA
+0845426 :             OTA
+0845442 :             OTA
+0845529 :             OTA
+0845538 :             OTA
+0845545 :             OTA
+0845561 :             OTA
+0845643 :             OTA
+0845678 :             OTA
+0845704 :             OTA
+0845713 :             OTA
+0845771 :             OTA
+0845794 :             OTA
+0845805 :             OTA
+0845833 :             OTA
+0845859 :             OTA
+0845878 :             OTA
+0845889 :             OTA
+0845909 :             OTA
+0845942 :             OTA
+0845949 :             OTA
+0846043 :             OTA
+0846057 :             OTA
+0846065 :             OTA
+0846069 :             OTA
+0846071 :             OTA
+0846101 :             OTA
+0846104 :             OTA
+0846118 :             OTA
+0846161 :             OTA
+0846218 :             OTA
+0846233 :             OTA
+0846239 :             OTA
+0846245 :             OTA
+0846314 :             OTA
+0846342 :             OTA
+0846354 :             OTA
+0846373 :             OTA
+0846389 :             OTA
+0846406 :             OTA
+0846486 :             OTA
+0846534 :             OTA
+0846566 :             OTA
+0846568 :             OTA
+0846642 :             OTA
+0846647 :             OTA
+0846730 :             OTA
+0846740 :             OTA
+0846787 :             OTA
+0846855 :             OTA
+0846878 :             OTA
+0846903 :             OTA
+0846943 :             OTA
+0846946 :             OTA
+0846976 :             OTA
+0847041 :             OTA
+0847119 :             OTA
+0847125 :             OTA
+0847153 :             OTA
+0847162 :             OTA
+0847179 :             OTA
+0847190 :             OTA
+0847212 :             OTA
+0847228 :             OTA
+0847239 :             OTA
+0847240 :             OTA
+0847261 :             OTA
+0847290 :             OTA
+0847301 :             OTA
+0847315 :             OTA
+0847332 :             OTA
+0847347 :             OTA
+0847354 :             OTA
+0847472 :             OTA
+0847475 :             OTA
+0847509 :             OTA
+0847523 :             OTA
+0847558 :             OTA
+0847568 :             OTA
+0847599 :             OTA
+0847615 :             OTA
+0847616 :             OTA
+0847663 :             OTA
+0847731 :             OTA
+0847741 :             OTA
+0847764 :             OTA
+0847869 :             OTA
+0847871 :             OTA
+0847922 :             OTA
+0847932 :             OTA
+0847970 :             OTA
+0847993 :             OTA
+0848017 :             OTA
+0848018 :             OTA
+0848027 :             OTA
+0848085 :             OTA
+0848129 :             OTA
+0848133 :             OTA
+0848140 :             OTA
+0848173 :             OTA
+0848209 :             OTA
+0848211 :             OTA
+0848221 :             OTA
+0848258 :             OTA
+0848309 :             OTA
+0848316 :             OTA
+0848326 :             OTA
+0848334 :             OTA
+0848351 :             OTA
+0848395 :             OTA
+0848434 :             OTA
+0848533 :             OTA
+0848537 :             OTA
+0848552 :             OTA
+0848560 :             OTA
+0848576 :             OTA
+0848611 :             OTA
+0848722 :             OTA
+0848765 :             OTA
+0848824 :             OTA
+0848857 :             OTA
+0848867 :             OTA
+0848917 :             OTA
+0848948 :             OTA
+0848970 :             OTA
+0849025 :             OTA
+0849069 :             OTA
+0849171 :             OTA
+0849238 :             OTA
+0849265 :             OTA
+0849292 :             OTA
+0849304 :             OTA
+0849359 :             OTA
+0849364 :             OTA
+0849367 :             OTA
+0849384 :             OTA
+0849397 :             OTA
+0849423 :             OTA
+0849472 :             OTA
+0849497 :             OTA
+0849548 :             OTA
+0849551 :             OTA
+0849617 :             OTA
+0849660 :             OTA
+0849711 :             OTA
+0849735 :             OTA
+0849760 :             OTA
+0849799 :             OTA
+0849814 :             OTA
+0849849 :             OTA
+0849886 :             OTA
+0849964 :             OTA
+0850029 :             OTA
+0850048 :             OTA
+0900090 :             OTA
+0900232 :             OTA
+0900290 :             OTA
+0900409 :             OTA
+0900611 :             OTA
+0900637 :             OTA
+0900922 :             OTA
+0900944 :             OTA
+0900957 :             OTA
+0901138 :             OTA
+0901166 :             OTA
+0901273 :             OTA
+0901295 :             OTA
+0901370 :             OTA
+0901446 :             OTA
+1000077 :     IMA INA    
+1000190 :             OTA
+1000204 :         INA    
+1000264 :     IMA     OTA
+1000268 :             OTA
+1000277 :     IMA INA OTA
+1000286 :     IMA INA OTA
+1000344 :     IMA     OTA
+1000353 : AFA IMA INA OTA
+1000461 :     IMA INA OTA
+1000490 :             OTA
+1000681 :             OTA
+1000685 :             OTA
+1000791 : AFA IMA INA OTA
+1000975 :     IMA INA OTA
+1000952 :             OTA
+1001007 :             OTA
+1001092 :     IMA INA    
+1001154 :     IMA INA OTA
+1001208 : AFA IMA INA OTA
+1001217 : AFA IMA INA OTA
+1001237 :         INA    
+1001242 : AFA IMA INA OTA
+1001261 :             OTA
+1001308 :     IMA INA OTA
+1001333 : AFA IMA INA OTA
+1001367 :     IMA INA OTA
+1001443 :     IMA INA OTA
+1001493 :             OTA
+1001523 : AFA IMA INA OTA
+1001565 :     IMA INA OTA
+1001586 : AFA IMA     OTA
+1001638 :             OTA
+1001648 :             OTA
+1001681 :     IMA INA    
+1001708 :         INA OTA
+1001711 :             OTA
+1001817 :     IMA        
+1001987 :     IMA     OTA
+1001988 :         INA    
+1001914 :             OTA
+1001930 :             OTA
+1002032 :     IMA INA OTA
+1002050 :     IMA INA OTA
+1002065 :             OTA
+1002204 : AFA IMA INA OTA
+1002263 :             OTA
+1002330 :             OTA
+1002539 :         INA    
+1002542 : AFA IMA INA OTA
+1002663 :             OTA
+1002704 :     IMA INA OTA
+1002712 :         INA    
+1002809 : AFA IMA INA OTA
+1002821 :     IMA INA OTA
+1002897 :     IMA INA OTA
+1002936 :     IMA INA OTA
+1003143 :             OTA
+1003150 :             OTA
+1003215 :             OTA
+1003239 :             OTA
+1003256 :             OTA
+1003346 :             OTA
+1003415 :             OTA
+1003431 :             OTA
+1003532 :             OTA
+1003546 :             OTA
+1003611 :             OTA
+1003618 :             OTA
+1003619 :             OTA
+1003727 :             OTA
+1003736 :             OTA
+1003765 :             OTA
+1003808 :             OTA
+1003820 :             OTA
+1003937 :             OTA
+1003966 :             OTA
+1003980 :             OTA
+1003983 :             OTA
+1004129 :             OTA
+1004227 :             OTA
+1004308 :             OTA
+1004414 :             OTA
+1004418 :             OTA
+1004601 :             OTA
+1004635 :             OTA
+1004694 :             OTA
+1004766 :             OTA
+1004799 :             OTA
+1004998 :             OTA
+1005071 :             OTA
+1005139 :             OTA
+1005149 :             OTA
+1005156 :             OTA
+1005198 :             OTA
+1005257 :             OTA
+1005294 :             OTA
+1005402 :             OTA
+1005486 :             OTA
+1005551 :             OTA
+1005614 :             OTA
+1005709 :             OTA
+1005787 :             OTA
+1005809 :             OTA
+1005852 :             OTA
+1006119 :             OTA
+1006141 :             OTA
+1006203 :             OTA
+1006205 :             OTA
+1006293 :             OTA
+1006304 :             OTA
+1006433 :             OTA
+1006462 :             OTA
+1006515 :             OTA
+1006729 :             OTA
+1100005 :     IMA        
+1100019 :     IMA     OTA
+1100029 : AFA IMA        
+1100069 :             OTA
+1100085 : AFA IMA INA OTA
+1100094 : AFA IMA        
+1100165 :             OTA
+1100175 : AFA IMA        
+1100186 :     IMA     OTA
+1100251 :     IMA INA    
+1100287 : AFA IMA INA OTA
+1100348 :     IMA INA OTA
+1100350 : AFA IMA     OTA
+1100414 :     IMA        
+1100450 : AFA IMA     OTA
+1100456 :     IMA        
+1100457 :     IMA        
+1100480 : AFA IMA        
+1100507 :     IMA INA    
+1100523 :     IMA     OTA
+1100584 :             OTA
+1100688 :     IMA     OTA
+1100707 :     IMA     OTA
+1100729 :     IMA     OTA
+1100739 : AFA IMA INA OTA
+1100732 :     IMA     OTA
+1100788 :     IMA INA OTA
+1100800 : AFA IMA     OTA
+1100952 : AFA IMA INA OTA
+1100981 :     IMA     OTA
+1100987 :     IMA INA OTA
+1100992 :     IMA        
+1101020 :     IMA     OTA
+1101031 :     IMA        
+1101043 :     IMA     OTA
+1101052 :         INA    
+1101073 :     IMA        
+1101115 :             OTA
+1101180 :             OTA
+1101211 :             OTA
+1101278 : AFA IMA        
+1101293 :     IMA        
+1101298 :     IMA        
+1101311 : AFA IMA        
+1101380 :     IMA INA OTA
+1101414 :     IMA INA    
+1101427 :     IMA     OTA
+1101474 :             OTA
+1101500 :     IMA INA OTA
+1101511 : AFA IMA INA OTA
+1101543 :     IMA        
+1101608 :     IMA INA OTA
+1101609 :     IMA        
+1101640 : AFA IMA INA OTA
+1101644 : AFA IMA     OTA
+1101681 :     IMA     OTA
+1101736 :     IMA     OTA
+1101749 :         INA    
+1101755 :             OTA
+1101771 :     IMA     OTA
+1101818 :     IMA INA OTA
+1101861 :     IMA     OTA
+1101912 :     IMA     OTA
+1101916 :     IMA INA OTA
+1101958 :     IMA        
+1102019 :     IMA INA    
+1102068 :     IMA INA OTA
+1102115 :     IMA INA OTA
+1102152 : AFA IMA        
+1102155 :         INA    
+1102185 :             OTA
+1102236 :             OTA
+1102239 :             OTA
+1102274 :     IMA     OTA
+1102339 :             OTA
+1102410 :     IMA        
+1102491 : AFA IMA INA OTA
+1102444 :     IMA        
+1102450 :             OTA
+1102497 :     IMA INA OTA
+1102503 :             OTA
+1102524 :     IMA INA OTA
+1102546 :     IMA INA OTA
+1102554 :             OTA
+1102567 :     IMA        
+1102593 :             OTA
+1102603 :             OTA
+1102620 :     IMA     OTA
+1102645 : AFA IMA INA OTA
+1102654 : AFA IMA        
+1102765 :     IMA     OTA
+1102782 :             OTA
+1102805 :             OTA
+1102830 :     IMA INA    
+1102869 : AFA IMA     OTA
+1102876 :             OTA
+1102878 :     IMA INA    
+1102964 :     IMA     OTA
+1103013 : AFA IMA INA OTA
+1103035 :     IMA INA    
+1103047 :     IMA        
+1103121 :     IMA INA    
+1103123 :             OTA
+1103171 :     IMA        
+1103250 :     IMA     OTA
+1103261 :     IMA        
+1103294 :     IMA INA OTA
+1103267 :             OTA
+1103280 :             OTA
+1103324 : AFA IMA INA    
+1103338 : AFA IMA INA    
+1103366 :             OTA
+1103377 :     IMA     OTA
+1103422 :             OTA
+1103438 :     IMA     OTA
+1103487 :     IMA        
+1103519 :     IMA     OTA
+1103533 :     IMA        
+1103571 :     IMA     OTA
+1103605 : AFA IMA INA OTA
+1103666 :     IMA        
+1103710 :             OTA
+1103726 :     IMA     OTA
+1103774 : AFA IMA INA    
+1103789 : AFA IMA     OTA
+1103798 :     IMA     OTA
+1103818 :     IMA        
+1103853 : AFA IMA     OTA
+1103859 :     IMA        
+1103860 :     IMA        
+1103929 :     IMA        
+1103936 :     IMA INA OTA
+1103967 :     IMA INA    
+1103982 :     IMA        
+1103991 :     IMA INA    
+1103910 :         INA    
+1103959 :         INA    
+1103905 :             OTA
+1104019 : AFA IMA     OTA
+1104134 :     IMA        
+1104135 : AFA IMA        
+1104143 :     IMA INA OTA
+1104169 :     IMA        
+1104211 :     IMA     OTA
+1104297 : AFA IMA     OTA
+1104417 :     IMA INA    
+1104435 :     IMA INA    
+1104471 :     IMA INA OTA
+1104495 :             OTA
+1104509 :         INA    
+1104561 :     IMA        
+1104611 :             OTA
+1104616 :         INA OTA
+1104660 :     IMA INA OTA
+1104661 :             OTA
+1104680 :     IMA     OTA
+1104689 :     IMA        
+1104693 :     IMA        
+1104717 :         INA OTA
+1104728 :         INA    
+1104789 :     IMA INA OTA
+1104911 :     IMA        
+1104968 :     IMA     OTA
+1104812 :             OTA
+1104837 :             OTA
+1104872 :             OTA
+1105015 :     IMA     OTA
+1105053 :     IMA        
+1105097 :         INA OTA
+1105108 :             OTA
+1105128 :     IMA INA OTA
+1105173 :     IMA INA    
+1105210 :             OTA
+1105225 :     IMA     OTA
+1105245 :         INA    
+1105286 :         INA    
+1105334 :     IMA        
+1105363 :     IMA        
+1105430 :     IMA INA OTA
+1105489 :     IMA INA    
+1105521 :     IMA     OTA
+1105526 :     IMA     OTA
+1105565 :         INA    
+1105598 : AFA IMA     OTA
+1105601 :     IMA     OTA
+1105610 :             OTA
+1105625 :     IMA     OTA
+1105658 : AFA IMA INA OTA
+1105665 :     IMA INA OTA
+1105681 :             OTA
+1105685 :     IMA     OTA
+1105693 :     IMA     OTA
+1105688 :             OTA
+1105704 :     IMA        
+1105755 :             OTA
+1105787 :     IMA INA OTA
+1105800 :     IMA INA OTA
+1105855 :     IMA INA OTA
+1105856 :     IMA INA    
+1105859 :     IMA        
+1105860 :     IMA        
+1105863 : AFA IMA INA OTA
+1105908 :     IMA     OTA
+1105916 :         INA    
+1105959 :         INA OTA
+1106011 :     IMA        
+1106029 :             OTA
+1106065 :     IMA        
+1106089 :     IMA        
+1106127 :     IMA     OTA
+1106130 :         INA OTA
+1106215 :     IMA        
+1106260 :     IMA        
+1106273 :     IMA        
+1106312 :     IMA     OTA
+1106368 : AFA IMA        
+1106400 :     IMA        
+1106426 :     IMA     OTA
+1106483 : AFA IMA     OTA
+1106504 : AFA IMA INA    
+1106507 :             OTA
+1106525 : AFA IMA        
+1106546 :     IMA        
+1106554 :             OTA
+1106568 :     IMA     OTA
+1106593 :     IMA        
+1106576 :             OTA
+1106581 :             OTA
+1106598 :     IMA        
+1106627 :             OTA
+1106654 :             OTA
+1106747 :             OTA
+1106753 :             OTA
+1106834 :             OTA
+1106901 :             OTA
+1106980 :             OTA
+1106989 :             OTA
+1106991 :             OTA
+1107118 :             OTA
+1107174 :             OTA
+1107178 :             OTA
+1107244 :             OTA
+1107276 :             OTA
+1107300 :             OTA
+1107365 :             OTA
+1107441 :             OTA
+1107442 :             OTA
+1107447 :             OTA
+1107528 :             OTA
+1107556 :             OTA
+1107582 :             OTA
+1107639 :             OTA
+1107702 :             OTA
+1107719 :             OTA
+1107724 :             OTA
+1107747 :             OTA
+1107818 :             OTA
+1107861 :             OTA
+1107862 :             OTA
+1107874 :             OTA
+1107907 :             OTA
+1107996 :             OTA
+1108005 :             OTA
+1108016 :             OTA
+1108035 :             OTA
+1108051 :             OTA
+1108083 :             OTA
+1108115 :             OTA
+1108218 :             OTA
+1108222 :             OTA
+1108236 :             OTA
+1108278 :             OTA
+1108283 :             OTA
+1108304 :             OTA
+1108336 :             OTA
+1108337 :             OTA
+1108347 :             OTA
+1108359 :             OTA
+1108429 :             OTA
+1108483 :             OTA
+1108496 :             OTA
+1108579 :             OTA
+1108628 :             OTA
+1108745 :             OTA
+1108749 :             OTA
+1108799 :             OTA
+1108802 :             OTA
+1108817 :             OTA
+1108833 :             OTA
+1108850 :             OTA
+1108928 :             OTA
+1108933 :             OTA
+1108991 :             OTA
+1109024 :             OTA
+1109122 :             OTA
+1109138 :             OTA
+1109145 :             OTA
+1109177 :             OTA
+1109238 :             OTA
+1109276 :             OTA
+1109293 :             OTA
+1109305 :             OTA
+1109336 :             OTA
+1109369 :             OTA
+1109414 :             OTA
+1109635 :             OTA
+1109667 :             OTA
+1109711 :             OTA
+1109843 :             OTA
+1109859 :             OTA
+1109883 :             OTA
+1109924 :             OTA
+1109973 :             OTA
+1109990 :             OTA
+1110029 :             OTA
+1110105 :             OTA
+1110133 :             OTA
+1110167 :             OTA
+1110258 :             OTA
+1110285 :             OTA
+1110311 :             OTA
+1110328 :             OTA
+1110358 :             OTA
+1110389 :             OTA
+1110480 :             OTA
+1110499 :             OTA
+1110504 :             OTA
+1110642 :             OTA
+1110662 :             OTA
+1110673 :             OTA
+1110699 :             OTA
+1110705 :             OTA
+1110766 :             OTA
+1110800 :             OTA
+1110846 :             OTA
+1110937 :             OTA
+1110950 :             OTA
+1111084 :             OTA
+1111093 :             OTA
+1111176 :             OTA
+1111212 :             OTA
+1111258 :             OTA
+1111307 :             OTA
+1111332 :             OTA
+1111355 :             OTA
+1111407 :             OTA
+1111449 :             OTA
+1111667 :             OTA
+1111729 :             OTA
+1111771 :             OTA
+1111887 :             OTA
+1111908 :             OTA
+1111951 :             OTA
+1111974 :             OTA
+1111992 :             OTA
+1112098 :             OTA
+1112391 :             OTA
+1112430 :             OTA
+1112455 :             OTA
+1112460 :             OTA
+1112542 :             OTA
+1112574 :             OTA
+1112666 :             OTA
+1112699 :             OTA
+1112715 :             OTA
+1112725 :             OTA
+1112737 :             OTA
+1112742 :             OTA
+1112754 :             OTA
+1112864 :             OTA
+1112967 :             OTA
+1113045 :             OTA
+1113059 :             OTA
+1113097 :             OTA
+1113117 :             OTA
+1113229 :             OTA
+1113301 :             OTA
+1113387 :             OTA
+1113446 :             OTA
+1113463 :             OTA
+1113469 :             OTA
+1113483 :             OTA
+1113498 :             OTA
+1113589 :             OTA
+1113599 :             OTA
+1113641 :             OTA
+1113780 :             OTA
+1113803 :             OTA
+1113871 :             OTA
+1113885 :             OTA
+1113918 :             OTA
+1113964 :             OTA
+1113965 :             OTA
+1114057 :             OTA
+1114096 :             OTA
+1114120 :             OTA
+1200021 :     IMA INA    
+1200060 :     IMA INA OTA
+1200100 :             OTA
+1200205 : AFA IMA INA OTA
+1200206 :             OTA
+1200221 :         INA    
+1200223 :         INA OTA
+1200277 :     IMA INA OTA
+1200308 :             OTA
+1200325 :             OTA
+1200355 :             OTA
+1200384 :         INA OTA
+1200387 :             OTA
+1200468 :             OTA
+1200541 :         INA    
+1200588 :         INA OTA
+1200615 :         INA OTA
+1200626 :     IMA INA OTA
+1200702 :         INA OTA
+1200741 :             OTA
+1200850 :     IMA INA    
+1200877 :     IMA INA OTA
+1200925 :     IMA INA    
+1200939 :     IMA INA OTA
+1200958 :     IMA        
+1200885 :             OTA
+1200935 :             OTA
+1201047 : AFA IMA     OTA
+1201052 :     IMA INA OTA
+1201090 :     IMA INA OTA
+1201112 :     IMA INA OTA
+1201148 :         INA OTA
+1201184 :             OTA
+1201200 :     IMA INA OTA
+1201222 :     IMA     OTA
+1201234 :             OTA
+1201237 :     IMA     OTA
+1201329 :     IMA INA OTA
+1201365 :     IMA INA OTA
+1201484 :             OTA
+1201589 :     IMA INA OTA
+1201720 :             OTA
+1201721 :             OTA
+1201795 :             OTA
+1201816 :             OTA
+1201833 :             OTA
+1201853 :             OTA
+1201880 :             OTA
+1201903 :             OTA
+1201990 :             OTA
+1202006 :             OTA
+1202044 :             OTA
+1202051 :             OTA
+1202081 :             OTA
+1202083 :             OTA
+1202127 :             OTA
+1202279 :             OTA
+1202311 :             OTA
+1202681 :             OTA
+1202761 :             OTA
+1202887 :             OTA
+1202907 :             OTA
+1203119 :             OTA
+1203186 :             OTA
+1203187 :             OTA
+1203214 :             OTA
+1203231 :             OTA
+1203366 :             OTA
+1203412 :             OTA
+1203414 :             OTA
+1203536 :             OTA
+1203548 :             OTA
+1203566 :             OTA
+1203688 :             OTA
+1203689 :             OTA
+1203790 :             OTA
+1203804 :             OTA
+1203866 :             OTA
+1203908 :             OTA
+1203998 :             OTA
+1204066 :             OTA
+1204099 :             OTA
+1204104 :             OTA
+1204208 :             OTA
+1204226 :             OTA
+1300061 :             OTA
+1300075 :     IMA        
+1300105 :     IMA INA OTA
+1300170 :     IMA     OTA
+1300187 :     IMA INA OTA
+1300216 :             OTA
+1300391 : AFA IMA INA    
+1300321 :         INA OTA
+1300331 :     IMA INA OTA
+1300511 :             OTA
+1300528 :         INA    
+1300532 :     IMA        
+1300598 :     IMA INA OTA
+1300593 :         INA    
+1300592 :             OTA
+1300604 :     IMA INA    
+1300727 : AFA IMA INA OTA
+1300794 :     IMA        
+1300834 :             OTA
+1300853 :     IMA INA OTA
+1300880 : AFA IMA INA OTA
+1300908 :     IMA INA    
+1300934 :         INA    
+1300897 :             OTA
+1300974 :             OTA
+1301048 : AFA IMA INA OTA
+1301081 :             OTA
+1301103 : AFA IMA INA OTA
+1301151 :     IMA     OTA
+1301162 :         INA OTA
+1301192 :         INA    
+1301231 :             OTA
+1301281 : AFA IMA INA OTA
+1301390 :     IMA INA OTA
+1301330 :             OTA
+1301374 :         INA OTA
+1301375 :             OTA
+1301402 :             OTA
+1301407 : AFA IMA INA OTA
+1301474 :     IMA INA OTA
+1301507 :         INA    
+1301531 :         INA    
+1301624 :     IMA INA OTA
+1301960 : AFA IMA INA OTA
+1301683 :     IMA INA OTA
+1301838 :     IMA INA    
+1301973 :     IMA INA    
+1301970 :             OTA
+1302001 :         INA OTA
+1302029 :     IMA     OTA
+1302048 : AFA IMA INA OTA
+1302402 :             OTA
+1302416 :             OTA
+1302633 :             OTA
+1302714 :             OTA
+1302927 :             OTA
+1302929 :             OTA
+1303056 :             OTA
+1303243 :             OTA
+1303417 :             OTA
+1303455 :             OTA
+1303557 :             OTA
+1303595 :             OTA
+1303648 :             OTA
+1303667 :             OTA
+1303771 :             OTA
+1303803 :             OTA
+1303830 :             OTA
+1303859 :             OTA
+1303972 :             OTA
+1304021 :             OTA
+1304037 :             OTA
+1304158 :             OTA
+1304171 :             OTA
+1304199 :             OTA
+1304225 :             OTA
+1304236 :             OTA
+1304284 :             OTA
+1304480 :             OTA
+1304658 :             OTA
+1304685 :             OTA
+1304692 :             OTA
+1304734 :             OTA
+1304736 :             OTA
+1304802 :             OTA
+1304812 :             OTA
+1400036 :     IMA        
+1400054 :             OTA
+1400075 :     IMA        
+1400088 :     IMA        
+1400167 :             OTA
+1400170 :         INA    
+1400211 :     IMA        
+1400291 :     IMA INA    
+1400238 :             OTA
+1400251 :             OTA
+1400347 :     IMA        
+1400358 :             OTA
+1400414 :     IMA        
+1400433 :     IMA        
+1400443 :             OTA
+1400444 : AFA IMA        
+1400469 :             OTA
+1400472 :         INA OTA
+1400474 :             OTA
+1400488 :     IMA     OTA
+1400498 :     IMA     OTA
+1400515 :             OTA
+1400563 :     IMA        
+1400609 : AFA IMA INA OTA
+1400603 :     IMA     OTA
+1400622 :             OTA
+1400809 :     IMA     OTA
+1400811 : AFA IMA     OTA
+1400930 : AFA IMA     OTA
+1400829 :     IMA     OTA
+1400894 :     IMA        
+1400908 :     IMA        
+1400927 :     IMA INA OTA
+1400951 :     IMA     OTA
+1400940 :         INA    
+1400909 :             OTA
+1400999 :             OTA
+1401033 :     IMA     OTA
+1401034 :     IMA        
+1401040 :     IMA        
+1401041 :     IMA INA OTA
+1401087 :     IMA INA    
+1401190 : AFA IMA     OTA
+1401102 :             OTA
+1401118 :     IMA INA    
+1401147 :     IMA     OTA
+1401149 :     IMA     OTA
+1401151 :     IMA        
+1401155 :     IMA        
+1401174 :     IMA     OTA
+1401178 :         INA    
+1401180 :     IMA        
+1401183 :             OTA
+1401226 : AFA IMA     OTA
+1401231 :         INA    
+1401257 :     IMA INA    
+1401265 :     IMA     OTA
+1401300 : AFA IMA        
+1401314 :         INA OTA
+1401334 :     IMA     OTA
+1401349 : AFA IMA INA OTA
+1401351 :     IMA     OTA
+1401352 :     IMA INA    
+1401395 : AFA IMA INA OTA
+1401367 :             OTA
+1401437 :     IMA     OTA
+1401451 :     IMA     OTA
+1401479 :     IMA     OTA
+1401495 :         INA OTA
+1401477 :             OTA
+1401512 :     IMA        
+1401585 :     IMA        
+1401606 :         INA    
+1401615 :             OTA
+1401658 :         INA    
+1401660 :     IMA     OTA
+1401671 :     IMA        
+1401686 :     IMA     OTA
+1401687 :     IMA        
+1401753 :     IMA        
+1401782 :     IMA        
+1401846 : AFA IMA        
+1401904 : AFA IMA        
+1401974 :     IMA        
+1401883 :             OTA
+1402026 : AFA IMA INA    
+1402111 :     IMA        
+1402136 :     IMA        
+1402180 : AFA IMA INA OTA
+1402207 :             OTA
+1402223 :     IMA     OTA
+1402267 :     IMA        
+1402288 :     IMA     OTA
+1402302 :     IMA        
+1402373 :     IMA        
+1402416 :             OTA
+1402421 :     IMA     OTA
+1402447 :     IMA INA OTA
+1402465 :             OTA
+1402476 :             OTA
+1402493 :             OTA
+1402590 : AFA IMA        
+1402500 :     IMA     OTA
+1402503 :             OTA
+1402516 :     IMA INA    
+1402520 :             OTA
+1402533 :     IMA     OTA
+1402573 :     IMA        
+1402576 :     IMA     OTA
+1402577 :     IMA        
+1402582 :     IMA     OTA
+1402614 :     IMA     OTA
+1402623 : AFA IMA     OTA
+1402681 : AFA IMA        
+1402684 :     IMA        
+1402685 :     IMA     OTA
+1402703 :             OTA
+1402719 :     IMA INA OTA
+1402711 :             OTA
+1402731 :             OTA
+1402749 :     IMA     OTA
+1402779 :     IMA INA OTA
+1402798 :             OTA
+1402820 :     IMA INA    
+1402831 : AFA IMA INA OTA
+1402958 : AFA IMA     OTA
+1402875 :     IMA     OTA
+1402970 :     IMA        
+1402988 :     IMA     OTA
+1402948 :             OTA
+1403004 :     IMA     OTA
+1403012 :     IMA        
+1403040 :     IMA        
+1403123 :     IMA        
+1403146 :     IMA     OTA
+1403187 :         INA    
+1403208 :     IMA        
+1403210 :     IMA     OTA
+1403236 : AFA IMA     OTA
+1403287 :     IMA     OTA
+1403324 :         INA    
+1403364 : AFA IMA     OTA
+1403399 :     IMA        
+1403379 :             OTA
+1403412 :     IMA        
+1403423 :     IMA        
+1403503 :     IMA        
+1403586 :             OTA
+1403626 :     IMA INA OTA
+1403641 :     IMA INA    
+1403644 : AFA IMA     OTA
+1403652 :     IMA        
+1403711 :     IMA INA OTA
+1403735 :             OTA
+1403745 :             OTA
+1403775 :     IMA     OTA
+1403776 :     IMA INA OTA
+1403793 :             OTA
+1403833 :             OTA
+1403872 :     IMA        
+1403885 :     IMA     OTA
+1403906 :     IMA        
+1403925 :     IMA INA OTA
+1403943 :     IMA        
+1403959 :     IMA        
+1404057 :     IMA     OTA
+1404072 : AFA IMA     OTA
+1404085 :     IMA        
+1404095 :             OTA
+1404112 :     IMA        
+1404121 : AFA IMA     OTA
+1404143 :     IMA     OTA
+1404144 :     IMA        
+1404178 :     IMA     OTA
+1404196 :     IMA        
+1404252 :     IMA     OTA
+1404253 :             OTA
+1404261 :             OTA
+1404262 :     IMA        
+1404272 :     IMA INA OTA
+1404326 :     IMA        
+1404342 :     IMA        
+1404343 :     IMA     OTA
+1404355 :     IMA     OTA
+1404362 :             OTA
+1404363 :     IMA INA    
+1404364 :             OTA
+1404385 : AFA IMA     OTA
+1404437 : AFA IMA     OTA
+1404499 : AFA IMA     OTA
+1404482 :     IMA INA OTA
+1404500 :     IMA        
+1404523 : AFA IMA        
+1404551 :     IMA     OTA
+1404569 :     IMA        
+1404586 :     IMA INA OTA
+1404602 :     IMA INA OTA
+1404620 :             OTA
+1404648 :     IMA     OTA
+1404672 : AFA IMA        
+1404695 :         INA    
+1404674 :             OTA
+1404688 :             OTA
+1404700 :     IMA     OTA
+1404701 :     IMA     OTA
+1404704 :             OTA
+1404723 :     IMA     OTA
+1404782 : AFA IMA        
+1404784 :     IMA     OTA
+1404843 : AFA IMA     OTA
+1404850 :     IMA     OTA
+1404853 :     IMA        
+1404949 :     IMA     OTA
+1404971 :     IMA     OTA
+1404980 :     IMA     OTA
+1404996 :     IMA     OTA
+1404997 :     IMA     OTA
+1404897 :             OTA
+1404908 :             OTA
+1405037 :     IMA     OTA
+1405043 :     IMA INA OTA
+1405044 :     IMA        
+1405074 :     IMA     OTA
+1405084 : AFA IMA     OTA
+1405099 :     IMA     OTA
+1405117 :     IMA     OTA
+1405166 :     IMA     OTA
+1405190 :     IMA        
+1405191 :             OTA
+1405199 :             OTA
+1405276 :             OTA
+1405335 :             OTA
+1405415 :             OTA
+1405442 :             OTA
+1405473 :             OTA
+1405546 :             OTA
+1405595 :             OTA
+1405650 :             OTA
+1405731 :             OTA
+1405800 :             OTA
+1405843 :             OTA
+1405928 :             OTA
+1406029 :             OTA
+1406039 :             OTA
+1406041 :             OTA
+1406122 :             OTA
+1406139 :             OTA
+1406144 :             OTA
+1406165 :             OTA
+1406324 :             OTA
+1406331 :             OTA
+1406367 :             OTA
+1406396 :             OTA
+1406535 :             OTA
+1406540 :             OTA
+1406555 :             OTA
+1406562 :             OTA
+1406593 :             OTA
+1406667 :             OTA
+1406716 :             OTA
+1406845 :             OTA
+1406876 :             OTA
+1406954 :             OTA
+1406995 :             OTA
+1407083 :             OTA
+1407126 :             OTA
+1407142 :             OTA
+1407157 :             OTA
+1407165 :             OTA
+1407179 :             OTA
+1407208 :             OTA
+1407247 :             OTA
+1407254 :             OTA
+1407278 :             OTA
+1407295 :             OTA
+1407357 :             OTA
+1407367 :             OTA
+1407558 :             OTA
+1407600 :             OTA
+1407612 :             OTA
+1407636 :             OTA
+1407700 :             OTA
+1407747 :             OTA
+1407759 :             OTA
+1407780 :             OTA
+1407785 :             OTA
+1407794 :             OTA
+1407850 :             OTA
+1407908 :             OTA
+1407995 :             OTA
+1408120 :             OTA
+1408237 :             OTA
+1408243 :             OTA
+1408245 :             OTA
+1408315 :             OTA
+1408362 :             OTA
+1408438 :             OTA
+1408447 :             OTA
+1408455 :             OTA
+1408464 :             OTA
+1408466 :             OTA
+1408601 :             OTA
+1408613 :             OTA
+1408619 :             OTA
+1408717 :             OTA
+1408735 :             OTA
+1408775 :             OTA
+1408778 :             OTA
+1408808 :             OTA
+1408994 :             OTA
+1409002 :             OTA
+1409064 :             OTA
+1409086 :             OTA
+1409130 :             OTA
+1409139 :             OTA
+1409183 :             OTA
+1409288 :             OTA
+1409298 :             OTA
+1409336 :             OTA
+1409342 :             OTA
+1409382 :             OTA
+1409401 :             OTA
+1409403 :             OTA
+1409405 :             OTA
+1409407 :             OTA
+1409463 :             OTA
+1409497 :             OTA
+1409552 :             OTA
+1409623 :             OTA
+1409631 :             OTA
+1409741 :             OTA
+1409745 :             OTA
+1409802 :             OTA
+1409814 :             OTA
+1409819 :             OTA
+1409878 :             OTA
+1409939 :             OTA
+1409960 :             OTA
+1409984 :             OTA
+1410057 :             OTA
+1410079 :             OTA
+1410089 :             OTA
+1410123 :             OTA
+1410150 :             OTA
+1410187 :             OTA
+1410213 :             OTA
+1410236 :             OTA
+1410246 :             OTA
+1410351 :             OTA
+1410450 :             OTA
+1410471 :             OTA
+1410601 :             OTA
+1410617 :             OTA
+1410625 :             OTA
+1410629 :             OTA
+1410634 :             OTA
+1410721 :             OTA
+1410911 :             OTA
+1411001 :             OTA
+1411009 :             OTA
+1411031 :             OTA
+1411161 :             OTA
+1411184 :             OTA
+1411251 :             OTA
+1411259 :             OTA
+1411263 :             OTA
+1411312 :             OTA
+1411393 :             OTA
+1411421 :             OTA
+1411429 :             OTA
+1411506 :             OTA
+1411548 :             OTA
+1411611 :             OTA
+1411658 :             OTA
+1411660 :             OTA
+1411669 :             OTA
+1411670 :             OTA
+1411713 :             OTA
+1411733 :             OTA
+1411752 :             OTA
+1411776 :             OTA
+1500033 : AFA IMA     OTA
+1500099 : AFA IMA        
+1500108 :     IMA     OTA
+1500112 :     IMA     OTA
+1500123 : AFA IMA     OTA
+1500141 : AFA IMA     OTA
+1500183 :     IMA        
+1500205 :     IMA        
+1500236 :     IMA     OTA
+1500239 :     IMA     OTA
+1500241 :     IMA        
+1500263 :     IMA        
+1500268 :     IMA        
+1500292 :     IMA        
+1500321 : AFA IMA        
+1500343 :     IMA        
+1500344 :     IMA     OTA
+1500358 :     IMA INA OTA
+1500376 :     IMA        
+1500377 : AFA IMA        
+1500428 :             OTA
+1500517 :     IMA        
+1500528 :             OTA
+1500532 :     IMA INA    
+1500582 :             OTA
+1500583 :     IMA        
+1500603 :     IMA     OTA
+1500660 :     IMA        
+1500661 :     IMA     OTA
+1500665 :     IMA        
+1500692 :     IMA INA    
+1500710 :     IMA INA OTA
+1500713 :     IMA     OTA
+1500761 : AFA IMA        
+1500791 :     IMA        
+1500810 : AFA IMA     OTA
+1500901 : AFA IMA        
+1500819 :     IMA        
+1500837 :     IMA     OTA
+1500875 :     IMA        
+1500937 :     IMA        
+1500941 :     IMA     OTA
+1500958 :     IMA INA    
+1500998 :     IMA        
+1501002 :     IMA        
+1501006 : AFA IMA INA OTA
+1501016 :     IMA INA OTA
+1501019 :     IMA INA OTA
+1501117 :         INA    
+1501180 :     IMA        
+1501269 :     IMA     OTA
+1501272 :         INA    
+1501278 :     IMA     OTA
+1501303 :     IMA INA OTA
+1501329 : AFA IMA     OTA
+1501353 :     IMA INA    
+1501359 :         INA    
+1501389 :     IMA INA    
+1501390 :     IMA     OTA
+1501437 : AFA IMA     OTA
+1501574 :         INA    
+1501577 : AFA IMA     OTA
+1501610 :     IMA     OTA
+1501621 :     IMA INA    
+1501622 : AFA IMA     OTA
+1501665 : AFA IMA INA OTA
+1501676 :     IMA        
+1501695 :     IMA     OTA
+1501771 :             OTA
+1501789 : AFA IMA     OTA
+1501851 :         INA OTA
+1501861 :     IMA        
+1501890 :     IMA     OTA
+1501899 :     IMA INA OTA
+1501959 :     IMA        
+1501963 :     IMA     OTA
+1502014 :     IMA INA OTA
+1502025 :     IMA        
+1502033 :     IMA INA OTA
+1502051 :             OTA
+1502095 : AFA IMA        
+1502087 :     IMA        
+1502096 :             OTA
+1502109 :     IMA        
+1502128 :     IMA        
+1502193 :     IMA        
+1502138 :             OTA
+1502217 : AFA IMA INA OTA
+1502337 :     IMA INA OTA
+1502356 :             OTA
+1502383 :     IMA INA    
+1502392 :     IMA INA    
+1502420 :     IMA        
+1502421 : AFA IMA INA OTA
+1502430 :     IMA     OTA
+1502471 :     IMA     OTA
+1502503 :     IMA INA OTA
+1502534 :     IMA     OTA
+1502538 :             OTA
+1502547 :     IMA INA OTA
+1502548 :     IMA        
+1502617 :             OTA
+1502621 :     IMA     OTA
+1502636 :     IMA        
+1502651 :             OTA
+1502654 :         INA    
+1502795 :     IMA        
+1502797 :     IMA        
+1502782 :             OTA
+1502803 :     IMA     OTA
+1502815 :     IMA     OTA
+1502944 :     IMA     OTA
+1502999 :     IMA     OTA
+1502862 :         INA    
+1502929 :             OTA
+1503007 :     IMA     OTA
+1503051 :     IMA     OTA
+1503055 :     IMA INA    
+1503072 :             OTA
+1503075 :     IMA        
+1503149 :         INA    
+1503156 :     IMA        
+1503171 :     IMA     OTA
+1503175 :     IMA     OTA
+1503211 :     IMA     OTA
+1503245 :     IMA INA OTA
+1503272 :             OTA
+1503283 :             OTA
+1503285 : AFA IMA     OTA
+1503300 :     IMA        
+1503329 :     IMA INA    
+1503417 :     IMA INA OTA
+1503421 :     IMA        
+1503453 : AFA IMA        
+1503487 :     IMA        
+1503508 :     IMA INA    
+1503516 :             OTA
+1503555 :     IMA        
+1503653 : AFA IMA        
+1503655 :     IMA     OTA
+1503669 : AFA IMA     OTA
+1503948 : AFA IMA     OTA
+1503713 :     IMA INA    
+1503729 :     IMA     OTA
+1503741 :     IMA        
+1503752 :             OTA
+1503770 :     IMA     OTA
+1503793 :     IMA        
+1503847 :     IMA        
+1503849 :     IMA        
+1503873 :             OTA
+1503875 :     IMA     OTA
+1503909 :     IMA        
+1503923 :     IMA     OTA
+1503925 :     IMA        
+1503937 :     IMA     OTA
+1503966 :     IMA        
+1503945 :             OTA
+1504048 :             OTA
+1504059 :             OTA
+1504088 :     IMA     OTA
+1504171 :             OTA
+1504200 :             OTA
+1504238 :             OTA
+1504250 :             OTA
+1504310 :     IMA     OTA
+1504311 :     IMA        
+1504318 :             OTA
+1504335 :     IMA        
+1504385 : AFA IMA INA OTA
+1504459 : AFA IMA     OTA
+1504475 :     IMA     OTA
+1504521 :     IMA INA OTA
+1504529 :             OTA
+1504541 :     IMA INA    
+1504547 : AFA IMA     OTA
+1504560 :     IMA        
+1504566 :     IMA     OTA
+1504594 :             OTA
+1504616 : AFA IMA     OTA
+1504643 :     IMA        
+1504645 : AFA IMA     OTA
+1504647 :     IMA INA    
+1504648 :     IMA INA    
+1504660 :         INA    
+1504665 : AFA IMA INA OTA
+1504702 :     IMA        
+1504731 :     IMA INA    
+1504756 : AFA IMA        
+1504791 : AFA IMA        
+1504935 : AFA IMA     OTA
+1504785 :     IMA     OTA
+1504803 :     IMA        
+1504804 :             OTA
+1504810 :     IMA INA    
+1504850 :     IMA     OTA
+1504864 :             OTA
+1504867 :     IMA     OTA
+1504908 :     IMA        
+1504940 :     IMA     OTA
+1504995 :     IMA        
+1504915 :             OTA
+1505034 :             OTA
+1505042 :     IMA     OTA
+1505095 : AFA IMA     OTA
+1505091 :     IMA     OTA
+1505066 :             OTA
+1505071 :         INA    
+1505125 :     IMA        
+1505128 :     IMA        
+1505133 :     IMA INA OTA
+1505173 : AFA IMA INA    
+1505244 :         INA    
+1505250 :             OTA
+1505256 :     IMA     OTA
+1505266 :     IMA        
+1505267 :     IMA     OTA
+1505288 : AFA IMA     OTA
+1505336 : AFA IMA        
+1505341 :     IMA        
+1505363 :     IMA     OTA
+1505407 :     IMA     OTA
+1505417 :     IMA        
+1505498 : AFA IMA     OTA
+1505508 :     IMA INA OTA
+1505525 :     IMA     OTA
+1505543 :             OTA
+1505567 :             OTA
+1505608 :     IMA        
+1505611 : AFA IMA        
+1505613 :     IMA     OTA
+1505623 : AFA IMA INA    
+1505638 :     IMA        
+1505653 :     IMA INA OTA
+1505667 :     IMA     OTA
+1505680 : AFA IMA        
+1505683 :     IMA INA OTA
+1505700 : AFA IMA     OTA
+1505744 : AFA IMA     OTA
+1505935 : AFA IMA INA OTA
+1505800 :         INA OTA
+1505812 :             OTA
+1505836 :     IMA     OTA
+1505850 :     IMA INA OTA
+1505865 :     IMA     OTA
+1505881 :     IMA     OTA
+1505938 :             OTA
+1505978 :             OTA
+1505999 :             OTA
+1506119 :             OTA
+1506154 :             OTA
+1506297 :             OTA
+1506338 :             OTA
+1506554 :             OTA
+1506566 :             OTA
+1506791 :             OTA
+1506834 :             OTA
+1506871 :             OTA
+1507000 :             OTA
+1507003 :             OTA
+1507011 :             OTA
+1507143 :             OTA
+1507222 :             OTA
+1507231 :             OTA
+1507263 :             OTA
+1507283 :             OTA
+1507346 :             OTA
+1507446 :             OTA
+1507448 :             OTA
+1507516 :             OTA
+1507580 :             OTA
+1507607 :             OTA
+1507722 :             OTA
+1507755 :             OTA
+1507803 :             OTA
+1507858 :             OTA
+1507907 :             OTA
+1507947 :             OTA
+1507985 :             OTA
+1508013 :             OTA
+1508050 :             OTA
+1508112 :             OTA
+1508126 :             OTA
+1508287 :             OTA
+1508291 :             OTA
+1508372 :             OTA
+1508486 :             OTA
+1508545 :             OTA
+1508553 :             OTA
+1508634 :             OTA
+1508642 :             OTA
+1508689 :             OTA
+1508692 :             OTA
+1508826 :             OTA
+1508834 :             OTA
+1508845 :             OTA
+1509007 :             OTA
+1509015 :             OTA
+1509058 :             OTA
+1509216 :             OTA
+1509342 :             OTA
+1509357 :             OTA
+1509376 :             OTA
+1509416 :             OTA
+1509508 :             OTA
+1509549 :             OTA
+1509716 :             OTA
+1509738 :             OTA
+1509749 :             OTA
+1509972 :             OTA
+1509986 :             OTA
+1510041 :             OTA
+1510079 :             OTA
+1510209 :             OTA
+1510378 :             OTA
+1510410 :             OTA
+1510440 :             OTA
+1510492 :             OTA
+1510514 :             OTA
+1510532 :             OTA
+1510555 :             OTA
+1510574 :             OTA
+1510675 :             OTA
+1510692 :             OTA
+1510716 :             OTA
+1510770 :             OTA
+1510788 :             OTA
+1510899 :             OTA
+1510929 :             OTA
+1510957 :             OTA
+1510997 :             OTA
+1511007 :             OTA
+1511061 :             OTA
+1511087 :             OTA
+1511376 :             OTA
+1511392 :             OTA
+1511419 :             OTA
+1511426 :             OTA
+1600068 :             OTA
+1600199 :             OTA
+1600393 :             OTA
+1700001 :     IMA INA OTA
+1700019 :             OTA
+1700025 : AFA IMA     OTA
+1700044 : AFA IMA     OTA
+1700093 :     IMA     OTA
+1700118 :             OTA
+1700203 :         INA    
+1700238 :             OTA
+1700253 :             OTA
+1700255 :             OTA
+1700274 :             OTA
+1700282 :         INA    
+1700314 :         INA OTA
+1700368 :         INA OTA
+1700434 :     IMA INA    
+1700479 :     IMA     OTA
+1700498 :             OTA
+1700596 :     IMA     OTA
+1700671 :     IMA INA    
+1700741 :     IMA INA OTA
+1700744 :             OTA
+1700755 : AFA IMA     OTA
+1700855 :         INA OTA
+1700868 :     IMA INA OTA
+1700971 :     IMA INA OTA
+1700933 :             OTA
+1701011 :             OTA
+1701022 :     IMA     OTA
+1701141 :             OTA
+1701147 :             OTA
+1701262 :             OTA
+1701389 :             OTA
+1701569 :             OTA
+1701584 :             OTA
+1701744 :             OTA
+1701769 :             OTA
+1701811 :             OTA
+1701823 :             OTA
+1701864 :             OTA
+1701870 :             OTA
+1701893 :             OTA
+1701906 :             OTA
+1701918 :             OTA
+1702000 :             OTA
+1702074 :             OTA
+1702117 :             OTA
+1702157 :             OTA
+1702236 :             OTA
+1702296 :             OTA
+1702316 :             OTA
+1702452 :             OTA
+1702458 :             OTA
+1702506 :             OTA
+1702676 :             OTA
+1702686 :             OTA
+1800066 : AFA IMA     OTA
+1900186 : AFA IMA INA    
+1900285 : AFA IMA     OTA
+1900329 : AFA IMA INA    
+1900939 : AFA IMA INA OTA
+1901052 : AFA IMA     OTA
+1900221 :     IMA INA OTA
+1900275 :     IMA INA OTA
+1900301 :     IMA INA    
+1900381 :     IMA INA OTA
+1900679 :     IMA INA OTA
+1900715 :     IMA     OTA
+1900771 :     IMA        
+1900819 :     IMA INA OTA
+1900825 :     IMA INA OTA
+1900852 :     IMA INA OTA
+1900958 :     IMA INA OTA
+1901031 :     IMA INA    
+1901079 :     IMA INA OTA
+1900074 :         INA    
+1900826 :         INA OTA
+1900999 :         INA    
+1800113 :             OTA
+1800134 :             OTA
+1800179 :             OTA
+1800228 :             OTA
+1900203 :             OTA
+1900359 :             OTA
+1900386 :             OTA
+1900391 :             OTA
+1900405 :             OTA
+1900467 :             OTA
+1900547 :             OTA
+1900716 :             OTA
+1900805 :             OTA
+1900806 :             OTA
+1900891 :             OTA
+1900912 :             OTA
+1901045 :             OTA
+1901077 :             OTA
+1901318 :             OTA
+1901321 :             OTA
+1901367 :             OTA
+1901426 :             OTA
+1901449 :             OTA
+1901575 :             OTA
+1901612 :             OTA
+1901631 :             OTA
+1901645 :             OTA
+1901746 :             OTA
+1901867 :             OTA
+1902023 :             OTA
+1902086 :             OTA
+1902246 :             OTA
+1902252 :             OTA
+1902317 :             OTA
+1902330 :             OTA
+1902377 :             OTA
+1902383 :             OTA
+1902425 :             OTA
+1902448 :             OTA
+1902476 :             OTA
+1902567 :             OTA
+1902577 :             OTA
+1902631 :             OTA
+1902746 :             OTA
+1902966 :             OTA
+2400029 : AFA IMA     OTA
+2400052 :     IMA        
+2400062 :     IMA INA OTA
+2400089 :             OTA
+2400118 :             OTA
+2400165 :         INA OTA
+2400175 :             OTA
+2400238 :             OTA
+2400243 :     IMA INA    
+2400282 :     IMA     OTA
+2400327 :             OTA
+2400349 :             OTA
+2400395 :             OTA
+2400417 :     IMA     OTA
+2400426 :     IMA     OTA
+2400440 :     IMA     OTA
+2400441 :         INA    
+2400457 :             OTA
+2400458 :     IMA INA OTA
+2400490 :     IMA     OTA
+2400683 :     IMA INA    
+2400684 :             OTA
+2400984 : AFA IMA        
+2400894 :     IMA INA OTA
+2400906 :     IMA INA OTA
+2401033 : AFA IMA INA    
+2401236 :             OTA
+2401331 :     IMA     OTA
+2401349 :         INA    
+2401426 :             OTA
+2401433 :             OTA
+2401448 :     IMA INA    
+2401484 :     IMA     OTA
+2401517 :     IMA     OTA
+2401547 : AFA IMA INA    
+2401610 :             OTA
+2401624 :     IMA     OTA
+2401636 : AFA IMA INA OTA
+2401651 :     IMA INA    
+2401717 :             OTA
+2401756 :     IMA     OTA
+2401774 :             OTA
+2401784 :     IMA INA    
+2401840 :     IMA INA OTA
+2401854 :             OTA
+2401858 :         INA    
+2401974 :             OTA
+2402047 :     IMA INA OTA
+2402059 :     IMA     OTA
+2402068 :         INA OTA
+2402074 :     IMA INA OTA
+2402097 :     IMA INA OTA
+2402161 :     IMA     OTA
+2402190 :     IMA INA    
+2402204 :             OTA
+2402208 :             OTA
+2402230 :             OTA
+2402329 :             OTA
+2402344 :             OTA
+2402361 :             OTA
+2402398 :             OTA
+2402451 :             OTA
+2402628 :             OTA
+2402723 :             OTA
+2402791 :             OTA
+2402929 :             OTA
+2403037 :             OTA
+2403181 :             OTA
+2403204 :             OTA
+2403276 :             OTA
+2403443 :             OTA
+2403703 :             OTA
+2403758 :             OTA
+2403874 :             OTA
+2403910 :             OTA
+2404033 :             OTA
+2404147 :             OTA
+2404200 :             OTA
+2404360 :             OTA
+2404425 :             OTA
+2404453 :             OTA
+2404490 :             OTA
+2404531 :             OTA
+2404655 :             OTA
+2404684 :             OTA
+2404685 :             OTA
+2404899 :             OTA
+2404903 :             OTA
+2404990 :             OTA
+2405053 :             OTA
+2600029 : AFA IMA        
+2600043 : AFA IMA        
+2600076 :     IMA INA OTA
+2600087 : AFA IMA INA    
+2600102 :     IMA INA OTA
+2600135 :             OTA
+2600151 :     IMA     OTA
+2600155 :     IMA        
+2600156 :             OTA
+2600169 :     IMA INA OTA
+2600189 : AFA IMA INA    
+2600180 :     IMA     OTA
+2600196 :     IMA        
+2600245 :     IMA        
+2600271 :             OTA
+2600296 :             OTA
+2600317 :             OTA
+2600351 :             OTA
+2600353 : AFA IMA INA OTA
+2600379 :     IMA     OTA
+2600472 :     IMA        
+2600496 :             OTA
+2600529 : AFA IMA     OTA
+2600526 :     IMA INA    
+2600544 :     IMA     OTA
+2600578 : AFA IMA        
+2600596 :     IMA     OTA
+2600611 :             OTA
+2600625 :     IMA     OTA
+2600664 :     IMA INA    
+2600671 :         INA OTA
+2600702 : AFA IMA     OTA
+2600712 : AFA IMA INA OTA
+2600936 :     IMA INA OTA
+2600764 :             OTA
+2600765 :             OTA
+2600823 :             OTA
+2600972 :             OTA
+2601003 :     IMA        
+2601008 :     IMA INA OTA
+2601030 : AFA IMA INA OTA
+2601080 : AFA IMA     OTA
+2601260 :         INA OTA
+2601343 :     IMA        
+2601353 :     IMA        
+2601366 : AFA IMA INA OTA
+2601387 :     IMA INA    
+2601447 :     IMA     OTA
+2601504 :             OTA
+2601554 :     IMA        
+2601560 :     IMA INA    
+2601563 :     IMA     OTA
+2601613 :         INA    
+2601660 :             OTA
+2601666 :     IMA INA    
+2601679 :     IMA     OTA
+2601695 :     IMA     OTA
+2601672 :             OTA
+2601733 :     IMA INA    
+2601812 :     IMA INA    
+2601962 :     IMA     OTA
+2601970 :     IMA     OTA
+2601883 :             OTA
+2602009 :             OTA
+2602011 :     IMA        
+2602038 :     IMA     OTA
+2602052 : AFA IMA     OTA
+2602055 :     IMA     OTA
+2602105 :     IMA        
+2602127 : AFA IMA        
+2602141 :     IMA INA OTA
+2602190 :     IMA        
+2602162 :         INA    
+2602220 :     IMA     OTA
+2602232 :     IMA     OTA
+2602241 :     IMA     OTA
+2602246 : AFA IMA INA    
+2602293 :     IMA INA OTA
+2602273 :             OTA
+2602312 :     IMA INA OTA
+2602357 :         INA OTA
+2602368 :             OTA
+2602400 : AFA IMA     OTA
+2602411 :     IMA        
+2602443 :             OTA
+2602533 :     IMA     OTA
+2602537 :     IMA     OTA
+2602546 : AFA IMA     OTA
+2602549 :     IMA        
+2602553 :     IMA     OTA
+2602589 : AFA IMA        
+2602583 :     IMA INA OTA
+2602588 :     IMA        
+2602606 :         INA    
+2602616 :     IMA INA    
+2602619 :     IMA     OTA
+2602637 :     IMA INA    
+2602663 : AFA IMA INA OTA
+2602691 :     IMA        
+2602687 :             OTA
+2602770 :             OTA
+2602785 :         INA    
+2602808 : AFA IMA     OTA
+2602819 : AFA IMA        
+2602826 :     IMA        
+2602851 :     IMA     OTA
+2602863 :             OTA
+2602872 : AFA IMA     OTA
+2602996 : AFA IMA     OTA
+2602880 :     IMA        
+2602937 :     IMA        
+2602968 :     IMA INA OTA
+2602930 :             OTA
+2603001 :     IMA        
+2603039 :     IMA        
+2603051 :         INA OTA
+2603060 :     IMA        
+2603075 :             OTA
+2603112 :     IMA        
+2603131 : AFA IMA     OTA
+2603139 : AFA IMA     OTA
+2603135 :         INA OTA
+2603168 :     IMA     OTA
+2603186 :             OTA
+2603235 :     IMA     OTA
+2603268 :     IMA     OTA
+2603351 : AFA IMA     OTA
+2603370 : AFA IMA     OTA
+2603395 : AFA IMA        
+2603391 :     IMA     OTA
+2603407 :     IMA     OTA
+2603433 :             OTA
+2603466 :             OTA
+2603509 :     IMA        
+2603532 : AFA IMA        
+2603597 :             OTA
+2603615 : AFA IMA     OTA
+2603730 :             OTA
+2603732 :     IMA        
+2603752 : AFA IMA        
+2603781 :             OTA
+2603804 :     IMA        
+2603826 :     IMA        
+2603927 :     IMA INA    
+2603930 :     IMA        
+2603947 :     IMA        
+2603976 :     IMA        
+2603885 :             OTA
+2604014 :     IMA     OTA
+2604100 :     IMA        
+2604175 :     IMA INA    
+2604216 :     IMA     OTA
+2604283 :     IMA     OTA
+2604284 :             OTA
+2604312 :             OTA
+2604364 :             OTA
+2604387 :     IMA     OTA
+2604391 :             OTA
+2604436 : AFA IMA     OTA
+2604545 :     IMA        
+2604613 :     IMA     OTA
+2604702 :     IMA        
+2604732 :     IMA     OTA
+2604776 :             OTA
+2604894 : AFA IMA        
+2604852 :     IMA        
+2604947 :     IMA INA    
+2604927 :         INA    
+2604921 :             OTA
+2605075 :             OTA
+2605131 : AFA IMA     OTA
+2605139 :     IMA     OTA
+2605150 :             OTA
+2605162 :             OTA
+2605303 :     IMA     OTA
+2605342 :             OTA
+2605346 :     IMA        
+2605371 : AFA IMA     OTA
+2605413 : AFA IMA INA OTA
+2605432 : AFA IMA        
+2605433 : AFA IMA INA OTA
+2605477 :     IMA     OTA
+2605505 : AFA IMA     OTA
+2605560 :     IMA INA    
+2605576 :             OTA
+2605581 :     IMA        
+2605594 :             OTA
+2605655 :             OTA
+2605723 :     IMA        
+2605745 :     IMA INA    
+2605772 :     IMA     OTA
+2605781 :     IMA        
+2605805 : AFA IMA     OTA
+2605907 : AFA IMA     OTA
+2605807 :     IMA     OTA
+2605973 :     IMA INA OTA
+2605982 :     IMA        
+2606000 :     IMA     OTA
+2606009 :     IMA INA OTA
+2606038 :     IMA INA OTA
+2606055 :             OTA
+2606170 :     IMA INA OTA
+2606174 : AFA IMA     OTA
+2606181 : AFA IMA     OTA
+2606213 : AFA IMA     OTA
+2606220 :             OTA
+2606269 : AFA IMA INA OTA
+2606311 :             OTA
+2606337 : AFA IMA INA OTA
+2606349 : AFA IMA INA OTA
+2606341 :     IMA        
+2606358 :     IMA        
+2606397 :     IMA     OTA
+2606399 :     IMA INA    
+2606382 :             OTA
+2606402 :         INA    
+2606442 :     IMA     OTA
+2606459 :     IMA INA    
+2606471 :     IMA     OTA
+2606480 :     IMA        
+2606486 : AFA IMA        
+2606498 :             OTA
+2606540 :     IMA        
+2606617 :     IMA     OTA
+2606654 : AFA IMA INA OTA
+2606674 :     IMA     OTA
+2606694 :     IMA INA    
+2606683 :             OTA
+2606720 :     IMA     OTA
+2606724 :     IMA        
+2606729 :             OTA
+2606746 : AFA IMA     OTA
+2606756 : AFA IMA     OTA
+2606770 :     IMA     OTA
+2606977 : AFA IMA INA OTA
+2606833 :         INA    
+2606844 :             OTA
+2606875 :         INA    
+2606876 :     IMA INA OTA
+2606877 :     IMA     OTA
+2606992 :     IMA INA OTA
+2606924 :         INA    
+2606919 :             OTA
+2607091 : AFA IMA INA OTA
+2607013 :             OTA
+2607017 :     IMA     OTA
+2607084 :     IMA INA OTA
+2607101 :     IMA INA OTA
+2607146 :     IMA     OTA
+2607195 :     IMA     OTA
+2607234 :             OTA
+2607248 :     IMA        
+2607249 :     IMA        
+2607294 :     IMA        
+2607285 :             OTA
+2607454 : AFA IMA     OTA
+2607500 :     IMA     OTA
+2607523 : AFA IMA INA OTA
+2607826 :             OTA
+2607905 :             OTA
+2607931 :             OTA
+2608131 :             OTA
+2608190 :             OTA
+2608304 :             OTA
+2608446 :             OTA
+2608450 :             OTA
+2608497 :             OTA
+2608499 :             OTA
+2608555 :             OTA
+2608560 :             OTA
+2608571 :             OTA
+2608630 :             OTA
+2608636 :             OTA
+2608671 :             OTA
+2608701 :             OTA
+2608762 :             OTA
+2608822 :             OTA
+2608953 :             OTA
+2608960 :             OTA
+2609048 :             OTA
+2609114 :             OTA
+2609168 :             OTA
+2609240 :             OTA
+2609255 :             OTA
+2609445 :             OTA
+2609451 :             OTA
+2609456 :             OTA
+2609553 :             OTA
+2609577 :             OTA
+2609589 :             OTA
+2609619 :             OTA
+2609733 :             OTA
+2609778 :             OTA
+2609847 :             OTA
+2609863 :             OTA
+2609976 :             OTA
+2610011 :             OTA
+2610017 :             OTA
+2610050 :             OTA
+2610194 :             OTA
+2610204 :             OTA
+2610243 :             OTA
+2610247 :             OTA
+2610356 :             OTA
+2610441 :             OTA
+2610482 :             OTA
+2610532 :             OTA
+2610723 :             OTA
+2610724 :             OTA
+2610913 :             OTA
+2610962 :             OTA
+2610996 :             OTA
+2611043 :             OTA
+2611071 :             OTA
+2611073 :             OTA
+2611104 :             OTA
+2611218 :             OTA
+2611240 :             OTA
+2611247 :             OTA
+2611411 :             OTA
+2611452 :             OTA
+2611496 :             OTA
+2611568 :             OTA
+2611572 :             OTA
+2611739 :             OTA
+2611789 :             OTA
+2611895 :             OTA
+2611944 :             OTA
+2612049 :             OTA
+2612082 :             OTA
+2612104 :             OTA
+2612144 :             OTA
+2612191 :             OTA
+2612206 :             OTA
+2612265 :             OTA
+2612275 :             OTA
+2612285 :             OTA
+2612318 :             OTA
+2612362 :             OTA
+2612406 :             OTA
+2612485 :             OTA
+2612514 :             OTA
+2612529 :             OTA
+2612563 :             OTA
+2612567 :             OTA
+2612572 :             OTA
+2612742 :             OTA
+2612813 :             OTA
+2612841 :             OTA
+2612923 :             OTA
+2612927 :             OTA
+2612933 :             OTA
+2612995 :             OTA
+2613021 :             OTA
+2613059 :             OTA
+2613113 :             OTA
+2613195 :             OTA
+2613239 :             OTA
+2613249 :             OTA
+2613328 :             OTA
+2613335 :             OTA
+2613402 :             OTA
+2613429 :             OTA
+2613439 :             OTA
+2613473 :             OTA
+2613525 :             OTA
+2613537 :             OTA
+2613610 :             OTA
+2613683 :             OTA
+2613700 :             OTA
+2613715 :             OTA
+2613792 :             OTA
+2613805 :             OTA
+2613866 :             OTA
+2613930 :             OTA
+2613950 :             OTA
+2614004 :             OTA
+2614033 :             OTA
+2614116 :             OTA
+2614242 :             OTA
+2614373 :             OTA
+2614386 :             OTA
+2614549 :             OTA
+2614654 :             OTA
+2614673 :             OTA
+2614846 :             OTA
+2614869 :             OTA
+2615008 :             OTA
+2615244 :             OTA
+2615252 :             OTA
+2615325 :             OTA
+2615336 :             OTA
+2615351 :             OTA
+2615359 :             OTA
+2615392 :             OTA
+2615473 :             OTA
+2615550 :             OTA
+2615673 :             OTA
+2615731 :             OTA
+2615803 :             OTA
+2615960 :             OTA
+2615990 :             OTA
+2615996 :             OTA
+2616018 :             OTA
+2616019 :             OTA
+2616076 :             OTA
+2616124 :             OTA
+2616137 :             OTA
+2616327 :             OTA
+2616346 :             OTA
+2616439 :             OTA
+2616515 :             OTA
+2616554 :             OTA
+2616565 :             OTA
+2616580 :             OTA
+2616586 :             OTA
+2616743 :             OTA
+2616750 :             OTA
+2616786 :             OTA
+2616797 :             OTA
+2616832 :             OTA
+2616907 :             OTA
+2616955 :             OTA
+2617138 :             OTA
+2617204 :             OTA
+3400006 : AFA IMA     OTA
+3400018 :     IMA        
+3400142 :         INA    
+3400175 :             OTA
+3400208 :         INA OTA
+3400233 :             OTA
+3400280 :             OTA
+3400317 :             OTA
+3400327 :             OTA
+3400329 :             OTA
+3400418 :         INA    
+3400432 :     IMA     OTA
+3400457 :             OTA
+3400462 :     IMA INA OTA
+3400486 :     IMA INA OTA
+3400496 :     IMA INA    
+3400554 :             OTA
+3400556 :     IMA        
+3400567 :             OTA
+3400639 : AFA IMA INA OTA
+3400701 :             OTA
+3400809 : AFA IMA INA OTA
+3400911 : AFA IMA     OTA
+3400808 :         INA OTA
+3400828 :     IMA        
+3400914 :     IMA INA OTA
+3400831 :             OTA
+3400913 :             OTA
+3400936 :             OTA
+3400993 :             OTA
+3401022 :             OTA
+3401053 :             OTA
+3401092 :             OTA
+3401120 :     IMA     OTA
+3401126 :             OTA
+3401135 :     IMA     OTA
+3401138 :             OTA
+3401149 : AFA IMA INA    
+3401152 :         INA OTA
+3401167 :     IMA     OTA
+3401173 :     IMA     OTA
+3401191 :     IMA     OTA
+3401192 :     IMA     OTA
+3401205 :             OTA
+3401212 :     IMA     OTA
+3401236 :             OTA
+3401259 :     IMA     OTA
+3401318 :         INA    
+3401339 :     IMA     OTA
+3401335 :             OTA
+3401337 :             OTA
+3401344 :             OTA
+3401356 :         INA    
+3401358 :             OTA
+3401367 :         INA    
+3401372 :             OTA
+3401393 :             OTA
+3401445 :             OTA
+3401450 :     IMA INA OTA
+3401482 :     IMA INA OTA
+3401489 :     IMA INA    
+3401483 :             OTA
+3401527 :     IMA INA OTA
+3401559 :     IMA INA OTA
+3401586 :             OTA
+3401647 :     IMA INA OTA
+3401671 :             OTA
+3401733 :     IMA INA OTA
+3401780 :             OTA
+3401782 :             OTA
+3401795 :             OTA
+3401889 :             OTA
+3401901 :             OTA
+3401903 :             OTA
+3401911 :             OTA
+3401913 :             OTA
+3401958 :             OTA
+3402045 :             OTA
+3402062 :             OTA
+3402067 :             OTA
+3402074 :             OTA
+3402151 :             OTA
+3402160 :             OTA
+3402306 :             OTA
+3402314 :             OTA
+3402316 :             OTA
+3402319 :             OTA
+3402375 :             OTA
+3402422 :             OTA
+3402453 :             OTA
+3402556 :             OTA
+3402591 :             OTA
+3402604 :             OTA
+3402614 :             OTA
+3402649 :             OTA
+3402723 :             OTA
+3402770 :             OTA
+3402834 :             OTA
+3402850 :             OTA
+3402859 :             OTA
+3402862 :             OTA
+3402867 :             OTA
+3402890 :             OTA
+3402913 :             OTA
+3402988 :             OTA
+3403016 :             OTA
+3403058 :             OTA
+3403083 :             OTA
+3403145 :             OTA
+3403237 :             OTA
+3403265 :             OTA
+3403271 :             OTA
+3403275 :             OTA
+3403294 :             OTA
+3403412 :             OTA
+3403477 :             OTA
+3403493 :             OTA
+3403495 :             OTA
+3403505 :             OTA
+3403511 :             OTA
+3403525 :             OTA
+3403529 :             OTA
+3403619 :             OTA
+3403628 :             OTA
+3403662 :             OTA
+3403672 :             OTA
+3403751 :             OTA
+3403786 :             OTA
+3403801 :             OTA
+3403842 :             OTA
+3404067 :             OTA
+3404114 :             OTA
+3404122 :             OTA
+3404272 :             OTA
+3500035 :     IMA INA OTA
+3500122 : AFA IMA     OTA
+3500134 :     IMA INA OTA
+3500135 : AFA IMA     OTA
+3500146 :     IMA INA    
+3500191 :     IMA INA OTA
+3500199 :         INA    
+3500227 :     IMA INA    
+3500239 :     IMA        
+3500245 :     IMA        
+3500259 : AFA IMA     OTA
+3500254 :     IMA INA    
+3500310 : AFA IMA     OTA
+3500369 :     IMA     OTA
+3500395 :     IMA INA    
+3500411 :     IMA     OTA
+3500438 : AFA IMA        
+3500448 :     IMA     OTA
+3500455 :     IMA     OTA
+3500511 :     IMA     OTA
+3500544 :     IMA        
+3500576 :     IMA INA    
+3500618 :             OTA
+3500624 :     IMA INA OTA
+3500645 :     IMA INA    
+3500670 :     IMA INA    
+3500686 :     IMA        
+3500687 :     IMA     OTA
+3500792 :     IMA        
+3500790 :         INA    
+3500824 :             OTA
+3500918 :             OTA
+3500974 :             OTA
+3501066 :     IMA INA OTA
+3501108 : AFA IMA     OTA
+3501123 :     IMA INA    
+3501137 :     IMA INA OTA
+3501161 :     IMA     OTA
+3501163 :             OTA
+3501171 :     IMA     OTA
+3501192 :             OTA
+3501259 :             OTA
+3501269 :             OTA
+3501283 :     IMA        
+3501302 :     IMA     OTA
+3501307 :     IMA        
+3501321 : AFA IMA INA OTA
+3501325 : AFA IMA     OTA
+3501341 :         INA OTA
+3501395 :     IMA     OTA
+3501405 :             OTA
+3501410 :     IMA     OTA
+3501423 :             OTA
+3501439 :             OTA
+3501456 :         INA OTA
+3501460 :             OTA
+3501476 :     IMA        
+3501527 :         INA OTA
+3501530 :     IMA     OTA
+3501553 :             OTA
+3501581 :     IMA INA    
+3501608 :     IMA INA OTA
+3501612 : AFA IMA     OTA
+3501638 :     IMA INA OTA
+3501641 :     IMA     OTA
+3501678 :     IMA        
+3501790 : AFA IMA INA OTA
+3501749 :     IMA INA OTA
+3501758 :             OTA
+3501770 :     IMA     OTA
+3501795 :     IMA        
+3501787 :             OTA
+3501796 :             OTA
+3501827 :             OTA
+3501841 :             OTA
+3501843 :             OTA
+3501866 :             OTA
+3501884 :     IMA        
+3501894 :     IMA     OTA
+3501895 :     IMA INA    
+3501920 :     IMA        
+3501929 :     IMA        
+3501967 :     IMA     OTA
+3501993 :     IMA INA OTA
+3501951 :         INA    
+3502018 :     IMA        
+3502055 :             OTA
+3502114 :     IMA     OTA
+3502127 :         INA    
+3502133 :     IMA        
+3502195 :     IMA INA    
+3502170 :             OTA
+3502200 :             OTA
+3502204 : AFA IMA INA OTA
+3502221 :     IMA     OTA
+3502240 : AFA IMA INA OTA
+3502242 :             OTA
+3502262 : AFA IMA INA OTA
+3502272 :     IMA     OTA
+3502306 :     IMA        
+3502368 :     IMA        
+3502409 : AFA IMA        
+3502401 :             OTA
+3502430 :     IMA        
+3502431 :             OTA
+3502433 : AFA IMA INA OTA
+3502457 :     IMA        
+3502519 :             OTA
+3502537 :     IMA INA OTA
+3502538 : AFA IMA INA OTA
+3502570 :             OTA
+3502616 : AFA IMA INA    
+3502659 :     IMA INA    
+3502740 :     IMA        
+3502751 : AFA IMA     OTA
+3502774 :         INA OTA
+3502784 :         INA    
+3502811 :     IMA     OTA
+3502834 :     IMA        
+3502856 :     IMA     OTA
+3502891 :     IMA        
+3502937 :     IMA INA OTA
+3502857 :             OTA
+3502963 :             OTA
+3502985 :             OTA
+3503027 :             OTA
+3503059 :     IMA INA OTA
+3503066 :     IMA     OTA
+3503086 :     IMA        
+3503095 :     IMA INA OTA
+3503128 :     IMA INA OTA
+3503138 :     IMA INA OTA
+3503160 :     IMA INA    
+3503173 :             OTA
+3503259 :     IMA     OTA
+3503277 :             OTA
+3503303 : AFA IMA     OTA
+3503322 :             OTA
+3503352 :             OTA
+3503461 :     IMA        
+3503463 :     IMA INA OTA
+3503468 :     IMA        
+3503483 :             OTA
+3503510 :             OTA
+3503516 :     IMA INA OTA
+3503544 :     IMA INA    
+3503582 :             OTA
+3503598 :     IMA     OTA
+3503595 :             OTA
+3503620 :     IMA     OTA
+3503636 :     IMA        
+3503654 :     IMA     OTA
+3503684 :     IMA INA OTA
+3503712 :             OTA
+3503727 :     IMA     OTA
+3503728 :     IMA INA OTA
+3503730 :     IMA INA    
+3503743 :     IMA INA    
+3503850 :         INA OTA
+3503856 :             OTA
+3503879 :     IMA     OTA
+3503871 :             OTA
+3503887 :     IMA INA OTA
+3503901 :     IMA     OTA
+3503921 :     IMA INA OTA
+3503959 :     IMA        
+3503968 :     IMA     OTA
+3503972 :     IMA     OTA
+3503976 :             OTA
+3504015 :             OTA
+3504029 :     IMA     OTA
+3504043 :             OTA
+3504048 :         INA    
+3504159 :     IMA     OTA
+3504161 :             OTA
+3504176 :     IMA INA OTA
+3504179 :     IMA        
+3504240 :     IMA INA OTA
+3504241 :             OTA
+3504274 :             OTA
+3504287 :         INA OTA
+3504423 :             OTA
+3504424 :             OTA
+3504425 :     IMA     OTA
+3504490 :     IMA        
+3504511 :     IMA     OTA
+3504517 :             OTA
+3504541 :     IMA        
+3504554 :             OTA
+3504571 :             OTA
+3504575 :     IMA     OTA
+3504614 :     IMA        
+3504625 :             OTA
+3504636 :     IMA INA    
+3504638 :     IMA INA OTA
+3504666 : AFA IMA     OTA
+3504818 :     IMA     OTA
+3504822 :     IMA INA OTA
+3504839 : AFA IMA INA    
+3504905 :     IMA        
+3504926 :     IMA        
+3504995 :     IMA INA    
+3504864 :         INA OTA
+3504877 :             OTA
+3504996 :             OTA
+3505039 :     IMA        
+3505037 :             OTA
+3505040 :             OTA
+3505086 :     IMA     OTA
+3505098 :             OTA
+3505149 :     IMA INA OTA
+3505159 :     IMA     OTA
+3505160 :             OTA
+3505162 :             OTA
+3505194 :             OTA
+3505207 :             OTA
+3505217 :     IMA     OTA
+3505219 :     IMA     OTA
+3505228 :     IMA     OTA
+3505270 :             OTA
+3505295 :             OTA
+3505316 :         INA    
+3505329 :     IMA     OTA
+3505320 :             OTA
+3505360 :     IMA     OTA
+3505385 :             OTA
+3505433 : AFA IMA     OTA
+3505434 :     IMA        
+3505454 :     IMA INA    
+3505464 :     IMA INA OTA
+3505513 :     IMA INA OTA
+3505537 :     IMA        
+3505577 :     IMA     OTA
+3505588 :     IMA     OTA
+3505610 :     IMA INA    
+3505618 :             OTA
+3505645 : AFA IMA INA    
+3505646 :             OTA
+3505678 : AFA IMA INA OTA
+3505694 :             OTA
+3505739 : AFA IMA     OTA
+3505954 : AFA IMA     OTA
+3505738 :     IMA INA OTA
+3505767 :         INA    
+3505790 :             OTA
+3505837 :     IMA INA    
+3505840 :             OTA
+3505851 :     IMA INA OTA
+3505920 :     IMA     OTA
+3505956 :     IMA        
+3505957 :     IMA INA    
+3505968 :             OTA
+3505975 :             OTA
+3505997 :             OTA
+3506035 :             OTA
+3506077 :             OTA
+3506095 :             OTA
+3506109 :             OTA
+3506312 :             OTA
+3506341 :             OTA
+3506442 :             OTA
+3506454 :             OTA
+3506458 :             OTA
+3506511 :             OTA
+3506726 :             OTA
+3506735 :             OTA
+3506759 :             OTA
+3506779 :             OTA
+3506809 :             OTA
+3506859 :             OTA
+3506872 :             OTA
+3506946 :             OTA
+3507057 :             OTA
+3507106 :             OTA
+3507146 :             OTA
+3507170 :             OTA
+3507176 :             OTA
+3507240 :             OTA
+3507286 :             OTA
+3507289 :             OTA
+3507304 :             OTA
+3507362 :             OTA
+3507385 :             OTA
+3507401 :             OTA
+3507414 :             OTA
+3507539 :             OTA
+3507552 :             OTA
+3507743 :             OTA
+3507747 :             OTA
+3507800 :             OTA
+3507846 :             OTA
+3507882 :             OTA
+3507948 :             OTA
+3508003 :             OTA
+3508103 :             OTA
+3508160 :             OTA
+3508172 :             OTA
+3508196 :             OTA
+3508278 :             OTA
+3508288 :             OTA
+3508303 :             OTA
+3508309 :             OTA
+3508359 :             OTA
+3508558 :             OTA
+3508587 :             OTA
+3508650 :             OTA
+3508714 :             OTA
+3508817 :             OTA
+3508829 :             OTA
+3508836 :             OTA
+3508865 :             OTA
+3508867 :             OTA
+3508960 :             OTA
+3508970 :             OTA
+3508975 :             OTA
+3508995 :             OTA
+3509002 :             OTA
+3509046 :             OTA
+3509164 :             OTA
+3509198 :             OTA
+3509268 :             OTA
+3509302 :             OTA
+3509314 :             OTA
+3509368 :             OTA
+3509562 :             OTA
+3509596 :             OTA
+3509694 :             OTA
+3509718 :             OTA
+3509805 :             OTA
+3509876 :             OTA
+3509882 :             OTA
+3509890 :             OTA
+3509969 :             OTA
+3509971 :             OTA
+3509981 :             OTA
+3510011 :             OTA
+3510045 :             OTA
+3510151 :             OTA
+3510288 :             OTA
+3510402 :             OTA
+3510412 :             OTA
+3510423 :             OTA
+3510446 :             OTA
+3510589 :             OTA
+3510648 :             OTA
+3510686 :             OTA
+3510817 :             OTA
+3510859 :             OTA
+3510958 :             OTA
+3511023 :             OTA
+3511048 :             OTA
+3511055 :             OTA
+3511100 :             OTA
+3511162 :             OTA
+3511276 :             OTA
+3511344 :             OTA
+3511407 :             OTA
+3511500 :             OTA
+3511506 :             OTA
+3511507 :             OTA
+3511599 :             OTA
+3511690 :             OTA
+3511742 :             OTA
+3511771 :             OTA
+3511793 :             OTA
+3511841 :             OTA
+3511884 :             OTA
+3511935 :             OTA
+3511963 :             OTA
+3512080 :             OTA
+3512083 :             OTA
+3512107 :             OTA
+3512145 :             OTA
+3512157 :             OTA
+3512312 :             OTA
+3512392 :             OTA
+3512449 :             OTA
+3512460 :             OTA
+3512474 :             OTA
+3512486 :             OTA
+3512503 :             OTA
+3512543 :             OTA
+3512556 :             OTA
+3512557 :             OTA
+3512617 :             OTA
+3512654 :             OTA
+3512682 :             OTA
+3512686 :             OTA
+3512701 :             OTA
+3512861 :             OTA
+3512884 :             OTA
+3512935 :             OTA
+3512937 :             OTA
+3512951 :             OTA
+3512970 :             OTA
+3513032 :             OTA
+3513038 :             OTA
+3513052 :             OTA
+3513110 :             OTA
+3513199 :             OTA
+3513275 :             OTA
+3513369 :             OTA
+3513389 :             OTA
+3513556 :             OTA
+3513586 :             OTA
+3513600 :             OTA
+3513642 :             OTA
+3513651 :             OTA
+3513697 :             OTA
+3513702 :             OTA
+3513716 :             OTA
+3513726 :             OTA
+3513755 :             OTA
+3513789 :             OTA
+3513849 :             OTA
+3513853 :             OTA
+3513899 :             OTA
+3513959 :             OTA
+3513960 :             OTA
+3514056 :             OTA
+3514119 :             OTA
+3514125 :             OTA
+3514163 :             OTA
+3514181 :             OTA
+3514266 :             OTA
+3514299 :             OTA
+3514374 :             OTA
+3514454 :             OTA
+3514455 :             OTA
+3514457 :             OTA
+3514482 :             OTA
+3514491 :             OTA
+3600006 :             OTA
+3600030 :     IMA INA    
+3600051 :     IMA INA    
+3600114 :     IMA INA OTA
+3600151 :     IMA        
+3600192 :     IMA INA OTA
+3600199 :     IMA        
+3600225 :     IMA     OTA
+3600266 :     IMA        
+3600267 :     IMA INA    
+3600290 :     IMA INA OTA
+3600348 :             OTA
+3600432 : AFA IMA INA OTA
+3600498 : AFA IMA        
+3600495 :     IMA INA OTA
+3600499 :     IMA        
+3600541 :     IMA INA    
+3600593 :     IMA INA    
+3600635 :             OTA
+3600669 :             OTA
+3600762 :             OTA
+3600807 :             OTA
+3600850 :             OTA
+3600957 :             OTA
+3700021 :     IMA INA OTA
+3700023 :     IMA        
+3700029 :     IMA     OTA
+3900026 :     IMA INA OTA
+3900124 :     IMA INA    
+3900142 :     IMA     OTA
+3900349 :     IMA        
+3900612 :     IMA INA    
+3900642 :     IMA        
+3900170 :         INA    
+3900915 :         INA    
+3700083 :             OTA
+3900267 :             OTA
+3900610 :             OTA
+3900679 :             OTA
+3900761 :             OTA
+3900774 :             OTA
+3901001 :             OTA
+3901067 :             OTA
+3901217 :             OTA
+3901313 :             OTA
+3901368 :             OTA
+3901422 :             OTA
+3901431 :             OTA
+3901545 :             OTA
+3901552 :             OTA
+3901606 :             OTA
+3901630 :             OTA
+3901670 :             OTA
+3901700 :             OTA
+3901893 :             OTA
+4000010 :             OTA
+4000035 :             OTA
+4000105 :     IMA     OTA
+4000145 :             OTA
+4000236 :     IMA     OTA
+4000278 :             OTA
+4000416 :         INA OTA
+4000430 : AFA IMA INA OTA
+4000637 :             OTA
+4000740 :     IMA INA OTA
+4000887 : AFA IMA INA OTA
+4001243 :             OTA
+4001294 :             OTA
+4001299 :             OTA
+4001317 :             OTA
+4001377 :             OTA
+4001504 :             OTA
+4001611 :             OTA
+4001691 :             OTA
+4001728 :             OTA
+4001832 :             OTA
+4001860 :             OTA
+4001960 :             OTA
+4002164 :             OTA
+4002216 :             OTA
+4100022 : AFA IMA     OTA
+4100050 : AFA IMA INA    
+4100070 : AFA         OTA
+4100099 : AFA IMA INA OTA
+4100119 :     IMA        
+4100120 :             OTA
+4100159 : AFA IMA     OTA
+4100156 :         INA OTA
+4100165 :     IMA INA OTA
+4100180 :     IMA INA    
+4100200 :     IMA        
+4100231 :     IMA     OTA
+4100232 :     IMA     OTA
+4100252 :     IMA     OTA
+4100257 :     IMA        
+4100258 :             OTA
+4100264 :             OTA
+4100285 :     IMA     OTA
+4100291 :     IMA     OTA
+4100367 : AFA IMA     OTA
+4100371 : AFA IMA INA OTA
+4100374 : AFA IMA     OTA
+4100407 :     IMA INA    
+4100414 :     IMA     OTA
+4100429 : AFA IMA     OTA
+4100493 : AFA IMA INA    
+4100455 :             OTA
+4100469 :             OTA
+4100472 :     IMA     OTA
+4100509 :         INA OTA
+4100578 :     IMA INA OTA
+4100612 :     IMA INA OTA
+4100619 :     IMA INA    
+4100645 : AFA IMA     OTA
+4100686 :     IMA        
+4100775 :     IMA        
+4100801 :     IMA INA OTA
+4100836 :     IMA        
+4100853 :             OTA
+4100855 : AFA IMA INA    
+4100874 :     IMA        
+4100902 :     IMA     OTA
+4100916 :     IMA        
+4100917 :     IMA INA    
+4100926 :     IMA        
+4100973 :         INA    
+4101021 :     IMA     OTA
+4101126 :         INA    
+4101145 :     IMA        
+4101147 : AFA IMA INA OTA
+4101166 : AFA IMA        
+4101221 :     IMA     OTA
+4101232 :             OTA
+4101272 :         INA OTA
+4101288 : AFA IMA     OTA
+4101347 : AFA IMA     OTA
+4101349 :             OTA
+4101460 :     IMA        
+4101494 :     IMA INA    
+4101528 :     IMA INA OTA
+4101532 :             OTA
+4101565 :     IMA        
+4101694 : AFA IMA        
+4101646 :     IMA        
+4101657 :             OTA
+4101725 : AFA IMA INA    
+4101733 :     IMA        
+4101761 :         INA OTA
+4101788 : AFA IMA INA    
+4101793 :             OTA
+4101801 : AFA IMA     OTA
+4101958 : AFA IMA     OTA
+4101813 :     IMA     OTA
+4101840 :     IMA INA    
+4101862 :     IMA        
+4101863 :             OTA
+4101884 :     IMA     OTA
+4102000 : AFA IMA     OTA
+4102019 : AFA IMA     OTA
+4102010 :             OTA
+4102039 :             OTA
+4102071 :             OTA
+4102084 :         INA    
+4102130 : AFA IMA INA OTA
+4102149 : AFA IMA INA    
+4900529 : AFA IMA INA OTA
+4900583 : AFA IMA INA OTA
+4900613 : AFA IMA INA OTA
+4900966 : AFA IMA INA OTA
+4102359 :             OTA
+4102428 :             OTA
+4102480 :             OTA
+4102483 :             OTA
+4102602 :             OTA
+4102603 :             OTA
+4102606 :             OTA
+4102677 :             OTA
+4102736 :             OTA
+4102770 :             OTA
+4102806 :             OTA
+4102818 :             OTA
+4102864 :             OTA
+4103015 :             OTA
+4103120 :             OTA
+4103247 :             OTA
+4103262 :             OTA
+4103323 :             OTA
+4103363 :             OTA
+4103450 :             OTA
+4103518 :             OTA
+4103532 :             OTA
+4103675 :             OTA
+4103680 :             OTA
+4103726 :             OTA
+4103742 :             OTA
+4103850 :             OTA
+4103894 :             OTA
+4104006 :             OTA
+4104082 :             OTA
+4104113 :             OTA
+4104123 :             OTA
+4104221 :             OTA
+4104235 :             OTA
+4104246 :             OTA
+4104253 :             OTA
+4104286 :             OTA
+4104362 :             OTA
+4104365 :             OTA
+4104388 :             OTA
+4104438 :             OTA
+4104481 :             OTA
+4104524 :             OTA
+4104642 :             OTA
+4104646 :             OTA
+4104656 :             OTA
+4104677 :             OTA
+4104712 :             OTA
+4104743 :             OTA
+4104799 :             OTA
+4200177 :             OTA
+4200235 :     IMA     OTA
+4200237 :             OTA
+4200644 :             OTA
+4400091 :             OTA
+4400218 :     IMA     OTA
+4400374 :             OTA
+4400455 :             OTA
+4400494 :             OTA
+4400601 :             OTA
+4400790 :             OTA
+4401007 :             OTA
+4401111 :             OTA
+4401152 :             OTA
+4401281 :             OTA
+4401335 :             OTA
+4500015 :     IMA     OTA
+4500035 :             OTA
+4500088 :     IMA     OTA
+4900048 :     IMA        
+4900130 :     IMA     OTA
+4900182 :     IMA INA    
+4900196 :     IMA     OTA
+4900295 :     IMA INA OTA
+4900347 :     IMA        
+4900476 :     IMA INA    
+4900543 :     IMA     OTA
+4900566 :     IMA     OTA
+4900581 :     IMA        
+4900669 :     IMA INA OTA
+4900711 :     IMA INA OTA
+4900817 :     IMA     OTA
+4900936 :     IMA INA OTA
+4900988 :     IMA INA OTA
+4900189 :         INA OTA
+4900349 :         INA    
+4900515 :         INA    
+4900774 :         INA    
+4900856 :         INA OTA
+4600037 :             OTA
+4600233 :             OTA
+4600344 :             OTA
+4600359 :             OTA
+4800095 :             OTA
+4800167 :             OTA
+4900160 :             OTA
+4900207 :             OTA
+4900472 :             OTA
+4900545 :             OTA
+4900575 :             OTA
+4900621 :             OTA
+4900721 :             OTA
+4900796 :             OTA
+4900848 :             OTA
+4900857 :             OTA
+4900873 :             OTA
+4900993 :             OTA
+4901021 :             OTA
+4901034 :             OTA
+4901074 :             OTA
+4901080 :             OTA
+4901103 :             OTA
+4901112 :             OTA
+4901154 :             OTA
+4901177 :             OTA
+4901271 :             OTA
+4901303 :             OTA
+4901313 :             OTA
+4901379 :             OTA
+4901400 :             OTA
+4901437 :             OTA
+4901480 :             OTA
+4901499 :             OTA
+4901593 :             OTA
+4901604 :             OTA
+4901637 :             OTA
+4901666 :             OTA
+4901710 :             OTA
+4901793 :             OTA
+4901863 :             OTA
+4901958 :             OTA
+4901981 :             OTA
+4902069 :             OTA
+5000110 : AFA IMA INA OTA
+5000193 :     IMA INA OTA
+5000263 :     IMA     OTA
+5000387 :     IMA INA OTA
+5000421 :     IMA INA OTA
+5000436 : AFA     INA    
+5001136 :             OTA
+5001227 :             OTA
+5100068 :         INA OTA
+5100107 :     IMA INA    
+5100110 :     IMA INA    
+5100193 :     IMA INA OTA
+5100209 :     IMA        
+5100249 :     IMA INA    
+5100263 : AFA IMA     OTA
+5100277 :             OTA
+5100315 :     IMA INA    
+5100357 :     IMA INA    
+5100358 : AFA IMA INA OTA
+5100400 : AFA IMA INA OTA
+5100445 :         INA    
+5100531 :         INA    
+5100636 : AFA IMA     OTA
+5100902 : AFA IMA     OTA
+5100801 :     IMA INA OTA
+5101035 :     IMA INA    
+5101038 :     IMA INA OTA
+5101052 :     IMA INA    
+5101053 :     IMA INA    
+5101110 :     IMA INA    
+5101379 :     IMA INA    
+5101416 : AFA IMA INA OTA
+5101425 : AFA IMA INA    
+5101444 :         INA    
+5101492 :         INA    
+5101525 :             OTA
+5101543 :     IMA INA OTA
+5101625 :             OTA
+5101733 :             OTA
+5101825 :             OTA
+5101828 :             OTA
+5101860 :             OTA
+5101962 :             OTA
+5102017 :             OTA
+5102147 :             OTA
+5102432 :             OTA
+5102441 :             OTA
+5102535 :             OTA
+5102627 :             OTA
+5102641 :             OTA
+5102740 :             OTA
+5102846 :             OTA
+5102858 :             OTA
+5102969 :             OTA
+5103024 :             OTA
+5103060 :             OTA
+5103106 :             OTA
+5103128 :             OTA
+5103260 :             OTA
+5103268 :             OTA
+5103381 :             OTA
+5103422 :             OTA
+5103494 :             OTA
+5200053 : AFA IMA     OTA
+5200055 :         INA    
+5200074 :     IMA        
+5200132 :     IMA INA    
+5200142 :             OTA
+5200148 :     IMA     OTA
+5200172 :     IMA        
+5200210 :             OTA
+5200236 : AFA IMA INA OTA
+5200270 :         INA OTA
+5200277 : AFA IMA INA    
+5200297 :             OTA
+5200322 :     IMA        
+5200342 :             OTA
+5200345 :         INA OTA
+5200361 :     IMA     OTA
+5200380 :     IMA INA    
+5200441 :         INA    
+5200487 :     IMA     OTA
+5200501 :             OTA
+5200551 :             OTA
+5200580 :     IMA     OTA
+5200630 :     IMA     OTA
+5200635 :     IMA        
+5200693 :             OTA
+5200735 :             OTA
+5200760 :             OTA
+5200767 :             OTA
+5200809 :             OTA
+5200824 :             OTA
+5200995 :             OTA
+5200999 :             OTA
+5201028 :             OTA
+5201043 :             OTA
+5201057 :             OTA
+5201198 :             OTA
+5201222 :             OTA
+5201237 :             OTA
+5300041 :         INA OTA
+5300123 :         INA    
+5300153 :         INA    
+5300154 : AFA IMA INA OTA
+5300188 :     IMA     OTA
+5300219 :             OTA
+5300268 :     IMA     OTA
+5300303 :     IMA        
+5300415 :             OTA
+5300564 :             OTA
+5400029 :     IMA        
+5400046 :     IMA INA    
+5400091 :     IMA        
+5400162 :     IMA        
+5400172 :     IMA INA OTA
+5400180 : AFA IMA     OTA
+5400185 :     IMA        
+5400231 : AFA IMA     OTA
+5400253 : AFA IMA     OTA
+5400913 : AFA IMA INA    
+5400254 :     IMA        
+5400283 :     IMA     OTA
+5400336 :             OTA
+5400361 :     IMA     OTA
+5400410 :     IMA     OTA
+5400443 :         INA    
+5400507 :             OTA
+5400508 :     IMA     OTA
+5400543 :     IMA INA    
+5400591 :     IMA INA    
+5400569 :         INA OTA
+5400656 :     IMA     OTA
+5400677 :     IMA     OTA
+5400697 :             OTA
+5400721 :     IMA     OTA
+5400737 :     IMA INA OTA
+5400743 :     IMA        
+5400789 :     IMA     OTA
+5400832 :     IMA        
+5400859 :     IMA     OTA
+5400860 :     IMA     OTA
+5400975 :     IMA        
+5401047 :     IMA        
+5401105 :     IMA        
+5401115 :     IMA INA    
+5401124 :         INA    
+5401135 :     IMA     OTA
+5401139 :     IMA INA OTA
+5401153 :     IMA     OTA
+5401187 : AFA IMA     OTA
+5401196 :     IMA        
+5401205 :     IMA        
+5401222 :     IMA        
+5401227 :     IMA     OTA
+5401228 :     IMA     OTA
+5401242 :     IMA        
+5401246 :             OTA
+5401257 :     IMA INA    
+5401262 :     IMA     OTA
+5401297 : AFA IMA INA OTA
+5401291 :             OTA
+5401317 :     IMA     OTA
+5401349 : AFA IMA     OTA
+5401395 :     IMA INA OTA
+5401415 :             OTA
+5401447 :     IMA     OTA
+5401451 :     IMA        
+5401492 :     IMA        
+5401509 : AFA IMA        
+5401511 :     IMA INA    
+5401577 : AFA IMA     OTA
+5401644 : AFA IMA     OTA
+5401649 :     IMA INA OTA
+5401670 :             OTA
+5401672 :     IMA        
+5401719 :             OTA
+5401721 :     IMA INA OTA
+5401727 :     IMA INA OTA
+5401774 :     IMA     OTA
+5401818 :     IMA     OTA
+5401890 :     IMA INA    
+5401915 :     IMA INA OTA
+5401918 :     IMA     OTA
+5401947 :     IMA        
+5401985 :     IMA        
+5401919 :             OTA
+5401924 :             OTA
+5402027 :     IMA INA OTA
+5402070 :     IMA        
+5402107 :     IMA INA    
+5402112 :             OTA
+5402136 :     IMA        
+5402145 : AFA IMA        
+5402167 :         INA OTA
+5402219 :     IMA     OTA
+5402232 : AFA IMA     OTA
+5402301 :             OTA
+5402311 :             OTA
+5402445 :             OTA
+5402485 :             OTA
+5402591 :             OTA
+5402851 :             OTA
+5402857 :             OTA
+5402897 :             OTA
+5402909 :             OTA
+5403079 :             OTA
+5403134 :             OTA
+5403137 :             OTA
+5403211 :             OTA
+5403345 :             OTA
+5403383 :             OTA
+5403387 :             OTA
+5403388 :             OTA
+5403486 :             OTA
+5403560 :             OTA
+5403582 :             OTA
+5403587 :             OTA
+5403676 :             OTA
+5403706 :             OTA
+5403963 :             OTA
+5403982 :             OTA
+5404083 :             OTA
+5404092 :             OTA
+5404124 :             OTA
+5404325 :             OTA
+5404348 :             OTA
+5404382 :             OTA
+5404460 :             OTA
+5404551 :             OTA
+5404713 :             OTA
+5404730 :             OTA
+5404809 :             OTA
+5404850 :             OTA
+5404853 :             OTA
+5404893 :             OTA
+5404982 :             OTA
+5404992 :             OTA
+5404995 :             OTA
+5405048 :             OTA
+5405116 :             OTA
+5405123 :             OTA
+5405143 :             OTA
+5405145 :             OTA
+5405168 :             OTA
+5405189 :             OTA
